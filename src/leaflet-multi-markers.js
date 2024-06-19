@@ -33,12 +33,14 @@
 
     const MultiMarkers = LayerGroup.extend({
         options: {
-            iconExOptions: {},
+            iconExDict: undefined,
         },
 
-        initialize(layers, options) {
+        initialize(data, options) {
             Util.setOptions(this, options);
         },
+
+        addLayer
     });
 
     L.multiMarkers = function (options) {

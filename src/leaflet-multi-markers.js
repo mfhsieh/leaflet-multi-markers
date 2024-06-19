@@ -31,20 +31,34 @@
 })(function (L) {
     "use strict";
 
-    const MultiMarkers = LayerGroup.extend({
+    const MultiMarkers = L.LayerGroup.extend({
         options: {
-            iconExDict: undefined,
+            iconExFields: ["iconScale",
+                "iconHtml", "iconHtmlSize", "iconHtmlAnchor", "iconHtmlPopupAnchor", "iconFill", "iconOpacity", "iconStroke", "iconStrokeOpacity",
+                "backgroundHtml", "backgroundHtmlSize", "backgroundHtmlAnchor", "backgroundFill", "backgroundOpacity",
+                "contentHtml", "contentHtmlSize", "contentHtmlAnchor", "contentColor", "contentFontSize"],
+            iconExPredefined: undefined,
         },
 
         initialize(data, options) {
-            Util.setOptions(this, options);
+            L.Util.setOptions(this, options);
+            L.LayerGroup.prototype.initialize.call(this, data, options);
         },
 
-        addLayer
+        addLayer(elem) {
+            const iconExOptions = this.options.iconExPredefined && elem.iconExName in this.options.iconExPredefined ? this.options.iconExPredefined[elem.iconExName] : {};
+            const elemOptions = this.options.iconExFields.reduce((acc, key) => {
+                if (elem.hasOwnProperty(key)) acc[key] = elem[key];
+                return acc;
+            }, {});
+            const icon = new L.IconEx({ ...iconExOptions, ...elemOptions });
+            const marker = new L.Marker([elem.lat, elem.lng], { icon: icon });
+            L.LayerGroup.prototype.addLayer.call(this, marker);
+        },
     });
 
-    L.multiMarkers = function (options) {
-        return new MultiMarkers(options);
+    L.multiMarkers = function (data, options) {
+        return new MultiMarkers(data, options);
     };
 
     return MultiMarkers;

@@ -1,2 +1,4 @@
-# leaflet-multi-markers
+Leaflet.MultiMarkers
+=
+
 leaflet-multi-markers

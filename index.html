@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Leaflet.MultiMarkers - Demo (v0.0.1)</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.3/purify.min.js"></script>
+
+    <script src="dist/leaflet-zoomex.min.js"></script>
+    <link rel="stylesheet" href="examples/leaflet-zoomex.css" />
+
+    <script src="dist/leaflet-simple-locate.min.js"></script>
+    <link rel="stylesheet" href="examples/leaflet-simple-locate.css" />
+
+    <script src="dist/leaflet-iconex.min.js"></script>
+    <link rel="stylesheet" href="examples/leaflet-iconex.css" />
+
+    <script src="src/leaflet-multi-markers.js"></script>
+    <!-- <script src="dist/leaflet-multi-markers.min.js"></script> -->
+    <link rel="stylesheet" href="examples/demo.css" />
+
+    <style>
+        html {
+            font-size: 16px;
+        }
+
+        body {
+            padding: 0;
+            margin: 0;
+            overflow: hidden;
+            --primary-rgb: 25, 135, 84;
+        }
+
+        #map {
+            height: calc(var(--vh, 1vh) * 100);
+            width: 100vw;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+
+    <script>
+        "use strict";
+
+        function set_viewport() {
+            document.documentElement.style.setProperty("--vh", window.innerHeight * 0.01 + "px");
+        }
+
+        set_viewport();
+        window.addEventListener("resize", set_viewport);
+
+        const map = new L.Map("map", {
+            center: [25.0487037, 121.5143449],
+            zoom: 13,
+            zoomControl: false,
+        });
+
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+            minZoom: 7,
+            maxZoom: 19,
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>',
+        }).addTo(map);
+
+        new L.Control.ZoomEx({
+            className: "leaflet-zoomex-rightcenter",
+        }).addTo(map);
+
+        new L.Control.SimpleLocate({
+            position: "topleft",
+            className: "button-locate",
+        }).addTo(map);
+
+    </script>
+</body>
+
+</html>

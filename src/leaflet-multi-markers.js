@@ -38,22 +38,76 @@
                 "backgroundHtml", "backgroundHtmlSize", "backgroundHtmlAnchor", "backgroundFill", "backgroundOpacity",
                 "contentHtml", "contentHtmlSize", "contentHtmlAnchor", "contentColor", "contentFontSize"],
             iconExPredefined: undefined,
+            defaultContent: "",
+            getStaticContent: undefined,
+            fetchDynamicContent: undefined,
         },
 
         initialize(data, options) {
             L.Util.setOptions(this, options);
-            L.LayerGroup.prototype.initialize.call(this, data, options);
+
+            this._layers = {};
+            if (data) data.forEach((elem) => this.addMarker(elem));
         },
 
-        addLayer(elem) {
-            const iconExOptions = this.options.iconExPredefined && elem.iconExName in this.options.iconExPredefined ? this.options.iconExPredefined[elem.iconExName] : {};
-            const elemOptions = this.options.iconExFields.reduce((acc, key) => {
+        addMarker(elem) {
+            const predefined = this.options.iconExPredefined && elem.hasOwnProperty("iconExName") && elem.iconExName in this.options.iconExPredefined ? this.options.iconExPredefined[elem.iconExName] : {};
+            const iconOptions = this.options.iconExFields.reduce((acc, key) => {
                 if (elem.hasOwnProperty(key)) acc[key] = elem[key];
                 return acc;
-            }, {});
-            const icon = new L.IconEx({ ...iconExOptions, ...elemOptions });
-            const marker = new L.Marker([elem.lat, elem.lng], { icon: icon });
-            L.LayerGroup.prototype.addLayer.call(this, marker);
+            }, { ...predefined });
+            const marker = new L.Marker([elem.lat, elem.lng], { icon: new L.IconEx(iconOptions) });
+            marker.elem = elem;
+
+            if ((this.options.defaultContent || this.options.getStaticContent) && !this.options.fetchDynamicContent) {
+                const id = undefined;
+                const content = this.options.getStaticContent ? this._getStaticContentWrapper(id) : this._defaultContentWrapper(id);
+                marker.bindPopup(content);
+            } else if (this.options.fetchDynamicContent) {
+                marker.bindPopup(() => {
+                    const id = this._getRandomDivId();
+                    const content = this.options.getStaticContent ? this._getStaticContentWrapper(id)(marker) : this._defaultContentWrapper(id);
+                    const timer = setInterval(() => {
+                        const div = document.getElementById(`${id}`);
+                        if (div) {
+                            clearInterval(timer);
+                            this._fetchDynamicContentWrapper(marker, div);
+                        }
+                    }, 1);
+                    return content;
+                });
+            }
+
+            return L.LayerGroup.prototype.addLayer.call(this, marker);
+        },
+
+        _defaultContentWrapper: function (id) {
+            return `<div class="leaflet-multi-markers-popup"${id ? ` id="${id}"` : ""}>${this.options.defaultContent}</div>`;
+        },
+
+        _getStaticContentWrapper: function (id) {
+            return (marker) => {
+                const content = this.options.getStaticContent(marker);
+                return `<div class="leaflet-multi-markers-popup"${id ? ` id="${id}"` : ""}>${content}</div>`;
+            };
+        },
+
+        _fetchDynamicContentWrapper: function (marker, div) {
+            let content;
+            this.options.fetchDynamicContent(marker)
+                .then((html) => {
+                    content = html;
+                }).catch((err) => {
+                    content = err;
+                }).finally(() => {
+                    div.outerHTML = `<div class="leaflet-multi-markers-popup">${content}</div>`;
+                    marker.getPopup()._updateLayout();
+                    marker.getPopup()._updatePosition();
+                });
+        },
+
+        _getRandomDivId: function () {
+            return `leaflet-multi-markers-${Date.now()}-${Math.round(Math.random() * 1000)}`;
         },
     });
 

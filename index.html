@@ -126,18 +126,18 @@
                             contentColor: "#fff",
                         },
                     },
-                    // getStaticContent: (marker) => {
-                    //     return `<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`;
-                    // },
-                    defaultContent: `<div>Simulate "Data Fetching"</div><div style="display: flex; align-items: center; justify-content: center; height: 100px"><div class="loader"></div></div>`,
-                    fetchDynamicContent: (marker) => {
-                        return new Promise((resolve, reject) => {
-                            setTimeout(() => {
-                                if (Math.random() < .8) resolve(`<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`);
-                                else reject(new Error('Failed!'));
-                            }, 1000);
-                        });
+                    getStaticContent: (marker) => {
+                        return `<pre><code>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</code></pre>`;
                     },
+                    // defaultContent: `<div>Simulate "Data Fetching"</div><div style="display: flex; align-items: center; justify-content: center; height: 100px"><div class="loader"></div></div>`,
+                    // fetchDynamicContent: (marker) => {
+                    //     return new Promise((resolve, reject) => {
+                    //         setTimeout(() => {
+                    //             if (Math.random() < .8) resolve(`<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`);
+                    //             else reject(new Error('Failed!'));
+                    //         }, 1000);
+                    //     });
+                    // },
                 }).addTo(map);
             },
         });

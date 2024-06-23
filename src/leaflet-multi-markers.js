@@ -41,13 +41,16 @@
             defaultContent: "",
             getStaticContent: undefined,
             fetchDynamicContent: undefined,
+            onClick: undefined,
         },
 
         initialize(data, options) {
             L.Util.setOptions(this, options);
 
             this._layers = {};
-            if (data) data.forEach((elem) => this.addMarker(elem));
+            if (data) data.forEach((elem) => {
+                this.addMarker(elem);
+            });
         },
 
         addMarker(elem) {

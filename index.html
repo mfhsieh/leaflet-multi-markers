@@ -40,6 +40,7 @@
 
         .leaflet-multi-markers-popup {
             color: rgba(var(--primary-rgb), 1);
+            font-size: 1rem;
         }
     </style>
 </head>
@@ -126,18 +127,18 @@
                             contentColor: "#fff",
                         },
                     },
-                    getStaticContent: (marker) => {
-                        return `<pre><code>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</code></pre>`;
-                    },
-                    // defaultContent: `<div>Simulate "Data Fetching"</div><div style="display: flex; align-items: center; justify-content: center; height: 100px"><div class="loader"></div></div>`,
-                    // fetchDynamicContent: (marker) => {
-                    //     return new Promise((resolve, reject) => {
-                    //         setTimeout(() => {
-                    //             if (Math.random() < .8) resolve(`<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`);
-                    //             else reject(new Error('Failed!'));
-                    //         }, 1000);
-                    //     });
+                    // getStaticContent: (marker) => {
+                    //     return `<pre><code>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</code></pre>`;
                     // },
+                    defaultContent: `<div>Simulate "Data Fetching"</div><div style="display: flex; align-items: center; justify-content: center; height: 6rem"><div class="loader"></div></div>`,
+                    fetchDynamicContent: (marker) => {
+                        return new Promise((resolve, reject) => {
+                            setTimeout(() => {
+                                if (Math.random() < .75) resolve(`<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`);
+                                else reject(new Error('Simulate "Data Fetching" Failed!'));
+                            }, 1000);
+                        });
+                    },
                 }).addTo(map);
             },
         });

@@ -76,7 +76,7 @@
                     const id = this._getRandomDivId();
                     const content = this.options.getStaticContent ? this._getStaticContentWrapper(id)(marker) : this._defaultContentWrapper(id);
                     const timer = setInterval(() => {
-                        const div = document.getElementById(`${id}`);
+                        const div = document.getElementById(id);
                         if (div) {
                             clearInterval(timer);
                             this._fetchDynamicContentWrapper(marker, div);

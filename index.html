@@ -94,7 +94,9 @@
             },
         };
 
-        const papa = Papa.parse("examples/youbike.csv", { header: true, dynamicTyping: false, skipEmptyLines: true, delimiter: "," });
+        const papa = Papa.parse("https://mfhsieh.github.io//leaflet-multi-markers/examples/youbike.csv", {
+            download: true, header: true, dynamicTyping: false, skipEmptyLines: true, delimiter: ",",
+        });
         console.log(papa);
 
         const markers = new L.MultiMarkers([

@@ -76,6 +76,7 @@
                 new L.MultiMarkers(results.data, {
                     iconExPredefined: {
                         default: {
+                            iconStrokeOpacity: .5,
                             contentFontSize: 16,
                         },
                         A: {
@@ -103,7 +104,7 @@
                         C: {
                             iconHtml: `
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-	<rect stroke-width="1" width="23" height="23" x="0.5" y="0.5" rx="4" ry="4" />
+	<rect stroke-width="1" width="23" height="23" x=".5" y=".5" rx="4" ry="4" />
 </svg>`,
                             iconHtmlSize: [24, 24],
                             iconHtmlAnchor: [12, 24],
@@ -125,18 +126,18 @@
                             contentColor: "#fff",
                         },
                     },
-                    getStaticContent: (marker) => {
-                        return `<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`;
-                    },
-                    // defaultContent: `<div>Simulate "Data Fetching"</div><div style="display: flex; align-items: center; justify-content: center; height: 100px"><div class="loader"></div></div>`,
-                    // fetchDynamicContent: (marker) => {
-                    //     return new Promise((resolve, reject) => {
-                    //         setTimeout(() => {
-                    //             resolve(`<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`);
-                    //             // reject(new Error('Simulate "Data Fetching" Failed!'));
-                    //         }, 1000);
-                    //     });
+                    // getStaticContent: (marker) => {
+                    //     return `<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`;
                     // },
+                    defaultContent: `<div>Simulate "Data Fetching"</div><div style="display: flex; align-items: center; justify-content: center; height: 100px"><div class="loader"></div></div>`,
+                    fetchDynamicContent: (marker) => {
+                        return new Promise((resolve, reject) => {
+                            setTimeout(() => {
+                                if (Math.random() < .8) resolve(`<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`);
+                                else reject(new Error('Failed!'));
+                            }, 1000);
+                        });
+                    },
                 }).addTo(map);
             },
         });

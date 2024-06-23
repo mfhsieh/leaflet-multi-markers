@@ -7,15 +7,17 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
 
-    <!-- leaflet -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
     <script src="dist/leaflet-iconex.min.js"></script>
-    <link rel="stylesheet" href="examples/leaflet-iconex.css" />
+    <link rel="stylesheet" href="dist/leaflet-iconex.css" />
 
     <script src="src/leaflet-multi-markers.js"></script>
     <!-- <script src="dist/leaflet-multi-markers.min.js"></script> -->
+    <link rel="stylesheet" href="examples/demo.css" />
 
     <style>
         html {
@@ -35,56 +37,7 @@
         }
 
         .leaflet-multi-markers-popup {
-            color: rgba(19, 87, 54, 1);
-        }
-
-        /* https://cssloaders.github.io/ */
-        .loader {
-            /* color: #fff; */
-            font-size: 10px;
-            width: 1em;
-            height: 1em;
-            border-radius: 50%;
-            position: relative;
-            text-indent: -9999em;
-            animation: mulShdSpin 1.3s infinite linear;
-            transform: translateZ(0);
-        }
-
-        @keyframes mulShdSpin {
-
-            0%,
-            100% {
-                box-shadow: 0 -3em 0 0.2em, 2em -2em 0 0em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 0;
-            }
-
-            12.5% {
-                box-shadow: 0 -3em 0 0, 2em -2em 0 0.2em, 3em 0 0 0, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
-            }
-
-            25% {
-                box-shadow: 0 -3em 0 -0.5em, 2em -2em 0 0, 3em 0 0 0.2em, 2em 2em 0 0, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
-            }
-
-            37.5% {
-                box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 0, 2em 2em 0 0.2em, 0 3em 0 0em, -2em 2em 0 -1em, -3em 0em 0 -1em, -2em -2em 0 -1em;
-            }
-
-            50% {
-                box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 0em, 0 3em 0 0.2em, -2em 2em 0 0, -3em 0em 0 -1em, -2em -2em 0 -1em;
-            }
-
-            62.5% {
-                box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 0, -2em 2em 0 0.2em, -3em 0 0 0, -2em -2em 0 -1em;
-            }
-
-            75% {
-                box-shadow: 0em -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0.2em, -2em -2em 0 0;
-            }
-
-            87.5% {
-                box-shadow: 0em -3em 0 0, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0, -2em -2em 0 0.2em;
-            }
+            color: rgba(var(--primary-rgb), 1);
         }
     </style>
 </head>
@@ -140,6 +93,9 @@
                 contentFontSize: 18,
             },
         };
+
+        const papa = Papa.parse("examples/youbike.csv", { header: true, dynamicTyping: false, skipEmptyLines: true, delimiter: "," });
+        console.log(papa);
 
         const markers = new L.MultiMarkers([
             {

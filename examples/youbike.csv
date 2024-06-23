@@ -1,0 +1,1430 @@
+lat,lng,name,location,mday,total,bikes,parks
+25.02605,121.54360,MRT Technology Bldg. Sta.,"No.235, Sec. 2, Fuxing S. Rd.",2024-06-23 08:51:20,28,3,25
+25.02565,121.54357,"No.273, Sec. 2, Fuxing S. Rd.","No.273, Sec. 2, Fuxing S. Rd. (West)",2024-06-23 08:50:30,21,2,19
+25.02429,121.54124,NTUE Experiment Elementary School (East),"No. 7, Ln. 96, Sec. 2, Heping E. Rd",2024-06-23 08:31:20,16,10,6
+25.02351,121.54282,Heping Park (East),"No. 33, Ln. 118, Sec. 2, Heping E. Rd",2024-06-23 08:50:31,11,6,5
+25.02153,121.54299,Xinhai Fuxing Rd. Intersection (Northwest),"No. 368, Sec. 2, Fuxing S. Rd.",2024-06-23 08:44:20,16,15,1
+25.02429,121.54328,"No. 280, Sec. 2, Fuxing S. Rd.","No. 280, Sec. 2, Fuxing S. Rd.",2024-06-23 08:17:34,11,4,7
+25.02253,121.54326,"Ln. 340, Sec. 2, Fuxing S. Rd.","No. 342, Sec. 2, Fuxing S. Rd.",2024-06-23 08:42:19,11,2,9
+25.02112,121.53407,"No. 52, Sec. 3, Xinsheng S. Rd.","No. 52, Sec. 3, Xinsheng S. Rd.",2024-06-23 08:50:31,17,6,11
+25.01976,121.53384,"No. 66, Sec. 3, Xinsheng S. Rd.","No. 66, Sec. 3, Xinsheng S. Rd. (East)",2024-06-23 08:43:20,16,2,14
+25.01894,121.53361,"No. 82, Sec. 3, Xinsheng S. Rd.","No. 82, Sec. 3, Xinsheng S. Rd.",2024-06-23 08:50:31,20,18,2
+25.01986,121.52982,"No. 30, Sec. 1, Xinhai Rd.","No. 30, Sec. 1, Xinhai Rd.",2024-06-23 08:42:20,8,2,6
+25.02543,121.54332,Heping Fuxing Rd. Intersection (Northwest),"No. 236, Sec. 2, Fuxing S. Rd.",2024-06-23 08:48:20,9,4,5
+25.01717,121.53202,"No. 311, Sec. 3, Roosevelt Rd.","No. 311, Sec. 3, Roosevelt Rd.",2024-06-23 08:49:15,11,1,10
+25.02035,121.54645,Taipei Da-an Sports Center Parking lot,"No. 28, Ln. 76, Dunnan St.",2024-06-23 08:45:22,14,11,3
+25.01927,121.52989,"No. 245, Sec. 3, Roosevelt Rd.","No. 245, Sec. 3, Roosevelt Rd.",2024-06-23 08:43:20,8,4,4
+25.01895,121.53156,Wenzhou Park,"No. 11, Ln. 283, Sec. 3, Roosevelt Rd.",2024-06-23 08:48:20,5,4,1
+25.02446,121.54671,Heping Wolong St. Intersection,"No. 1, Wolong St.",2024-06-23 08:48:20,15,13,2
+25.02093,121.53310,Wenzhou Parking Lot,"Ln. 54, Sec. 3, Xinsheng S. Rd. & Wenzhou St. Intersection",2024-06-03 14:08:52,5,0,5
+25.01385,121.53549,Taipei Municipal MingChuan Elementary School(Side Gate),"No. 21, Sec. 4, Roosevelt Rd.",2024-06-23 08:49:20,7,3,4
+25.01491,121.53438,MRT Gongguan Sta. (Exit 2),MRT Gongguan Sta. (Exit 2),2024-06-23 08:51:20,99,22,41
+25.01244,121.53661,2nd Student Activity Center,"No. 107, Sec. 4, Roosevelt Rd.(Southwest)",2024-06-23 08:45:22,25,6,19
+25.01451,121.54142,NTUST(Main Gate),"No. 43, Sec. 4, Keelung Rd.",2024-06-23 08:51:20,50,6,44
+25.01295,121.53973,NTUST(Side Gate),"Ln. 73, Sec. 4, Keelung Rd. Intersection",2024-06-23 08:46:20,99,45,54
+25.01137,121.54062,Gongguan Park,"Ln. 113, Sec. 4, Roosevelt Rd. & Ln. 41, Sec. 4, Keelung Rd. Intersection",2024-06-23 08:50:30,15,2,13
+25.01182,121.54165,NTUST(Back Gate),"Aly. 68, Ln. 41, Sec. 4, Keelung Rd.",2024-06-23 08:48:20,39,11,28
+25.01426,121.54382,NTU Cancer Center,"No. 57, Ln. 155, Sec. 3, Keelung Rd.(West)",2024-06-23 08:49:20,20,13,7
+25.01234,121.54503,NTU Environment Research Building,"Fanglan Rd & Ln. 155, Sec. 3, Keelung Rd. Intersection",2024-06-23 08:28:19,15,2,13
+25.01360,121.54656,NTU Yonglin Biomedical Engineering Hall,"No. 51, Fanglan Rd.(Northwest)",2024-06-23 08:45:22,34,15,19
+25.01537,121.54698,NTU 7th Men's Dorm,"Ln. 80, Changxing St. Intersection(West)",2024-06-23 08:50:31,20,6,14
+25.01637,121.54535,NTU 1st Men's Dorm,"No. 50, Changxing St.(Northwest)",2024-06-23 08:51:20,61,39,22
+25.01664,121.54520,NTU 6th Men's Dorm,"No. 31, Changxing St.",2024-06-23 08:48:20,46,25,21
+25.01576,121.54291,NTU Veterinary Hospital,"Ln. 155, Sec. 3, Keelung Rd. Intersection",2024-06-23 08:40:31,18,15,3
+25.01787,121.54760,NTU Civil Engineering Research Building,"No. 188, Sec. 3, Xinhai Rd.",2024-06-23 08:13:19,24,7,17
+25.02032,121.54497,NTU Wan Tsai Research Hall,NTU Wan Tsai Research Hall,2024-06-23 08:43:20,20,3,17
+25.02076,121.54432,NTU Guo - Ching Building,"No. 30, Sec. 3, Xinhai Rd.(Northwest)",2024-06-23 08:48:20,20,5,15
+25.02101,121.54284,NTU College of social Sciences Building,Xinhai Fuxing Rd. Intersection (Southwest),2024-06-23 08:36:20,27,4,23
+25.02104,121.54081,NTU Language Training & Testing Center,NTU Language Training & Testing Center(North),2024-06-23 08:49:20,28,27,1
+25.02220,121.53626,NTU Sports Center Car Park,NTU Sports Center(North),2024-06-23 08:35:21,25,23,2
+25.02218,121.53474,Xinhai Xinsheng Rd. Intersection (Southeast),Xinhai Xinsheng Rd. Intersection (Southeast),2024-06-23 08:42:19,41,36,5
+25.01727,121.54471,Keelung Changxing Rd. Intersection(East),Keelung Changxing Rd. Intersection(East),2024-06-23 08:48:20,15,12,3
+25.02286,121.54662,NTUE Side Gate(South),"No. 51, Dunnan St.",2024-06-23 08:48:20,25,10,15
+25.02164,121.54704,Heping Experiment Elementary School (Northeast),"No. 73, Dunnan St.",2024-06-23 07:42:20,13,9,4
+25.02147,121.54407,Daan District Public Health Center,"No. 15, Sec. 1, Xinhai Rd.",2024-06-23 08:47:20,15,11,4
+25.02193,121.53165,Xinhai Taishun St. Intersection,Xinhai Taishun St. Intersection (Southeast),2024-06-23 08:48:20,20,14,6
+25.01890,121.55013,Fanghe Junior High School,"No. 170, Wolong St.",2024-06-23 08:40:31,37,20,17
+25.01856,121.55558,Wolong Leye St. Intersection,"No. 234-2, Wolong St.",2024-06-23 08:44:20,41,25,16
+25.01623,121.55037,Wolong Park,"No. 223, Sec. 3, Xinhai Rd. (West)",2024-06-23 08:42:20,14,9,5
+25.02100,121.55211,Jiaxing Park,"No. 3, Ln. 101, Leye St. (Northwest)",2024-06-23 08:50:31,44,19,25
+25.01810,121.55929,MRT Linguang Sta. (Exit 2),"No. 420, Sec. 3, Heping E. Rd. (Northeast)",2024-06-23 08:51:20,50,48,2
+25.02397,121.55266,MRT Liuzhangli Sta.,"No. 410, Sec. 3, Heping E. Rd.",2024-06-23 08:50:31,64,58,6
+25.02705,121.55551,George Vocational High School of Taipei,"No. 166, Sec. 2, Keelung Rd.",2024-06-23 08:51:20,24,8,16
+25.02694,121.55325,Fazhi Park,"No. 189, Tonghua St. (West)",2024-06-23 08:43:15,15,14,0
+25.02021,121.52942,MRT Taipower Building Sta. (Exit 2),"Sec. 1, Xinhai Rd & Sec. 3, Roosevelt Rd (North)",2024-06-23 08:49:20,18,10,8
+25.02669,121.52529,"Sec. 1, Heping E. Rd & Sec. 2, Jinshan S. Rd Intersection","Sec. 1, Heping E. Rd & Sec. 2, Jinshan S. Rd Intersection (Southwest)",2024-06-23 08:51:20,45,15,30
+25.02638,121.52971,"Sec. 1, Heping E. Rd & Longquan St. Intersection","Sec. 1, Heping E. Rd & Longquan St. Intersection (Southwest)",2024-06-23 08:50:31,34,16,18
+25.02621,121.53171,"Sec. 1, Heping E. Rd & Taishun St  Intersection","Sec. 1, Heping E. Rd & Taishun St  Intersection (Southeast)",2024-06-23 08:50:30,9,6,3
+25.02660,121.52973,National Taiwan Normal University (library),"No. 129, Sec. 1, Heping E. Rd.",2024-06-23 08:51:20,40,26,12
+25.02760,121.52217,MRT Guting Sta. (Exit 6),"No. 41, Sec. 2, Roosevelt Rd",2024-06-23 08:51:20,60,35,25
+25.02715,121.52293,MRT Guting Sta. (Exit 5),"No. 19, Sec. 1, Heping E. Rd",2024-06-23 08:50:31,14,2,12
+25.02895,121.53790,Taipei Public library,"Sec. 2, Jianguo S. Rd & Ln. 151, Sec. 2, Jianguo S. Rd (Under Bridge)",2024-06-23 08:50:31,51,7,44
+25.02657,121.53515,"Sec. 2, Xinsheng S. Rd & Sec. 2, Heping E. Rd Intersection","Sec. 2, Xinsheng S. Rd & Sec. 2, Heping E. Rd (Northeast)",2024-06-23 08:51:20,51,35,15
+25.02606,121.53738,"Sec. 2, Jianguo S. Rd & Sec. 2, Heping E. Rd Intersection","Sec. 2, Jianguo S. Rd & Sec. 2, Heping E. Rd. (Northwest)",2024-06-23 08:51:20,50,40,10
+25.02984,121.53107,Jinhua Park,"No. 249, Jinhua St. (Opposite)",2024-06-23 08:46:20,44,6,38
+25.03383,121.52815,MRT Dongmen Sta. (Exit 3),"No. 128, Sec. 2, Xinyi Rd.",2024-06-23 08:50:31,15,7,8
+25.03519,121.52450,Jin'ou Girls High School,"Sec. 2, Xinyi Rd. & Sec. 2, Hangzhou S. Rd. (Southeast)",2024-06-23 08:51:20,12,12,0
+25.03325,121.52436,Jinhang Park,"Ln. 21, Aiguo E. Rd. & Ln. 25, Sec. 2, Hangzhou S. Rd. Intersection (Southeast)",2024-06-23 08:31:20,20,15,5
+25.03164,121.52661,Aiguo & Jinshan Rd. Intersection,"Aiguo E. Rd. & Sec. 2, Hangzhou S. Rd. Intersection (Southwest)",2024-06-23 08:48:20,43,21,22
+25.02370,121.54899,"Ln. 293, Sec. 2, Dunhua S. Rd (South)","Ln. 293, Sec. 2, Dunhua S. Rd. (South)",2024-06-23 08:46:14,14,14,0
+25.02215,121.54839,"Sec. 2, Dunhua S. Rd & Sec. 2, Keelung Rd Intersection","No. 218, Sec. 2, Dunhua S. Rd",2024-06-23 08:50:31,38,14,24
+25.02721,121.54988,"Ln. 181, Sec. 2, Anhe Rd","No185, Sec. 2, Anhe Rd",2024-06-23 08:43:19,17,3,14
+25.02952,121.55406,"Linjiang St night market (Ln. 101, Tonghua St)","No. 101, Tonghua St.",2024-06-23 08:49:20,30,24,4
+25.02931,121.55721,Linjiang St night market (Keelung Rd),"No. 108, Sec. 2, Keelung Rd.",2024-06-23 08:48:15,29,1,28
+25.04177,121.53833,National Taipei University of Technology (Everlight Building),"No. 81, Sec. 3, Zhongxiao E. Rd.",2024-06-23 08:44:20,45,26,19
+25.04003,121.53299,"Ln. 119, Sec. 1, Xinsheng S. Rd Intersection","No. 113, Ln. 119, Sec. 1, Xinsheng S. Rd.",2024-06-23 08:51:20,33,14,19
+25.03753,121.53523,Xing'an Elementary School (Ren'ai Rd),"No. 22, Sec. 3, Ren'ai Rd.",2024-06-23 08:50:31,16,4,12
+25.03534,121.53540,Minrong Park,"No. 45, Ln. 304, Sec. 1, Jianguo S. Rd. (South)",2024-06-23 08:48:20,15,9,6
+25.03701,121.54348,"Ln. 340, Sec. 1, Fuxing S. Rd Intersection","Sec. 1, Fuxing S. Rd & Aly. 45, Ln. 147, Sec. 3, Xinyi Rd Intersection.",2024-06-23 08:50:31,50,27,23
+25.03935,121.53828,"Sec. 1, Jianguo S. Rd & Sec. 3, Jinan Rd Intersection","Sec. 1, Jianguo S. Rd & Sec. 3, Jinan Rd Intersection. (Southeast)",2024-06-23 08:45:22,54,11,43
+25.04035,121.54360,MRT Zhongxiao Fuxing Sta (Exit 2),"Sec. 1, Fuxing S. R & Aly. 13, Ln. 123, Sec. 3, Ren'ai Rd. (Northwest)",2024-06-23 08:51:20,43,14,29
+25.03320,121.54390,MRT Da’an Sta (Exit 4),"No. 6, Sec. 4, Xinyi Rd.",2024-06-23 08:51:20,13,9,4
+25.03358,121.54141,MRT Da’an Sta (Exit 2),"No. 143, Sec. 3, Xinyi Rd.",2024-06-23 08:33:20,22,8,14
+25.03317,121.54639,"Sec. 4, Xinyi Rd & Da’an Rd Intersection (Xinwei Building)","No. 74, Sec. 4, Xinyi Rd.",2024-06-23 08:50:31,18,14,4
+25.04092,121.54825,Long Men Plaza,"Sec. 1, Dunhua S. Rd & Ln. 236, Sec. 1, Dunhua S. Rd Intersection.",2024-06-23 08:50:31,70,10,60
+25.03754,121.55285,"Sec. 4, Ren'ai Rd & Sec. 1, Anhe Rd Intersection","No. 74, Sec. 4, Ren'ai Rd.",2024-06-23 08:48:20,33,3,30
+25.03333,121.54977,"Sec. 4, Xinyi Rd & Sec. 1, Dunhua S. Rd Intersection","No. 155, Sec. 4, Xinyi Rd",2024-06-23 08:49:20,52,26,25
+25.03706,121.55166,Ren Ai Junior High School,"No. 75, Sec. 1, Anhe Rd.",2024-06-23 08:08:20,25,2,23
+25.03304,121.55171,MRT Xinyi Anhe Sta (Exit 2),"No. 188, Sec. 4, Xinyi Rd",2024-06-23 08:46:20,24,3,20
+25.04463,121.53665,Bade Traditional Market,"No. 170, Sec. 3, Civic Blvd.",2024-06-23 08:49:20,30,18,12
+25.04448,121.53946,Changlong Park,"No. 206, Sec. 3, Civic Blvd. (West)",2024-06-23 08:40:31,16,9,7
+25.03332,121.53435,MRT Daan Park Sta. (Exit 2),MRT Daan Park Sta. (Exit 2) (West),2024-06-23 08:50:31,69,52,17
+25.03318,121.55725,"Sec. 4,Xinyi Rd & Yanji St Intersection","No. 353, Sec. 4, Xinyi Rd.",2024-06-23 08:47:20,15,3,12
+25.03513,121.55610,"Guangxin Park (Ln. 456, Guangfu S. Rd)","No. 249, Yanji St.",2024-06-23 08:51:20,25,15,10
+25.03910,121.55690,Qiao An Dixia Parking (Exit 2) (Southeast),"No. 5, Ln. 290, Guangfu S. Rd",2024-06-23 08:42:19,20,2,18
+25.03635,121.53833,"Ln. 279, Sec. 1, Jianguo S. Rd Intersection","No. 275, Sec. 1, Jianguo S. Rd.",2024-06-23 08:50:31,32,2,30
+25.04091,121.53295,MRT Zhongxiao Xinsheng Sta. (Exit 6),"No. 101, Sec. 1, Xinsheng S. Rd.",2024-06-23 08:50:30,15,5,10
+25.04239,121.53324,MRT Zhongxiao Xinsheng Sta. (Exit 4),Zhongxiao & Xinsheng S. Rd Intersection. (North),2024-06-23 08:50:31,34,3,31
+25.03126,121.54339,Daan Vocational High School,"No. 52, Sec. 2, Fuxing S. Rd.",2024-06-23 08:48:20,23,16,7
+25.04189,121.53376,MRT Zhongxiao Xinsheng Sta. (Exit 3),"Sec. 3, Zhongxiao E. Rd & Ln. 10, Sec. 3, Zhongxiao E. Rd Intersection",2024-06-23 08:47:20,23,16,7
+25.04201,121.54612,Liugong Park,"Aly. 4, Ln. 49, Sec. 4, Zhongxiao E. Rd./Da'an Rd. Intersection",2024-03-30 08:59:14,20,0,20
+25.04405,121.54860,Dunhua S. Rd. & Civic Blvd. Intersection,"No. 158, Sec. 1, Dunhua S. Rd.",2024-06-23 08:50:31,23,2,21
+25.03336,121.53640,MRT Daan Park Sta. (Exit 5),MRT Daan Park Sta. (Exit 5) (East),2024-06-23 08:50:25,15,15,0
+25.03280,121.53746,Xinyi Rd. & Jianguo Rd. Intersection,"Sec. 2, Jianguo S Rd. & Sec. 3, Xinyi Rd. Intersection (Southwest)",2024-06-23 08:51:20,52,48,4
+25.03569,121.54510,Dongfeng Park,"No. 24, Dongfeng St.",2024-06-23 08:50:31,19,15,4
+25.03473,121.54767,Dean Park,"No. 6, Ln. 66, Siwei Rd.",2024-06-23 08:50:31,14,6,8
+25.04262,121.54443,MRT Zhongxiao Fuxing Sta (Exit 5),"No. 3, Ln. 135, Sec. 1, Fuxing S. Rd. (Opposite)",2024-01-14 04:19:10,41,0,41
+25.04153,121.55240,MRT Zhongxiao Dunhua Sta. (Exit 2),"No. 221, Sec. 4, Zhongxiao E. Rd.",2024-06-23 08:49:20,17,7,9
+25.04159,121.54937,MRT Zhongxiao Dunhua Sta. (Exit 7),"No. 143, Sec. 4, Zhongxiao E. Rd.",2024-06-23 08:47:19,18,2,16
+25.04427,121.55291,"Ln. 223, Sec. 4, Zhongxiao E. Rd. Intersection","No. 77, Ln. 223, Sec. 4, Zhongxiao E. Rd. (North)",2024-06-23 07:54:19,25,6,19
+25.02979,121.54053,"Ln. 208, Rui'an St.","No. 39, Ln. 208, Rui'an St. (Opposite)",2024-06-23 08:50:25,15,1,14
+25.02770,121.55132,"Ln. 21, Leli Rd. Intersection","No. 25, Leli Rd.",2024-06-23 08:50:25,17,14,1
+25.02469,121.54459,MRT Technology Building Station,"No. 134, Sec. 2, Heping E. Rd.",2024-06-23 08:50:31,54,46,8
+25.04122,121.55745,MRT S.Y.S Memorial Hall Stataion(Exit 2.),"Sec. 4, Jhongsiao E. Rd. & Guangfu S. Rd. Intersection (Southwest)",2024-06-23 08:46:20,45,15,30
+25.03756,121.54587,Taipei City Hospital Renai Branch,"Sec. 4, Ren'ai Rd. & Sec. 1, Da'an Rd. Intersection (Southwest)",2024-06-23 08:49:20,36,9,27
+25.03305,121.55378,MRT Xinyi Anhe Sta.(Exit.4),"No. 252, Sec. 4, Sinyi Rd.",2024-06-23 08:51:20,49,44,5
+25.02681,121.54668,Chengong Public Housing,"Ln. 1, Sec. 3, Heping E. Rd. & Ln. 198, Sihwei Rd. Intersection (Northwest)",2024-06-23 08:51:20,36,21,15
+25.03748,121.55564,Renai & Yanji Intersection,"No. 376, Sec. 4, Ren'ai Rd.",2024-06-23 08:51:20,33,8,25
+25.03331,121.55265,MRT Xinyi Anhe Sta.(Exit.1),"No. 225, Sec. 4, Sinyi Rd.",2024-06-23 08:50:31,33,16,17
+25.02870,121.54904,"Ln. 103,Sec. 2,Dunhua S. Rd.","No. 99, Sec. 2, Dunhua S. Rd.",2024-06-23 08:51:20,24,12,12
+25.02861,121.54336,"Ln. 128, Sec. 2, Fuxing S. Rd.","No. 142-1, Sec. 2, Fusing S. Rd.",2024-06-23 08:51:20,37,12,25
+25.02575,121.53770,Heping E. Rd. & Jianguo S. Rd. Intersection,Heping E. Rd. & Jianguo S. Rd. Intersection (North),2024-06-23 08:51:20,17,7,10
+25.01223,121.54788,Fanglan,"No. 148, Ln. 155, Sec. 3, Keelung Rd.",2024-06-23 08:27:20,16,15,1
+25.04311,121.54313,"Ln. 126, Sec. 1, Fuxing S. Rd.","No. 1, Ln. 126, Sec. 1, Fuxing S. Rd.",2024-06-23 08:51:20,15,1,14
+25.03363,121.52962,MRT Dongmen Sta. (Exit 5),"No. 178, Sec. 2, Xinyi Rd.",2024-06-23 08:49:20,28,19,9
+25.03609,121.54709,"Ln. 48, Sec. 4, Ren'ai Rd.","Ln. 48, Sec. 4, Ren'ai Rd. & Dongfeng St. Intersection (North)",2024-06-23 08:45:22,11,5,6
+25.01551,121.53374,MRT Gongguan Sta.(Exit.3),MRT Gongguan Sta.(Exit.3)(West),2024-06-23 08:51:20,99,35,62
+25.04196,121.53653,NTUT(EE),"No. 100, Sec. 3, Zhongxiao E. Rd. (Opposite)",2024-06-23 08:43:20,16,11,4
+25.04176,121.54027,"Ln. 217, Sec. 3, Zhongxiao E. Rd.","No. 229-1, Sec. 3, Zhongxiao E. Rd.",2024-06-06 15:05:16,34,0,34
+25.01744,121.53334,"Ln. 94, Sec. 3, Xinsheng S. Rd. Intersection","No. 94, Sec. 3, Xinsheng S. Rd.",2024-06-23 08:49:20,15,8,7
+25.02267,121.53410,Xinhai Rd. & Xinsheng S. Rd. Intersection,"Sec. 1, Xinhai Rd. & Sec. 3, Xinsheng S. Rd. Intersection (Northwest)",2024-06-23 08:50:25,12,12,0
+25.03479,121.54376,MRT Da’an Sta. (Exit 6),"No. 303, Sec. 1, Fuxing S. Rd.",2024-06-23 08:49:20,19,10,9
+25.01783,121.55224,"Ln. 195, Wolong St.","Wolong St. / Ln. 195, Wolong St. Intersection (South)",2024-06-23 08:48:20,14,5,9
+25.01727,121.54904,"Ln. 157, Sec. 3, Xinhai Rd.","Sec. 3, Xinhai Rd. & Ln. 157, Sec. 3, Xinhai Rd. Intersection (Northwest)",2024-06-23 08:41:19,19,16,3
+25.02039,121.54853,Wolong St. & Xinyi Rd. Intersection,"Wolong St. & Sec. 2, Xinyi Rd. Intersection (Northeast)",2024-06-23 08:49:20,16,10,6
+25.02347,121.54108,Dunchin Park,"No. 8-1, Ln. 96, Sec. 2, Heping E. Rd.",2024-06-23 08:51:20,26,18,7
+25.02054,121.54561,Taipei Daan Sports Center,"No. 55, Sec. 3, Xinhai Rd.",2024-06-23 08:45:22,33,26,7
+25.02444,121.54908,Heping Rd. & Dunhua Rd. Intersection,"Sec. 3, Heping E. Rd. & Sec. 2, Dunhua S. Rd. Intersection (East)",2024-06-23 08:47:20,36,6,30
+25.01705,121.54435,Keelung Rd. & Changxing St. Intersection,Keelung Rd. & Changxing St. Intersection (Southeast),2024-06-23 08:51:20,43,35,8
+25.03762,121.55009,"Ln. 122, Sec. 4, Ren'ai Rd.","No. 188, Sec. 4, Ren'ai Rd.",2024-06-23 08:47:20,16,8,8
+25.04464,121.54944,Civic Blvd. & Dunhua Rd. Intersection,"No. 111, Sec. 1, Dunhua S. Rd.",2024-06-23 07:29:13,15,0,15
+25.04172,121.54541,"Ln. 49, Sec. 4, Zhongxiao E. Rd.","No. 55, Sec. 4, Zhongxiao E. Rd.",2024-06-23 08:47:20,15,3,12
+25.04472,121.54401,Civic Blvd. & Fuxing Rd. Intersection (Southeast),"Sec. 4, Civic Blvd. & Sec. 1, Fuxing S. Rd. Intersection (Southeast)",2024-06-23 08:50:25,16,1,15
+25.02598,121.53454,Heping Rd. & Xinsheng S. Rd. Intersection (Southwest),"No. 2, Sec. 3, Xinsheng S. Rd.",2024-06-23 08:46:20,13,6,7
+25.02535,121.55101,Quanan Park,"No. 16, Ln. 227, Sec. 2, Anhe Rd. (Opposite)",2024-06-23 08:43:20,16,7,9
+25.03333,121.53968,"Ln. 134, Sec. 3, Xinyi Rd.","Sec. 3, Xinyi Rd. & Ln. 134, Sec. 3, Xinyi Rd. Intersection",2024-06-23 08:49:20,19,6,13
+25.03715,121.54936,Renai Dunnan Traffic Cir (Southeast),"No. 110, Sec. 4, Ren'ai Rd.",2024-06-23 08:46:20,16,5,11
+25.02709,121.54902,Chenggong Public House,"No. 201, Sec. 2, Dunhua S. Rd.",2024-06-23 08:49:20,33,16,17
+25.03710,121.54839,Institute of Diplomacy and International Affairs,"No. 280, Sec. 1, Dunhua S. Rd.",2024-06-23 08:15:15,17,0,17
+25.02821,121.54864,"Ln. 170, Siwei Rd.","No. 92, Sec. 2, Dunhua S. Rd. (Opposite)",2024-06-23 08:41:20,22,16,6
+25.03328,121.54250,MRT Da’an Sta. (Exit 3),"No. 184, Sec. 3, Xinyi Rd.",2024-06-23 08:51:20,46,41,5
+25.02055,121.52855,MRT Taipower Building Sta. (Exit 2)_1,"No. 201, Sec. 3, Roosevelt Rd.",2024-06-23 08:49:20,38,18,20
+25.03459,121.55164,"Ln. 199, Sec. 4, Xinyi Rd.","Ln. 199, Sec. 4, Xinyi Rd. & Ln. 90, Sec. 1, Anhe Rd. Intersection",2024-06-23 08:46:19,15,3,12
+25.02101,121.54153,NTU Information Building,"Sec. 2, Xinhai Rd.(NTU Language Center)",2024-06-23 08:48:20,40,8,32
+25.03002,121.54893,"Ln. 81, Sec. 2, Dunhua S. Rd.","Sec. 2, Dunhua S. Rd. & Ln. 81, Sec. 2, Dunhua S. Rd. Intersection (Northwest)",2024-06-23 08:44:20,40,16,24
+25.03054,121.52466,Former Taipei Prison Office,"No. 78, Jinhua St. (Opposite)",2024-06-23 08:49:20,23,3,20
+25.04205,121.55657,MRT S.Y.S Memorial Hall Sta. (Exit 1),"No. 26, Ln. 200, Guangfu S. Rd. (East)",2024-06-23 08:47:20,25,23,2
+25.04010,121.54122,Huai Sheng Junior High School,"No. 30, Ln. 248, Sec. 3, Zhongxiao E. Rd.",2024-06-23 08:47:20,15,13,2
+25.03827,121.54802,Renai Dunnan Traffic Cir (Northwest),"No. 85, Sec. 4, Ren'ai Rd",2024-06-23 08:43:20,20,9,11
+25.02974,121.55146,Lih Jen International Private Elementary and Middle School,"Sec. 2, Anhe Rd. & Ln. 81, Sec. 2, Dunhua S. Rd. Intersection (Southwest)",2024-06-23 08:49:20,17,11,6
+25.02268,121.53608,"Ln. 18, Sec. 2, Heping E. Rd.","No. 43, Sec. 2, Xinhai Rd.",2024-06-23 08:50:31,24,13,11
+25.03303,121.54372,MRT Da’an Sta. (Exit 5),"Sec. 2, Fuxing S. Rd. & Sec. 4, Xinyi Rd. Intersection (Southeast)",2024-06-23 08:50:31,26,26,0
+25.02832,121.55592,Linjiang Park,"No. 33, Ln. 143, Tonghua St. (Opposite)",2024-06-23 08:50:31,23,9,14
+25.01027,121.53998,"Aly. 19, Ln. 113, Sec. 4, Roosevelt Rd.","No. 84, Ln. 119, Sec. 4, Roosevelt Rd. (Opposite)",2024-06-23 08:12:20,14,9,5
+25.04132,121.55393,"Ln. 248, Sec. 4, Zhongxiao E. Rd.","No. 230, Sec. 4, Zhongxiao E. Rd.",2024-06-23 08:47:19,15,2,13
+25.03795,121.55466,Ren'ai Rd. & Yanji St. Intersection (Northwest),"No. 363, Sec. 4, Ren'ai Rd.",2024-06-23 08:47:20,18,3,15
+25.02528,121.55224,"Ln. 101, Leli Rd.","No. 97, Leli Rd.",2024-06-23 08:51:20,13,5,6
+25.02208,121.52678,Roosevelt Rd. & Pucheng St. Intersection,"No. 117, Sec. 3, Roosevelt Rd.",2024-06-23 08:49:20,15,7,8
+25.03551,121.54951,"Ln. 295, Sec. 1, Dunhua S. Rd.","No. 1, Ln. 295, Sec. 1, Dunhua S. Rd.",2024-06-23 08:39:19,18,6,12
+25.02942,121.55294,"Ln. 108, Tong'an St.","No. 129, Tong'an St. (Opposite)",2024-06-23 08:47:20,28,13,15
+25.04061,121.54389,Zhongxiao E. Rd. & Fuxing S. Rd. Intersection (Southeast),"No. 191, Sec. 1, Fuxing S. Rd.",2024-06-23 08:45:22,28,1,27
+25.03813,121.54631,Ren'ai Rd. & Da'an Rd. Intersection (Northeast),"No. 37, Sec. 4, Ren'ai Rd.",2024-06-23 08:48:20,21,2,19
+25.02476,121.52803,National Taiwan Normal University (Pucheng St.),"No. 1, Pucheng St. (Opposite)",2024-06-23 08:49:20,15,6,9
+25.03056,121.55252,"Ln. 69, Sec. 2, Anhe Rd.","Sec. 2, Anhe Rd. & Ln. 69, Sec. 2, Anhe Rd. Intersection",2024-06-23 08:48:20,20,5,15
+25.02014,121.55084,DaAn Elementary School,"Aly. 11, Ln. 131, Wolong St. & Ln. 108, Leye St. Intersection",2024-06-23 08:49:20,25,3,22
+25.02572,121.52359,MRT Guting Sta. (Exit 3),"No. 81-1, Sec. 2, Roosevelt Rd.",2024-06-23 08:50:25,15,0,15
+25.04152,121.54414,MRT Zhongxiao Fuxing Sta. (Exit 3),"No. 48, Sec. 4, ZhongXiao E. Rd.",2024-06-23 08:51:20,37,4,33
+25.02468,121.53965,"Ln. 90, Sec. 2, HePing E. Rd.","Ln. 90, Sec. 2, HePing E. Rd. & Aly. 5, Ln. 76, Sec. 2, HePing E. Rd. Intersection",2024-06-23 08:24:20,20,9,11
+25.03601,121.55742,"Ln. 420, GuangFu S. Rd.","No. 438, GuangFu S. Rd.",2024-06-23 08:39:19,16,13,3
+25.01870,121.55688,FuYang St. & WoLong St. Intersection,"No. 129, FuYang St.",2024-06-23 08:47:19,18,11,6
+25.03817,121.54400,RenAi Rd. & FuXing Rd. Intersection,"No. 1, Sec. 4, RenAi Rd.",2024-06-23 08:49:20,25,3,22
+25.03804,121.55042,RenAi DunNan Traffic Circle  (East),"No. 121, Sec. 4, RenAi Rd.",2024-06-23 08:17:29,16,0,16
+25.02187,121.52912,GuFeng Park,"No. 7, Ln. 93, LongQuan St. (Opposite)",2024-06-23 08:50:30,15,6,9
+25.03276,121.54907,DunHua S. Rd. & XinYi Rd. Intersection (Southeast),"No. 9, Sec. 2, DunHua S. Rd.",2024-06-23 08:50:31,20,7,13
+25.04159,121.53780,ZhongXiao E. Rd. & JianGuo S. Rd. Intersection (Southeast),"No. 132, Sec. 3, ZhongXiao E. Rd.",2024-06-23 08:50:31,21,19,2
+25.02324,121.52618,"Ln. 26, PuCheng St.","No. 8, Ln. 26, PuCheng St. (Opposite)",2024-06-23 08:41:20,17,15,2
+25.01524,121.55121,Qingfeng Activity Center,"Sec. 3, XinHai Rd. (Qingfeng Activity Center)",2024-06-23 08:49:20,25,18,7
+25.07894,121.51121,Yanping Public Housing,"No. 1-1, Sec. 5, Yanping N. Rd. (Opposite)",2024-06-23 08:50:31,30,16,14
+25.07410,121.51349,Taipei Public Library DaTong Branch,"No. 318, Sec. 3, Chongqing N Rd.",2024-06-23 08:43:20,20,1,19
+25.07717,121.50934,Hechang Temple,"No. 371, Sec. 2, Huanhe N. Rd.",2024-06-23 07:38:19,15,10,4
+25.06864,121.51070,Minzu Rd. & Yanping Rd. Intersection,"No. 123, Sec. 3, Yanping N. Rd. (North)",2024-06-23 08:51:20,36,14,17
+25.07158,121.51368,Chongqing Rd. & Jiuquan St. Intersection,"No. 260, Sec. 3, Chongqing N. Rd.",2024-06-23 08:46:20,44,21,23
+25.06647,121.51650,Shude Park,"No. 12, Ln. 85, Dalong St. (Opposite)",2024-06-23 08:44:15,14,13,1
+25.05601,121.50895,Chen Tian-lai Residence,"No. 112, Xining N. Rd.",2024-06-23 08:42:20,16,11,5
+25.07378,121.51583,Taipei Confucius Temple,"No. 61, Hami St. Intersection (Opposite)",2024-06-23 08:45:21,37,1,36
+25.07133,121.52024,MRT Yuanshan Sta. (Exit 1),"No. 235, Jiuquan St.",2024-06-23 08:50:31,44,34,8
+25.07220,121.51057,Jiuquan St. & Yanping Rd. Intersection,"No. 235, Jiuquan St.",2024-06-23 08:46:20,41,17,24
+25.07567,121.51862,Chongqing Junior High School,"No. 19, Dunhuang Rd.",2024-06-23 08:21:20,49,4,45
+25.07598,121.51409,"Ln. 383, Sec. 3, Chongqing N Rd. Intersection","Dunhuang Rd. & Ln. 383, Sec. 3, Chongqing N Rd. Intersection",2024-06-23 07:59:20,25,17,8
+25.07447,121.52003,DigiBlock Taipei,"No. 287, Sec. 3, Chengde Rd.",2024-06-23 08:49:15,24,23,1
+25.06326,121.51099,Minquan Rd. & Yanping Rd. Intersection (Northwest),"No. 239, Minquan W. Rd.",2024-06-23 08:34:14,20,20,0
+25.06327,121.50943,Minquan Rd. & Dihua St. Intersection,"Minquan W. Rd. & Sec. 1, Dihua St. Intersection (Under Bridge)",2024-06-23 08:36:20,47,31,16
+25.05915,121.51033,Dadaocheng Park,"No. 7, Ln. 1, Anxi St. (Opposite)",2024-06-23 08:50:31,35,26,9
+25.06853,121.51729,Dalong Old People Housing,"No. 82, Minzu W. Rd.",2024-06-23 08:36:19,14,5,9
+25.07080,121.51826,Dalongdong Social Housing,"No. 210, Sec. 3, Chengde Rd.",2024-06-23 08:28:14,20,0,20
+25.06314,121.51308,MRT Daqiaotou Sta. (Exit 2),MRT Daqiaotou Sta. (Exit 2) (West),2024-06-23 08:48:20,57,33,24
+25.06325,121.51162,MRT Daqiaotou Sta. (Exit 1A),"No. 237, Minquan W Rd.",2024-06-23 08:36:15,18,17,1
+25.06174,121.51969,MRT Minquan W. Rd. Sta. (Exit 2),MRT Minquan W. Rd. Sta. (West),2024-06-23 08:50:31,25,1,24
+25.05826,121.52063,MRT Shuanglian Sta. (Exit 2),"No. 22, Wanquan St. (Opposite)",2024-06-23 08:49:20,41,10,31
+25.04991,121.51040,MRT Beimen. (Exit 3),Tacheng St. & Zhengzhou Rd. Intersection (Southwest),2024-06-23 08:51:20,62,31,31
+25.05592,121.51367,Zhaoyang Park,"No. 62-1, Sec. 2, Chongqing N. Rd.",2024-06-23 08:50:31,10,0,9
+25.05454,121.51052,Yongle Market,"No. 103, Ln. 233, Nanjing W. Rd.",2024-06-23 08:50:30,38,4,34
+25.07049,121.51596,Dalong Park,"No. 217, Dalong St. (Opposite)",2024-06-23 08:48:20,18,2,16
+25.06054,121.51338,Chongcing Rd. & Liangjhou St. Intersection,"No. 180, Sec. 2, Chongcing N. Rd.",2024-06-23 08:44:20,13,2,11
+25.06867,121.51993,Linear Park - Yuanshan,Minzu Rd. & Minzu W. Rd. Intersection (Northwest),2024-06-23 08:43:20,14,2,12
+25.05369,121.51418,Yuanhuan,"No. 128, Sec. 1, Chongcing N. Rd.",2024-06-23 08:51:20,31,2,29
+25.06853,121.51359,Chongcing Rd. & Minzu Rd. Intersection,"No. 162, Sec. 3, Chongcing N. Rd.",2024-06-23 08:38:20,26,15,11
+25.06407,121.51822,"Ln. 8, Sec. 3, Chengde Rd. Intersection","No. 14, Sec. 3, Chengde Rd.",2024-06-23 08:16:18,21,7,14
+25.04925,121.51468,Tai Yuan Guang Chang,"No. 23, Zhengzhou Rd.",2024-06-23 08:50:31,31,24,4
+25.06594,121.51078,Guoshun Park,"No. 117, Changji St.",2024-06-23 08:44:20,20,2,18
+25.05205,121.50818,Taipei City Hospital Zhongxing Branch,"No. 299, Chang'an W. Rd. (Opposite)",2024-06-23 08:45:22,40,2,38
+25.06011,121.51729,Chiang Wei-shui Memorial Park,Jinxi St. & Xingcheng St. Intersection (Southwest),2024-06-23 08:50:31,36,23,12
+25.07491,121.51150,Dihua Recreational Sports Park,"No. 200, Sec. 4, Yanping N. (South)",2024-06-23 08:28:19,15,14,1
+25.06496,121.51608,Taipei DaTong Sports Center,"No. 51, Dalong St.",2024-06-23 08:51:20,16,16,0
+25.05918,121.51373,Chongqing Rd. & Bao'an St. Intersection,"No. 171, Sec. 2, Chongqing N. Rd.",2024-06-23 08:50:31,20,13,7
+25.05662,121.50783,Dadaocheng Wharf,Dadaocheng Evacuation Gate,2024-06-23 08:47:20,52,22,26
+25.05805,121.51353,Guisui Park,"Sec. 2, Chongqing N. Rd. & Guisui St. Intersection (South)",2024-06-23 08:38:19,20,7,13
+25.06322,121.51440,Min-Quan Junior High School (Minquan W. Rd.),Minquan W. Rd. & Lanzhou St. Intersection (West),2024-06-23 08:45:21,17,4,13
+25.06247,121.51839,Chengde Rd. & Minquan Rd. Intersection,"No. 239, Sec. 2, Chengde Rd.",2024-06-23 08:48:15,17,1,16
+25.05366,121.51638,Nanjing Rd. & Taiyuan Rd. Intersection,Nanjing W. Rd. & Taiyuan Rd. Intersection (East),2024-06-23 08:47:20,18,10,8
+25.05756,121.51828,Chengde Rd. & Minsheng W. Rd. Intersection,"No. 137, Sec. 2, Chengde Rd.",2024-06-23 08:47:20,11,4,7
+25.05646,121.51698,Taiyuan Rd. & Wuyuan Rd. Intersection,Taiyuan Rd. & Wuyuan Rd. Intersection (Southeast),2024-06-23 08:33:20,32,16,16
+25.04937,121.51914,Taipei Bus Station (Huayin St.),"No. 45, Huayin St. (Opposite)",2024-06-23 08:33:19,20,5,15
+25.06129,121.52021,MRT Minquan W. Rd. Sta. (Exit 3),"No. 37, Ln. 70, Minquan W. Rd. (Opposite)",2024-06-23 08:35:21,50,15,35
+25.05296,121.51938,MRT Zhongshan Sta. (Exit 5),"No. 57, Nanjing W. Rd.",2024-06-23 08:50:25,15,1,14
+25.05150,121.51398,Chongqing Rd. & Chang'an Rd. Intersection,"No. 244, Chang'an W. Rd. (Sec. 1, Chongqing N. Rd.)",2024-06-23 08:45:22,15,5,10
+25.06587,121.51847,Chengde Rd. & Changji St. Intersection,"No. 83, Sec. 3, Chengde Rd.",2024-06-23 08:51:20,18,10,5
+25.05658,121.50826,Datong Plaza No.16,"Sec. 1, Huanhe N. Rd. & Minsheng W. Rd. Intersection (Southeast)",2024-06-23 08:46:20,14,11,3
+25.07182,121.51929,MRT Yuanshan Sta. (Exit 2),"Sec. 3, Chengde Rd. & Kulun St. Intersection (Southeast)",2024-06-23 08:50:31,37,28,8
+25.06669,121.51615,Shude Park,"Dalong St. & Ln. 85, Dalong St. Intersection (Northeast)",2024-06-23 08:47:19,40,36,4
+25.04879,121.51626,Chengde Rd. & Zhengzhou Rd.  Intersection,"Sec. 1, Chengde Rd. & Zhengzhou Rd. (Under  Elevated Bridge)",2024-06-23 08:47:19,38,37,1
+25.06036,121.51996,ChengYuan High School,"Jinxi St. & Ln. 52, Jinxi St. Intersection (Northeast)",2024-06-23 08:38:20,14,5,9
+25.06157,121.51683,ShuangLian Elementary School,"No. 25, Aly. 4, Ln. 102, Minquan W. Rd. (Opposite)",2024-06-23 08:38:20,20,12,8
+25.06095,121.51428,Ningxia Rd. & Liangzhou St. Intersection,"No. 141, Ningxia Rd. (Opposite)",2024-06-23 08:34:19,15,9,6
+25.06092,121.51126,Yanping Rd. & Liangzhou St. Intersection,"Sec. 2, Yanping N. Rd. & Liangzhou St. Intersection",2024-06-23 08:47:20,14,7,7
+25.06603,121.51481,Datong District Admin. Center,"No. 63, Changji St.",2024-06-23 08:49:20,16,14,1
+25.07473,121.51451,Dalong Market,"No. 13, Ln. 335, Sec. 3, Chongqing N. Rd. (Opposite)",2024-06-23 08:50:31,15,11,4
+25.07563,121.51815,"Aly. 19, Ln. 23, Hami St.","No. 78, Dunhuang Rd.",2024-06-23 08:40:31,23,18,5
+25.06289,121.51544,"Ln. 160, MinQuan W. Rd.","Ln. 160, MinQuan W. Rd. (West)",2024-06-23 08:47:20,15,11,4
+25.08128,121.51784,Jiantan Pumping Station,"Ln. 325, Tonghe St. Intersection",2024-06-23 08:33:20,17,6,6
+25.08914,121.51542,Tonghe E. St. & Danan Rd. Intersection,"No. 192, Sec.1, Tonghe E. St. (Side)",2024-06-23 08:31:19,15,8,7
+25.08695,121.51901,Fugang St. Parking Lot,"No. 175, Hualing St. (Side)",2024-06-23 08:46:20,22,20,2
+25.08521,121.51918,Bailing Elementary School,"No. 104, Qiangang St. (Opposite)",2024-06-23 08:50:31,50,35,15
+25.10277,121.53357,"Ln. 165, Yusheng St. Intersection","Ln. 165, Yusheng St. Intersection (Northwest)",2024-06-23 08:37:20,25,10,15
+25.12011,121.53357,Tianhe Park,"No.30, Ln.69, Tianmu E. Rd. (Front)",2024-06-23 08:51:20,16,1,15
+25.11856,121.52964,Zhongshan & Tianmu Rd. Intersection,"No. 3-55, Tianmu W. Rd. (Front)",2024-06-23 08:51:20,29,25,4
+25.11633,121.53414,Tianmu Sports Park,"Ln. 207, Sec.2, Zhongcheng Rd. (Southeast)",2024-06-23 08:50:30,50,12,37
+25.11356,121.53718,University of Taipei (Tianmu Campus),"No. 276-280, Shidong Rd. (Opposite)",2024-06-23 08:49:20,48,8,40
+25.11127,121.53244,"Ln. 53, Sec. 2, Zhongcheng Rd.","No.7, Ln. 53, Sec. 2, Zhongcheng Rd. (Opposite)",2024-06-23 08:51:20,18,16,2
+25.11341,121.53195,Taipei Tianmu Baseball Stadium,"No. 122, Sec. 2, Zhongcheng Rd. (Opposite)",2024-06-23 08:51:20,26,21,5
+25.12011,121.52652,Tianmu N. Rd. & Tianyu St. Intersection,"No. 33, Tianmu N. Rd.",2024-06-23 08:45:22,15,1,14
+25.11184,121.52589,Lanxing Park,"Sec. 6, Zhongshan N. Rd. & Shidong Rd. Intersection (Northwest)",2024-06-23 08:46:19,48,36,12
+25.08009,121.51895,Mingsheng Park,"No. 71, Ln. 6, Sec.4, Chengde Rd. (Opposite)",2024-06-23 08:41:20,14,7,5
+25.07994,121.52426,Chientan Youth Activity Center,"Sec. 4, Zhongshan N. Rd. & Tonghe St. Intersection",2024-06-23 08:50:31,23,19,4
+25.10813,121.53040,"No. 173, Sec. 1, Zhongcheng Rd. Intersection","No. 177, Sec. 1, Zhongcheng Rd.",2024-06-23 08:39:18,11,2,7
+25.10540,121.52950,Yunong Elementary School,"No. 127, Sec. 1, Zhongcheng Rd.",2024-06-23 08:49:20,14,1,13
+25.10399,121.52593,Zhongcheng Park,"No. 18, Sec. 1, Zhongcheng Rd.",2024-06-23 08:40:31,25,4,21
+25.10155,121.52832,Zhishan Pumping Plant,"No. 47, Sec. 2, Zhicheng Rd.",2024-06-23 08:48:20,46,36,10
+25.10186,121.53083,"Ln. 305, Sec. 1, Zhicheng Rd. Intersection","No. 303, Sec. 1, Zhicheng Rd.",2024-06-23 08:43:20,21,6,15
+25.08302,121.52069,Hualing Park,"No. 76, Jiantan Rd. (Opposite)",2024-06-23 08:50:31,32,20,12
+25.08671,121.52096,Qiangang Park(Fude Temple),"Ln. 134, Hougang/Hougang St. Intersection",2024-06-23 08:40:31,18,10,6
+25.08828,121.51985,"Ln. 185, Hualing St.","No. 188, Hualing St.",2024-06-23 08:50:31,12,9,3
+25.08480,121.52125,Qiangang Park (Qiangang St),"No. 48, Qiangang St. (Opposite)",2024-06-23 08:48:20,19,16,3
+25.08736,121.52272,Bailing High School,"Ln. 179, Sec. 4, Chengde Rd. Intersection",2024-06-23 08:44:19,15,6,9
+25.10364,121.52219,MRT Zhishan Station,"No. 151, Fuhua Rd. (Opposite)",2024-06-23 08:51:20,21,10,11
+25.10208,121.51979,Taiwan Traditional Theatre Center,"No. 751, Wenlin Rd. (South)",2024-06-23 08:24:20,25,6,18
+25.08388,121.52535,MRT Jianta Station,"No.18, Jihe Rd. (Opposite)",2024-06-23 08:39:18,49,7,42
+25.08403,121.52490,Jiantan Rd & Jihe Rd Intersection,Jiantan Rd. & Jihe Rd. Intersection,2024-06-23 08:48:20,66,21,41
+25.09667,121.53206,Zhicheng Park,Jhongjheng Rd & Yunong Rd. Intersection (Northwest),2024-06-23 08:39:19,23,15,8
+25.09896,121.53025,Fu-Lin Elementary School,"No. 50, Fuzhi Rd. (Opposite)",2024-06-23 08:27:21,14,4,10
+25.09651,121.52753,"Sec. 5, Jhongshan N. Rd & Jhongjheng Rd Intersection","No. 609, Sec. 5, Jhongshan N. Rd.",2024-06-23 08:28:19,19,8,11
+25.08911,121.52154,Shihlin Sport Center,"No. 1, Shishang Rd.",2024-06-23 08:51:20,30,14,16
+25.09164,121.51706,Yangming High School,"No. 510, Zhongzheng Rd.",2024-06-23 08:36:19,36,14,22
+25.09631,121.51449,Taipei Children's Amusement Park,"No. 55, Sec. 5, Chengde Rd.",2024-06-23 08:51:20,23,13,10
+25.09598,121.51776,Taipei Astronomical Museum,"No. 363, Jihe Rd.",2024-06-23 08:51:20,46,19,27
+25.09619,121.52230,Huasheng Park,"No. 17, Huasheng St. (South)",2024-06-23 08:49:20,35,15,11
+25.09419,121.52833,Fulin Park,"Sec. 5, Zhongshan N. Rd. (Northwest)",2024-06-23 08:38:19,25,5,20
+25.09343,121.52642,MRT Shilin Station (Exit 2),"No. 2, Aly. 44, Ln. 505, Sec. 5, Zhongshan N. Rd. (Opposite)",2024-06-23 08:50:31,30,7,23
+25.08771,121.52677,Ming Chuan University Taipei Campus,"No. 250, Sec. 5, Zhongshan N. Rd.",2024-06-23 08:33:20,26,13,13
+25.09435,121.51702,Shilin High School of Commerce,"No. 150, Shishang Rd.",2024-06-23 08:31:35,26,3,23
+25.10991,121.53039,Lanya Park,"Ln. 40, Sec. 2, Zhongcheng Rd. Intersection (Southwest)",2024-06-23 08:43:20,38,16,22
+25.10455,121.53195,Taipei City Hospital Yangming Branch,"No. 105, Yusheng St. (South)",2024-06-23 07:59:20,25,12,13
+25.10225,121.52286,MRT Zhishan Sta. (Exit 1),"No. 114, Fuhua Rd. (Opposite)",2024-06-23 08:49:20,36,14,22
+25.10143,121.53585,Zhicheng Park,"No. 80, Sec. 1, Zhicheng Rd. (Opposite)",2024-06-23 08:33:19,20,18,2
+25.10113,121.55159,Indigenous People's Park,"No. 280, Sec. 2, Zhishan Rd. (Opposite)",2024-06-23 07:38:19,21,6,15
+25.09106,121.51502,"Ln. 10, Sec. 2, Tonghe E. St. Intersection","No. 5, Sec. 2, Tonghe E. St. (Opposite)",2024-06-23 08:47:20,15,7,8
+25.09755,121.54036,Meilin New Village,"Sec. 1, Zhishan Rd & Ln. 138, Sec. 1, Zhishan Rd (North)",2024-06-23 08:34:19,15,2,13
+25.08678,121.50948,Yanping N. Rd & Zhongzheng Rd Intersection,"No. 403, Zhongzheng Rd",2024-06-23 08:44:20,30,24,6
+25.08505,121.51166,"Ln. 190, Sec. 4, Chongqing N. Rd Intersection","No. 198, Sec. 4, Chongqing N. Rd",2024-06-23 08:31:35,13,7,6
+25.08393,121.51169,"Sec. 4, Chongqing N. Rd.& Hudong St Intersection","No. 177, Sec. 4, Chongqing N. Rd.",2024-06-23 08:13:19,15,10,5
+25.08254,121.50750,Hulu Elementary School,"Sec. 3, Huanhe N. Rd & Hulu St. (Northeast)",2024-06-23 08:34:19,30,14,16
+25.10459,121.52417,Shilin Plaza,"No. 81, Sec 6, Zhongshan N. Rd.",2024-06-23 08:51:20,38,13,25
+25.08824,121.51054,Shezheng Park,"No. 39, Shezhong St. (Opposite)",2024-06-23 08:45:21,15,13,2
+25.09058,121.50142,Shezi Elementary School,"No. 476, Shezhong St. (Opposite)",2024-06-23 08:31:20,15,10,5
+25.09346,121.50376,"Ln. 384, Shezhong St Intersection","No. 194, Sec. 2, Tonghe W. St. (Opposite)",2024-06-23 08:09:21,18,7,11
+25.10641,121.52944,"No. 138, Sec. 1, Zhongcheng Rd","No. 138, Sec. 1, Zhongcheng Rd. (Diagonally across)",2024-06-23 08:32:20,15,5,9
+25.09020,121.50622,Shezi Park,"Aly. 37, Ln. 20, Yongping St & Aly. 11, Ln. 20, Yongping St Intersection.",2024-06-23 08:06:21,32,15,14
+25.09833,121.54788,National Palace Museum,"No. 8, Lixing St. (Opposite)",2024-06-23 08:42:20,17,5,12
+25.09763,121.53402,Taibei High School,"No. 240, Fulin Rd.",2024-06-23 08:37:20,16,2,14
+25.09312,121.51419,Hougang Park,"No. 26, Sec. 2, Tonghe E. St. (Side)",2024-06-23 08:07:20,15,8,6
+25.08279,121.51219,"No. 117, Sec. 4, Chongqing N. Rd","No. 117, Sec. 4, Chongqing N. Rd.",2024-06-23 08:37:20,18,8,9
+25.10893,121.46639,Daotou Park,"No. 323, Sec. 9, Yanping N. Rd. (Back)",2024-06-23 08:49:20,22,7,15
+25.10304,121.48297,"Ln. 133, Sec. 8, Yanping N. Rd Intersection","No. 67, Ln. 133, Sec. 8, Yanping N. Rd Intersection. (Opposite)",2024-06-23 08:15:22,22,9,13
+25.10640,121.48360,Kuntian Temple,"No. 15, Ln. 96, Sec. 8, Yanping N. Rd.",2024-06-23 06:24:19,14,11,3
+25.11314,121.48974,Shezidao Wetlands Service Center,Shezidao Wetlands Service Center,2024-06-23 08:40:31,15,9,6
+25.10261,121.48819,Fu'an Junior High School,"No. 250, Sec. 7, Yanping N. Rd.",2024-06-23 08:06:21,25,16,9
+25.09669,121.49706,Taipei City Fire Department of Fuan Station,"No. 42-7, Sec. 7, Yanping N. Rd. (Opposite)",2024-06-23 08:49:20,15,8,7
+25.10696,121.53234,Shengshan Greens,"No. 94, Zhongyi St.",2024-06-23 08:49:20,15,1,14
+25.11044,121.53595,Zhishan Elementary School,"No. 285, Dexing E. Rd. (Ln. 283, Dexing E. Rd)",2024-06-23 08:38:20,38,12,19
+25.08899,121.51751,Shilin New Village,"No.325, Danan Rd.",2024-06-23 08:51:20,29,22,7
+25.10775,121.52312,Lanya Elementary School,"Huangsi St. & Ln. 195, Sec. 6, Jhongshan N. Rd. Intersection",2024-06-23 08:49:20,30,15,14
+25.09330,121.51962,Jhongjheng Rd. & Jihe Rd. Intersection,"No. 420, Jhongjheng Rd.",2024-06-23 08:51:20,37,8,29
+25.09609,121.53006,Fulin Park (Jhongjheng Rd.),Jhongjheng Rd. & Jhihcheng St. Intersection (South),2024-06-23 08:46:20,45,8,37
+25.09709,121.54229,Jhihshan Rd. & Linsi Rd. Intersection,"Sec. 1, Jhihshan Rd. & Linsi Rd. Intersection (Southwest)",2024-06-23 08:50:31,48,19,29
+25.08217,121.51074,Taipei Public Library Huludu Branch,"No. 1, Ln. 136, Sec. 5, Yanping N. Rd.",2024-06-23 08:50:31,13,5,7
+25.11306,121.53945,"Ln. 110, Dongshan Rd.","No. 114, Dongshan Rd. (Opposite)",2024-06-23 08:16:19,16,6,6
+25.08887,121.50314,Yongping Social Housing,"No. 2, Ln. 261, Sec. 3, Huanhe N. Rd.",2024-06-23 01:23:20,15,6,9
+25.10012,121.53253,Yunong Bridge,"No. 42, Ln. 14, Fuzhi Rd. (Opposite)",2024-06-23 08:27:16,16,10,6
+25.08019,121.52020,"Ln. 76, Tonghe St. & Ln. 10, Sec. 4, Chengde Rd. Intersection","No. 37, Ln. 10, Sec. 4, Chengde Rd.",2024-06-23 08:50:31,14,5,7
+25.10455,121.53025,Zhishan Shengyou Temple,"No. 90, Yusheng St.",2024-06-23 08:50:31,25,6,19
+25.10199,121.52927,Zhicheng Rd. & Yusheng St. Intersection,"Sec. 2, Zhicheng Rd. & Yusheng St. Intersection (Northeast)",2024-06-23 08:42:20,9,5,4
+25.09812,121.52449,MRT Linear Park (Hou St.),"No. 15, Hou St.",2024-06-23 08:47:20,13,6,7
+25.12408,121.53003,Tianmu Park,"No. 30, Ln. 141, Sec. 7, Zhongshan N. Rd. (Opposite)",2024-06-23 08:50:30,12,1,11
+25.08637,121.52470,Jihe Rd. & Wenlin Rd. Intersection,"No. 3-1, Jihe Rd. (Opposite)",2024-06-23 08:42:19,16,2,14
+25.10094,121.52243,Wenlin Rd. & Fude Rd. Intersection,Wenlin Rd. & Fude Rd. Intersection (East),2024-06-23 08:42:20,19,5,14
+25.07960,121.52370,Chientan Overseas Youth Activity Center_1,"Tonghe St. & Ln. 2, Tonghe St.",2024-06-23 08:50:31,39,11,28
+25.09029,121.50189,SheZi Elementary School,"Sec. 6, Yanping N. Rd./Shezhong St. Intersection (South)",2024-06-23 06:56:20,36,26,10
+25.08577,121.52531,MRT Jianta Sta. (Exit 1),MRT Jianta Sta. (Exit 1) (North),2024-06-23 08:47:20,70,26,44
+25.11070,121.53999,Dexing Rd. & Dongshan Rd. Intersection,Dexing E. Rd. & Dongshan Rd. Intersection (Northwest),2024-06-23 08:07:19,12,8,4
+25.08756,121.51177,Chongqing N. Rd. & Tonghe W. St. Intersection,"No. 276, Sec. 4, Chongqing N. Rd.",2024-06-23 08:49:20,12,9,3
+25.08406,121.50670,"Hulu Elementary School (Ln. 285, Sec. 5, Yanping N. Rd.)","Sec. 3, Huanhe N. Rd. & Ln. 285, Sec. 5, Yanping N. Rd. Intersection",2024-06-23 08:28:19,15,12,3
+25.08810,121.50873,Shezi Market,"No. 67, Sec. 6, Yanping N. Rd.",2024-06-23 08:51:20,15,3,10
+25.08912,121.50490,Shilin District Farmers' Association (Shezi St.),"No. 162, Shezi St.",2024-06-23 07:41:20,8,6,2
+25.08410,121.52341,Chengde Rd. & Jiantan Rd. Intersection,"Sec. 4, Chengde Rd. & Jiantan Rd. Intersection (West)",2024-06-23 08:49:20,19,10,9
+25.08761,121.52608,"Ln. 101, Wenlin Rd.","No. 100, Wenlin Rd.",2024-06-23 08:35:21,17,5,12
+25.08408,121.50959,"Aly. 15, Ln. 257, Sec. 5, Yanping N. Rd.","No. 184, Hulu St.",2024-06-23 08:44:15,11,8,3
+25.08471,121.50890,"Aly. 4, Ln. 257, Sec. 5, Yanping N. Rd.","No. 17, Ln. 257, Sec. 5, Yanping N. Rd.",2024-06-23 08:19:19,15,5,9
+25.11742,121.53472,Taipei School For The Visually Impaired,"No. 200, Sec. 2, Zhongcheng Rd. (Opposite)",2024-06-23 08:50:25,16,0,16
+25.10203,121.52561,Zhongshan N. Rd. & Fuguo Rd. Intersection,"No. 837, Sec. 5, Zhongshan N. Rd.",2024-06-23 08:39:19,14,2,12
+25.10585,121.52376,Dexing Park,"No. 33, Dexing W. Rd. (Opposite)",2024-06-23 08:49:20,14,8,6
+25.08238,121.52309,Chengde Rd & Hougang St. Intersection,"Sec. 4, Chengde Rd & Hougang St. Intersection",2024-06-23 08:01:15,20,0,20
+25.09765,121.52757,"Ln. 698, Sec. 5, Zhongshan N. Rd.","No. 692, Sec. 5, Zhongshan N. Rd.",2024-06-23 08:31:20,15,11,4
+25.09561,121.52552,MRT Shilin Sta. (Exit 1),"Ln. 236, Zhongzheng Rd. & Zhongzheng Rd. Intersection",2024-06-23 08:51:20,38,7,31
+25.10336,121.52263,MRT Zhishan Sta. (Exit 2)_1,"Fuhua Rd. & Ln. 162, Fuhua Rd. Intersection (Southeast)",2024-06-23 08:50:31,62,37,25
+25.08762,121.52711,"MCU (Ln. 280, Sec. 5, Zhongshan N. Rd.)","Ln. 280, Sec. 5, Zhongshan N. Rd.",2024-06-23 07:54:19,23,4,19
+25.08036,121.50840,Haiguang Park (South),"No. 79, Hulu St. (Opposite)",2024-06-23 08:44:19,12,6,4
+25.09013,121.52054,"Ln. 40, Shishang Rd.","No. 2, Ln. 40, Shishang Rd.",2024-06-23 08:50:30,15,3,12
+25.08182,121.52431,Shihlin Jiantan Post Office,"Jihe Rd. & Ln. 77, Sec. 4, Chengde Rd. Intersection (Under Bridge)",2024-06-23 08:38:19,16,7,9
+25.11247,121.52914,"Ln. 91, Shidong Rd.","No. 3, Ln. 91, Shidong Rd.",2024-06-23 08:44:20,16,5,11
+25.09677,121.51931,Meilun Park,"No. 118, Meilun St. (Opposite)",2024-06-23 08:39:19,13,9,4
+25.11642,121.53743,"University of Taipei (Ln. 270, Sec. 2, Zhongcheng Rd.)","Ln. 270, Sec. 2, Zhongcheng Rd. & Ln. 299, Shidong Rd. Intersection",2024-06-23 08:49:15,17,17,0
+25.11579,121.53113,"Ln. 8, Tianmu E. Rd. & Ln. 154, Sec. 2, Zhongcheng Rd. Intersection","No. 57, Ln. 8, Tianmu E. Rd. (Opposite)",2024-06-23 08:46:20,14,7,5
+25.09886,121.51835,Meilun Park (Northeast),"No. 115, Ln. 587, Wenlin Rd. (Opposite)",2024-06-23 08:42:20,15,8,7
+25.09646,121.49358,Fuan Riverside Park,"No. 45, Ln. 145, Sec. 7, Yanping N. Rd. (Opposite)",2024-06-23 08:14:20,14,10,4
+25.10566,121.52922,Zhongcheng Rd. & Zhongyi St. Intersection (North),"No. 125, Sec. 1, Zhongcheng Rd.",2024-06-23 08:46:19,13,4,9
+25.10519,121.52869,Zhongcheng Rd. & Zhongyi St. Intersection (South),"No. 109, Sec. 1, Zhongcheng Rd.",2024-06-23 08:46:20,14,7,7
+25.09204,121.52472,Shilin Elementary School,"Fude Rd. & Ln. 48, Fude Rd. Intersection",2024-06-23 08:26:19,15,6,9
+25.09762,121.51321,ShuangXi Park,"Sec. 5, Chengde Rd. & No. 150, Sec. 5, Chengde Rd. Intersection (Southwest)",2024-06-23 07:02:19,15,2,12
+25.07793,121.52357,Chientan Youth Activity Center (Chin Ching Building),"No. 16, Sec. 4, ZhongShan N. Rd. (Chin Ching Building)",2024-06-23 08:42:20,30,7,22
+25.11836,121.53466,No.1 TianHe Park,"Ln. 69, TianMu E. Rd. & TianMu E. Rd. Intersection",2024-06-23 08:41:20,15,6,9
+25.11633,121.53295,"Ln. 178, Sec. 2, ZhongCheng Rd.","No. 13, Ln. 178, Sec. 2, ZhongCheng Rd. (Opposite)",2024-06-23 08:41:19,15,6,9
+25.10893,121.52319,KeGiang Rd. & HuangXi St. Intersection,KeQiang Rd. & HuangXi St. Intersection (Southwest),2024-06-23 08:42:19,14,8,6
+25.10985,121.52859,LanYa Park  (West),"No. 75, Ln. 109, DeXing E. Rd. (East)",2024-06-23 08:46:20,15,6,8
+25.09441,121.53285,"Aly. 77, Ln. 100, FuLin Rd.","Ln. 100, FuLin Rd. & Aly. 77, Ln. 100, FuLin Rd. Intersection",2024-06-23 01:28:19,18,12,6
+25.09601,121.53262,"Aly. 11, Ln. 100, FuLin Rd.","Aly. 11, Ln. 100, FuLin Rd. & Aly. 77, Ln. 100, FuLin Rd. Intersection",2024-06-23 07:54:19,15,12,3
+25.08480,121.51253,"Ln. 190, Sec. 4, ChongQing N. Rd. (TongHe W. St.)","No. 92, Sec. 1, TongHe W. St.",2024-06-23 07:47:19,15,4,11
+25.00402,121.54074,Taipei Pot Plant Market,"Wancheng St. & Sec. 1, Xinrong Rd. (Northwest)",2024-06-23 08:50:31,40,11,29
+25.00270,121.53861,MRT Wanlong Sta. (Exit 4),"No. 210, Sec. 5, Roosevelt Rd.",2024-06-23 08:50:31,22,9,13
+25.00115,121.53916,MRT Wanlong Sta. (Exit 1),"No. 250, Sec. 5, Roosevelt Rd.",2024-06-23 08:50:31,34,20,14
+25.00154,121.53640,Wanhe 2nd Park,"No. 255, Wanlong St.",2024-06-23 08:38:20,35,20,15
+25.00144,121.53983,MRT Wanlong Sta. (Exit 2),"Ln. 70, Sec. 1, Xinrong Rd. & Aly. 26, Ln. 211, Sec. 5, Roosevelt Rd.",2024-06-23 08:44:15,12,2,10
+24.99621,121.54043,Jingren Park,"No. 1, Ln. 142, Sec. 6, Roosevelt Rd.",2024-06-23 08:45:22,16,6,10
+24.99366,121.54124,MRT Jingmei Sta. (Exit 2),"No. 1, Jingwen St. (Opposite)",2024-06-23 08:46:19,63,55,8
+24.99898,121.54030,Roosevelt Jinglong St. Intersection,"Sec. 6, Roosevelt Rd. & Jinglong St. Intersection (Southeast)",2024-06-23 08:49:20,25,12,13
+24.99812,121.53663,"Jingfu St & Ln. 142, Sec. 6, Roosevelt Rd Intersection","Jingfu St & Ln. 142, Sec. 6, Roosevelt Rd Intersection.",2024-06-23 08:49:20,28,11,16
+25.00587,121.55012,Xingwang Park,"No. 96, Aly. 28, Ln. 106, Fuxing Rd. (Opposite)",2024-06-23 08:39:19,30,14,16
+25.00465,121.54916,Xing Fu Junior High School,"Ln. 95, Fuxing Rd & Aly. 28, Ln. 63, Fuxing Rd. (Opposite)",2024-06-23 08:51:20,25,8,17
+25.00346,121.54709,"Ln. 203, Sec. 2, Xinglong Rd","No. 108, Ln. 203, Sec. 2, Xinglong Rd (Opposite)",2024-06-23 08:38:20,32,14,17
+25.00219,121.54454,Jingmei Sports Park,"No. 79, Jingfeng St. (Side)",2024-06-23 08:28:19,11,1,10
+24.99136,121.54008,Jing Mei Hospital,"No. 280, Sec. 6, Roosevelt Rd.",2024-06-23 08:47:19,18,9,9
+25.00792,121.53731,National Taiwan Normal University Gongguan Campus,"No. 77, Sec. 4, Tingzhou Rd.",2024-06-23 08:51:20,14,14,0
+24.99543,121.54725,"Ln 128, Jinghua St.","No. 124, Jinghua St.",2024-06-23 08:44:20,29,15,14
+24.99118,121.54360,Xianjiyan Trailhead (Jingxing Rd.),"No. 239, Jingxing Rd.",2024-06-23 08:44:19,22,14,8
+24.98737,121.57726,National Chengchi University,"No. 153, Sec. 2, Zhinan Rd. (Opposite)",2024-06-23 08:48:15,62,62,0
+24.99873,121.57985,MRT Taipei Zoo Sta.,"No. 30, Sec. 2, Xinguang Rd. (Opposite)",2024-06-23 08:48:20,57,3,54
+24.99798,121.57455,MRT Muzha Sta.,"No. 18, Ln. 82, Sec. 4, Muzha Rd. (Under The MRT Bridge)",2024-06-23 08:37:14,31,0,31
+24.99886,121.56769,MRT Wanfang Community Sta.,"No. 60, Wanfang Rd. (West)",2024-06-23 08:12:14,49,0,49
+24.99676,121.55960,Wen Shan Sports Center,"Sec. 3, Xinglong Rd./Aly. 8, Ln. 192, Sec. 3, Xinglong Rd.",2024-06-23 08:49:20,36,7,29
+25.00467,121.55684,MRT Xinhai Sta.,"No. 114, Sec. 4, Xinhai Rd.",2024-06-23 08:51:20,42,11,31
+24.99982,121.54761,Xingfeng Park,"Ln. 123, Sec. 2, Xinglong Rd./Sec. 2, Xinglong Rd. (Northwest)",2024-06-23 08:50:31,25,16,9
+24.98816,121.55528,Muzha Rd. & Guanghui Rd. Intersection,"No. 290, Sec. 1, Muzha Rd.",2024-06-23 08:51:20,33,17,16
+24.98747,121.54984,Examination Yuan,"Shiyuan Rd.(Double number)/ Sec. 1, Muzha Rd. (Northeast)",2024-06-23 08:44:20,26,25,1
+24.98573,121.54532,"No. 26, Hexing St. Intersection","No. 44, Hexing St./No. 26, Hexing St. Intersection",2024-06-23 08:47:20,22,8,14
+24.98859,121.54336,Shih Hsin University,"No. 1, Ln. 17, Sec. 1, Muzha Rd. (West)",2024-06-23 08:50:31,30,9,21
+24.97837,121.55548,Yishou Bridge,"No. 64, Zhangxin St.",2024-06-23 08:50:30,28,7,21
+24.98058,121.55624,Jingmei Girls High School,"Sec. 3, Muxin Rd./Yishou St. (Northwest)",2024-06-23 08:48:20,25,7,18
+24.98414,121.56907,Performing Arts School 36,"No. 156, Sec. 2, Muxin Rd. (Yongan Market)",2024-06-23 08:29:19,29,19,10
+24.98471,121.56332,Zhongshun Community Center,"No. 22, Sec. 2, Zhongshun St.",2024-06-23 08:45:22,31,24,7
+24.98574,121.56745,Jingwen Bilingual High School,"Baoyi Rd./Ln. 102, Sec. 3, Muxin Rd. Intersection (Southwest)",2024-06-23 08:28:19,36,32,4
+24.97619,121.55830,Laoquan St. Basketball Court,"Ln. 26, Laoquan St. Intersection",2024-06-22 21:28:19,14,5,9
+24.98959,121.56959,Wenshan District Admin. Center,"No. 220, Sec. 3, Muzha Rd.",2024-06-23 08:31:35,27,13,14
+24.98718,121.56059,Muzha Park,"No. 50, Sec. 4, Xinglong Rd.",2024-06-23 08:44:20,38,4,34
+24.98814,121.56356,Xinglong Public Housing (D2),"No. 49, Ln. 105, Sec. 4, Xinglong Rd.",2024-06-23 08:41:20,19,12,7
+24.98088,121.56313,"Ln. 95, Sec. 3, Muxin Rd. Intersection","No. 30, Ln. 95, Sec. 3, Muxin Rd. (Opposite)",2024-06-23 08:38:20,16,6,10
+24.98181,121.56567,Zhangjiaoli Park,"No. 15, Ln. 299, Sec. 2, Muxin Rd. (Opposite)",2024-06-23 08:51:20,15,12,3
+24.98301,121.55404,Shijian Junior High School,"No. 2, Sec. 1, Zhongshun St.",2024-06-23 08:27:21,13,12,1
+24.98537,121.57959,"Ln. 2, Sec. 3, Zhinan Rd.","No. 4, Sec. 3, Zhinan Rd.",2024-06-23 08:47:20,13,9,4
+24.98642,121.56514,Laiyin Park,"No. 29, Aly. 25, Ln. 87, Sec. 2, Zhongshun St.",2024-06-23 08:41:20,14,8,6
+24.98935,121.56651,Muzha Social Housing,"No. 46, Ln. 24, Jiukang St. (Opposite)",2024-06-23 08:22:20,12,5,7
+24.99151,121.56836,"Ln. 185, Sec. 1, Xiuming Rd. Intersection","Sec. 1, Xiuming Rd. & Ln. 185, Sec. 1, Xiuming Rd. Intersection",2024-06-23 06:17:31,20,1,19
+24.99111,121.56703,"Ln. 129, Sec. 1, Xiuming Rd. Intersection","Ln. 129, Sec. 1, Xiuming Rd. & Sec. 1, Xiuming Rd. Intersection",2024-06-23 07:10:28,22,21,1
+24.97989,121.56753,Hengguang Bridge (Laoquan St.),Laoquan St. & Hengguang St. Intersection,2024-06-23 08:48:15,13,13,0
+24.99889,121.54330,Wan You NO.3 Park,"No. 105, Jinglong St. (Opposite)",2024-06-23 08:50:31,14,11,3
+24.99939,121.55848,"MRT Wanfang Hospital Sta. (Ln. 115, Sec. 3, Xinglong Rd.)","No. 2, Ln. 115, Sec. 3, Xinglong Rd.",2024-06-23 08:41:20,20,3,17
+24.99579,121.55498,Xingde Reading Room,"No. 145, Ln. 304, Sec. 3, Xinglong Rd.",2024-06-23 08:51:20,24,8,16
+25.00348,121.55642,Xinhai Ecological Park,"No. 199, Sec. 4, Xinhai Rd.",2024-06-23 08:35:21,18,3,15
+25.00079,121.57534,Bo Jia Sports Park,"No. 16, Ln. 159, Sec. 4, Muzha Rd.",2024-06-23 07:44:19,12,2,10
+24.99797,121.54982,Sian Yan Park,"No. 37, Ln. 16, Xianyan Rd.",2024-06-23 08:41:19,11,5,6
+24.98543,121.58006,Zhengda 1st St.,"No. 19, Zhengda 1st St. (Opposite)",2024-06-23 08:37:20,14,9,5
+25.00115,121.55142,Wenshan 2nd District Office,"No. 160-1, Sec. 2, Xinglong Rd.",2024-06-23 08:49:20,38,12,25
+24.99271,121.55865,National Immigration Agency Training Center,"No. 306, Sec. 3, Xinglong Rd.",2024-06-23 08:21:20,13,10,3
+24.99472,121.55949,Coast Guard Administration (South),"No. 211, Sec. 3, Xinglong Rd. (Opposite)",2024-06-23 08:46:20,10,6,4
+24.98695,121.56456,Ming Dao Elementary School (Southeast),"No. 116, Ln. 109, Sec. 4, Muzha Rd.",2024-06-23 08:01:20,18,1,17
+24.98662,121.57071,Mu Nan Park,"Sec. 2, Muxin Rd. & Ln. 22, Yong'an St. Intersection",2024-06-23 08:38:20,17,8,9
+24.98339,121.55645,"Shijian Junior High School (Ln. 310, Sec. 3, Muxin Rd.)","Sec. 1, Zhongshun St. & Ln. 310, Sec. 3, Muxin Rd. Intersection",2024-06-23 08:49:20,17,1,16
+25.00753,121.53719,National Taiwan Normal University Gongguan Campus_1,National Taiwan Normal University Gongguan Campus (Tingzhou Rd.),2024-06-23 08:50:31,34,26,8
+24.99766,121.57875,MRT Taipei Zoo Sta. (Exit 2),"No. 28, Sec. 2, Xinguang Rd.",2024-01-14 04:19:10,39,0,39
+24.98200,121.57170,Waterfront Elevator,NCCU College of Waterfront Elevator,2024-06-23 08:45:22,10,7,3
+25.00264,121.57680,Dunnan Forest,"Aly. 16, Ln. 159, Sec. 4, Muzha Rd.",2024-06-23 07:44:18,14,11,3
+25.01076,121.53637,Jingmei Pumping Station,"No. 10, Sec. 4, Tingzhou Rd. (North)",2024-06-23 08:50:25,15,14,1
+25.00345,121.53636,Wan He NO.3 Park,"Ln. 107, Xizhou St.",2024-06-23 08:50:31,13,9,4
+24.99609,121.54284,Jing Xing Junior High School,"Ln. 4, Sanfu St. & Ln. 46, Jingxing Rd. Intersection",2024-06-23 08:47:20,10,6,4
+24.99660,121.54030,Jingren Park_1,"Jingren St. & Ln. 142, Sec. 6, Roosevelt Rd. Intersection (North)",2024-06-23 08:49:20,30,11,19
+25.00825,121.53419,NTNU Gongguan Campus (Student Dorm 2),NTNU Gongguan Campus (Student Dorm 2),2024-06-23 08:50:31,40,4,36
+24.99279,121.54255,Jing Sing Park,"Jingzhong St. & Ln. 30, Jingzhong St. Intersection",2024-06-23 08:48:20,15,12,3
+24.98939,121.57682,WangXin Elementary School,"No. 114, Sec. 2, Xiuming Rd.",2024-06-23 08:50:31,16,15,1
+25.00743,121.55877,"Ln. 77, Sec. 4, Xinhai Rd.","Ln. 77, Sec. 4, Xinhai Rd.",2024-06-23 08:49:20,14,11,3
+24.99696,121.54454,"Ln. 42, Jingxing Rd.","Ln. 42, Jingxing Rd. & Jingxing Rd. Intersection (Southwest)",2024-06-23 08:49:20,12,8,4
+24.98768,121.56565,"Ln. 48, Sec. 3, Muzha Rd.","Aly. 1, Ln. 48, Sec. 3, Muzha Rd.",2024-06-23 08:43:20,15,14,1
+24.98944,121.56195,"Ln. 109, Sec. 2, Muzha Rd.","No. 14, Ln. 109, Sec. 2, Muzha Rd.",2024-06-23 07:49:20,15,3,12
+24.98808,121.54723,Shih Yuan Park,"No. 29, Ln. 59, Sec. 1, Muzha Rd. (Opposite)",2024-06-23 08:50:31,15,9,6
+24.98250,121.55949,Jhang Shu Park,"No. 1, Aly. 30, Ln. 26, Sec. 1, Zhongshun St. (Opposite)",2024-06-23 08:40:31,15,9,6
+25.00223,121.57039,Wanmei St. & Wan'an St. Intersection,"Sec. 1, Wanmei St. & Wan'an St. Intersection",2024-06-23 01:50:21,25,0,25
+25.00198,121.54856,"Ln. 203, Sec. 2, Xinglong Rd. (Dunnan)","No. 16, Ln. 203, Sec. 2, Xinglong Rd.",2024-06-23 08:26:20,27,19,8
+24.99197,121.57371,Xinguang Rd. & Xiuming Rd. Intersection,"No. 145, Sec. 1, Xinguang Rd.",2024-06-23 08:39:18,15,9,6
+24.98532,121.55831,"Ln. 134, Guanghui Rd.","No. 140, Guanghui Rd. (Opposite)",2024-06-23 08:44:20,15,12,3
+24.98655,121.55520,Guang Huei Park,"No. 7, Guanghui Rd. (Opposite)",2024-06-23 08:17:34,27,3,24
+24.98217,121.55782,Mu Sin Park,"No. 11, Ln. 278, Sec. 3, Muxin Rd. (Opposite)",2024-06-23 08:49:20,12,2,10
+25.00268,121.55277,"Aly. 1, Ln. 275, Sec. 2, Xinglong Rd.","No. 2, Aly. 1, Ln. 275, Sec. 2, Xinglong Rd.",2024-06-23 08:47:20,16,2,10
+24.99925,121.55553,China University of Technology,"No. 56, Sec. 3, Xinglong Rd.",2024-06-23 08:39:18,21,7,14
+24.97932,121.55406,"Ln. 8, Zhangxin St.","No. 9, Ln. 8, Zhangxin St. (Opposite)",2024-06-23 08:35:21,17,6,11
+24.99892,121.54887,"Ln. 22, Xianyan Rd.","No. 26, Xianyan Rd.",2024-06-23 08:07:20,28,17,11
+24.99509,121.57199,Muzha &Wanfang Rd. Intersection,"No.75,Sec.4,Muzha Rd.",2024-06-23 07:01:14,21,0,21
+25.00437,121.55048,"Ln. 78, Fuxing Rd.","Ln. 78, Fuxing Rd. & Aly. 10, Ln. 78, Fuxing Rd.Intersection",2024-06-23 08:09:21,14,9,4
+24.98839,121.55238,XinHai Rd. & MuZha Rd.  Intersection,"Ln. 100, Sec. 6, Xinhai Rd.",2024-06-23 08:13:19,20,1,19
+25.00492,121.55582,Sing Tai Park,"No. 24, Ln. 166, Sec. 4, XinHai Rd. (Opposite)",2024-06-22 22:47:19,12,3,9
+25.00061,121.54941,Taipei City Xing Yan Social Welfare Services Building,"No. 88, Sec. 2, XingLong Rd.",2024-06-23 08:47:20,18,7,10
+24.99746,121.54543,"Aly. 9, Ln. 22, Sec. 2, XingLong Rd.","Aly. 9, Ln. 22, Sec. 2, XingLong Rd. & Aly. 6, Ln. 23, JingXing Rd. Intersection",2024-06-23 08:42:20,13,9,4
+24.98184,121.56125,"Ln. 155, Sec. 3, MuXin Rd.","No. 156, Sec. 3, MuXin Rd.",2024-06-23 08:39:18,15,6,9
+24.99438,121.54376,"Ln. 102, JingXing Rd.","Ln. 52, JingHua St. & Ln. 102, JingXing Rd. Intersection",2024-06-23 08:18:19,14,2,12
+24.99442,121.53844,"Ln. 223, JingFu St.","No. 14, Aly. 19, Ln. 85, XiKou St.",2024-06-23 08:51:20,18,16,2
+24.98840,121.57786,Dah Hsian Seetoo Library,Dah Hsian Seetoo Library (West),2024-06-23 08:48:20,27,25,2
+24.99830,121.57279,MRT Muzha Sta. (West),MRT Muzha Sta. (West),2024-06-23 07:40:32,26,1,25
+25.01374,121.53068,Taipei Water Department,"No.1, Siyuan St. (East)",2024-06-23 08:50:31,20,9,11
+25.01470,121.53191,Tingzhou Rd. / Siyuan St. intersection (Southeast),"Sec. 3, Tingzhou Rd./ Siyuan St. intersection (Southeast)",2024-06-23 08:43:19,20,11,9
+25.01453,121.53437,MRT Gongguan Sta. (Exit 1),"No.68, Sec. 4, Roosevelt Rd.",2024-06-23 08:51:20,12,3,9
+25.01507,121.53383,MRT Gongguan Sta. (Exit 4),"No.48, Sec. 4, Roosevelt Rd.",2024-06-23 08:50:25,12,12,0
+25.02694,121.52224,MRT Guting Sta. (Exit 9),"No. 100, Sec. 2, Roosevelt Rd",2024-06-23 08:47:20,20,16,4
+25.02550,121.52346,MRT Guting Sta. (Exit 2),"No. 168, Sec. 2, Roosevelt Rd",2024-06-23 08:51:20,55,25,30
+25.01970,121.52900,MRT Taipower Building Sta. (Exit 1),"Sec. 1, Xinhai Rd & Sec. 3, Roosevelt Rd (South)",2024-06-23 08:34:19,34,26,8
+25.02069,121.52456,Hakka Cultural Park,"Shida Rd & Ln. 11, Jinmen St (Opposite)",2024-06-23 08:51:20,15,5,10
+25.02277,121.52289,Taipei Municipal Heti Elementary School,"No. 186, Ln. 182, Sec. 2, Tingzhou Rd",2024-06-23 08:49:20,39,29,10
+25.02092,121.52049,Jizhouan Heritage Building,Shuiyuan Rd & Tong'an St Intersection (East),2024-06-23 08:51:20,25,5,20
+25.02075,121.52771,MRT Taipower Building Sta. (Exit 5),"No. 126, Sec. 3, Roosevelt Rd",2024-06-23 08:36:20,14,6,8
+25.02102,121.52751,MRT Taipower Building Sta. (Exit 4),"Shida Rd & Sec. 3, Roosevelt Rd (West)",2024-06-23 08:49:15,13,0,13
+25.02345,121.52498,"Sec. 3, Roosevelt Rd & Jinmen St Intersection","No. 2, Sec. 3, Roosevelt Rd Intersection",2024-06-23 08:50:31,15,9,6
+25.02338,121.51889,Guling Park,"Ln. 113, Xiamen St & Guling St. Intersection (West)",2024-06-23 08:51:20,58,18,37
+25.02701,121.52164,MRT Guting Sta. (Exit 8),"No. 13-1, Sec. 1, Heping W. Rd.",2024-06-23 08:50:31,15,10,5
+25.02805,121.52155,MRT Guting Sta. (Exit 7),"No. 44, Sec. 2, Roosevelt Rd.",2024-06-23 08:40:25,12,12,0
+25.02698,121.52081,Nanchang Park,"Sec. 1, Heping W. Rd. & Sec. 2, Nanchang Rd. Intersection (Northwest)",2024-06-23 08:47:20,55,25,30
+25.02723,121.51659,Heping & Chongqing Rd. Intersection,"Sec. 1, Heping W. Rd. & Fuzhou St. Intersection (East)",2024-06-23 08:45:22,46,32,14
+25.02933,121.51854,Gen.Sun Li-Jen Residence,"No. 136, Nanchang Rd.",2024-06-23 08:46:19,23,14,9
+25.02923,121.52058,"Ln.6, Sec.2, Roosevelt Rd.","Ln. 6, Sec. 2, Roosevelt Rd. Intersection",2024-06-23 08:40:25,14,14,0
+25.03100,121.52211,Jinhua & Hangzhou S. Rd. Intersection,"Jinhua St. & Sec. 2, Hangzhou S. Rd. Intersection (Northwest))",2024-06-23 08:51:20,21,12,9
+25.03239,121.51866,MRT C.K.S. Memorial Hall Sta. (Exit 3),"No. 17, Jinhua St.",2024-06-23 08:49:20,36,2,34
+25.03376,121.51772,MRT C.K.S. Memorial Hall Sta. (Exit 4),"No. 5, Sec. 1, Roosevelt Rd.",2024-06-23 08:47:20,21,2,19
+25.02609,121.51389,Ying-Qiao Elementary School,"No. 32, Quanzhou St. (Opposite)",2024-06-23 08:51:20,41,20,21
+25.02543,121.51052,Guting Intelligent Library,"No. 45, Ln. 443, Sec. 2, Zhonghua Rd",2024-06-23 08:34:19,21,12,7
+25.02643,121.50936,Yongchang Park,"No. 224, Zhao'an St.",2024-06-23 08:29:19,15,3,12
+25.02598,121.50806,"Ln. 409, Sec. 2, Zhonghua Rd","No. 403, Sec. 2, Zhonghua Rd.",2024-06-23 08:49:20,15,7,7
+25.02886,121.50518,"Nanjichang Night Market (Sec. 2, Zhonghua Rd)","Ln. 305-307, Sec. 2, Zhonghua Rd",2024-06-23 08:50:31,41,19,22
+25.03024,121.50904,"Nanhai Rd & Sec. 2, Heping W. Rd (Southwest)","Nanhai Rd & Sec. 2, Heping W. Rd (Southwest)",2024-06-23 08:44:19,19,17,2
+25.03132,121.50745,"Juguang Rd & Sec. 2, Heping W. Rd Intersection","No. 2, Juguang Rd.",2024-06-23 08:48:20,20,8,10
+25.01602,121.52565,"No. 11-1, Shuiyuan Rd","No. 11-1, Shuiyuan Rd.",2024-06-23 08:24:20,31,26,5
+25.03543,121.50834,Nan Men Junior High School,"Ln. 8, Guangzhou St/Guangzhou St Intersection. (Southeast)",2024-06-23 08:48:20,29,19,10
+25.03567,121.51006,MRT Xiaonanmen Sta. (Exit 2),"No. 30-2, Aiguo West Rd.",2024-06-23 08:34:19,18,8,10
+25.03907,121.51380,Jieshou Park,Guiyang St & Huaining St Intersection (Northeast),2024-06-23 08:51:20,23,7,16
+25.03938,121.50772,Zhonghua Rd & Guiyang St Intersection,"No. 234-1, Sec. 1, Guiyang St.",2024-06-23 06:50:26,20,0,20
+25.04367,121.52849,Huashan 1914 Creative Park,"No. 41, Sec. 2, Zhongxiao E. Rd.",2024-06-23 08:43:20,39,18,21
+25.04527,121.52220,MRT Shandao Temple Sta (Exit 1),"No. 7, Sec. 1, Zhongxiao E. Rd.",2024-06-23 08:50:30,46,20,25
+25.04193,121.52459,Jinan Rd & Shaoxing S. St Intersection,Jinan Rd & Shaoxing S. St Intersection. (Southeast),2024-06-23 08:51:20,39,24,15
+25.03915,121.52163,"Linsen S. Rd & Sec 1, Ren'ai Rd Intersection","Linsen S. Rd & Section 1, Ren'ai Rd Intersection. (Northwest)",2024-06-23 08:46:20,13,6,7
+25.03786,121.51985,Zhongzheng Sports Center,"No. 1, Sec 1, Xinyi Rd.",2024-06-23 08:51:20,39,38,1
+25.03570,121.52410,"Sec 1, Xinyi Rd & Hangzhou S. Rd Intersection","No. 21, Sec 1, Xinyi Rd.",2024-06-23 08:46:20,59,33,26
+25.04428,121.52336,MRT Shandao Temple Sta (Exit 3),"No. 21, Linsen S. Rd. (South)",2024-06-23 08:48:20,20,5,15
+25.03648,121.50951,MRT Xiaonanmen Sta. (Exit 1),Aiguo E. Rd. & Yanping S. Rd Intersection (Northwest),2024-06-23 08:50:31,46,30,16
+25.03792,121.50846,"Ln. 133, Yanping S. Rd Intersection","No.162, Yanping S. Rd. (Opposite)",2024-06-23 08:50:25,17,1,16
+25.04160,121.50842,MRT Ximen Sta (Exit 2),"No. 59, Sec. 1, Zhonghua Rd.",2024-06-23 08:51:20,36,2,33
+25.04129,121.51120,Baoqing Rd & Bo'ai Rd Intersection,"No. 162, Bo'ai Rd.",2024-06-23 08:43:20,47,20,27
+25.03705,121.51249,Agency Against Corruption,"No. 130, Sec. 1, Chongqing S. Rd.",2024-06-23 07:48:19,27,11,16
+25.03545,121.51327,University of Taipei Boai Campus,"No. 1, Aiguo W. Rd.",2024-06-23 08:41:20,81,32,49
+25.03763,121.51709,National Central Library,"No. 20, Zhongshan S. Rd.",2024-06-23 08:51:20,36,21,15
+25.04590,121.53068,Civic Blvd & Jinshan N. Rd Intersection,Jinshan N. Rd & Civic Blvd Intersection. (South),2024-06-23 08:28:19,50,17,33
+25.03516,121.50641,Taipei City Hospital Heping Branch,"No. 33, Sec. 2, Zhonghua Rd.",2024-06-23 08:49:20,32,12,20
+25.04412,121.51025,Zhongshan Hall,"Sec. 1, Wuchang St & Yanping South Rd Intersection.",2024-06-23 08:43:20,43,6,37
+25.04533,121.50944,"Sec. 1, Zhonghua Rd & Hankou St Intersection","Sec. 1, Zhonghua Rd & Sec. 1, Hankou St Intersection",2024-06-23 08:45:22,19,6,13
+25.04677,121.50989,"Ln. 21, Sec. 1, Zhonghua Rd Intersection","No. 11, Sec. 1, Zhonghua Rd. (Front right)",2024-06-23 08:14:14,22,0,22
+25.04297,121.51643,MRT NTU Hospital Sta. (Exit 4),"No. 1, Changde St. (Gongyuan Rd)",2024-06-23 08:49:20,60,30,30
+25.01027,121.53310,Treasure Hill Guanyin Temple,"No. 23, Ln. 230, Sec. 3, Tingzhou Rd.",2024-06-23 08:51:20,23,16,7
+25.02030,121.52302,Shida Rd. & Shuiyuan Rd. Intersection,Shida Rd. & Shuiyuan Rd. Intersection (Southeast),2024-06-23 08:48:20,21,15,6
+25.04178,121.51907,Zhongshan Rd. & Xuzhou Rd. Intersection,Zhongshan S. Rd. & Xuzhou Rd. (Southeast),2024-06-23 08:49:20,26,18,8
+25.03377,121.53041,Xinyi Rd. & Lianyun St. Intersection,"No. 213, Sec. 2, Sinyi Rd.",2024-06-23 08:48:20,39,23,16
+25.04842,121.51994,Taipei Bus Station,"Sec. 1, Civic Blvd. & Sec. 1, Jhongshan N. Rd. Intersection (Northwest)",2024-06-23 08:31:20,68,25,35
+25.03132,121.50519,Jyuguang Rd. & Dapu St. Intersection,Jyuguang Rd. & Dapu St. Intersection (Northeast),2024-06-23 08:25:22,32,16,16
+25.04235,121.53222,MRT Zhongxiao Xinsheng Sta.(Exit.2),"No. 132, Sec. 2, Jhongsiao E. Rd. (East)",2024-06-23 08:51:20,32,9,23
+25.04478,121.53274,Guang Hua Computer Market,"Sec. 1, Sinsheng N. Rd. & Sec. 3, Civic Blvd. Intersection (West)",2024-06-23 08:44:19,39,13,26
+25.04503,121.51968,Zhongshan & Qingdao Intersection,Zhongshan S. Rd & Qingdao E. Rd. Intersection (Northeast),2024-06-23 08:48:20,40,23,17
+25.03526,121.51680,MRT C.K.S Memorial Hall Sta.(Exit.5),MRT C.K.S Memorial Hall Sta. (Exit.5) (West),2024-06-23 08:44:20,29,6,23
+25.04553,121.52736,Beiping E. Rd. & Hangzhou N. Rd. Intersection,Beiping E. Rd. & Hangzhou N. Rd. Intersection (Northeast),2024-06-23 08:50:31,20,19,1
+25.02266,121.52362,Taipei Public Library Wang Guan-Ying Branch,"No. 265, Sec. 2, Tingzhou Rd.",2024-06-23 08:48:20,15,9,6
+25.03443,121.52721,Jinshan Rd. & Xinyi Rd. Intersection,"No. 148, Sec. 1, Jinshan S. Rd.",2024-06-23 08:50:30,25,6,19
+25.04094,121.52215,Linsen Rd. & Xuzhou Rd. Intersection,Linsen S. Rd. & Xuzhou Rd. Intersection (Northwest),2024-06-23 08:44:20,32,18,14
+25.04023,121.52565,Xuzhou Rd. Hangzhou Rd. Intersection,"Xuzhou Rd. Sec. 1, Hangzhou S. Rd. Intersection (Northwest)",2024-06-23 08:41:19,30,12,18
+25.03615,121.51660,MRT C.K.S Memorial Hall Sta.(Exit 6),MRT C.K.S Memorial Hall Sta.(Exit.6) (North),2024-06-23 08:17:34,17,9,8
+25.04821,121.51903,MRT Taipei Main Sta.(Exit M2),"No. 168, Sec. 1, Civic Blvd.",2024-06-23 08:48:20,20,16,4
+25.04779,121.52042,Dr. Sun Yat-Sen Memorial House (Sun Yat-sen Park),"No. 46, Sec. 1, Zhongshan N. Rd. (North)",2024-06-23 08:25:22,31,18,12
+25.04244,121.50864,MRT Ximen Sta. (Exit 5),MRT Ximen Sta. (Exit 5) (South),2024-06-23 08:41:20,30,5,25
+25.03828,121.51524,Hondao Junior High School,"No. 21, Gongyuan Rd. (Northwest)",2024-06-23 08:01:20,33,13,20
+25.03850,121.51288,Taipei First Girls High School,"No. 165, Sec. 1, Chongqing S. Rd.",2024-06-23 08:44:19,17,10,7
+25.01808,121.52750,Substitute Military Service Center,"No. 8, Sec. 3, Tingzhou Rd.",2024-06-23 08:32:20,15,5,10
+25.04051,121.52401,Shaoxing St. & Xuzhou Rd. Intersection,Shaoxing S. St. & Xuzhou Rd. Intersection (Southeast),2024-06-23 08:36:20,18,5,13
+25.03145,121.51941,Roosevelt Rd. & Ningbo E. St. Intersection,"Sec. 1, Roosevelt Rd. & Ningbo E. St. Intersection (Southeast)",2024-06-23 08:48:20,26,5,21
+25.01328,121.53004,Taipei Water Park,"No. 16, Siyuan St. (Opposite)",2024-06-23 08:45:22,40,15,24
+25.03895,121.52233,Ren'ai Rd. & Linsen Rd. Intersection,"Sec. 1, Ren'ai Rd. & Linsen S. Rd. Intersection (Northeast)",2024-06-23 08:38:19,31,17,14
+25.04178,121.50869,MRT Ximen Sta. (Exit 3),"Sec. 1, Zhonghua Rd. & Baoqing Rd. Intersection (Southeast)",2024-06-23 08:24:20,36,1,35
+25.03840,121.52801,Ren'ai Rd. & Jinshan Rd. Intersection,"No. 31, Sec. 2, Ren'ai Rd.",2024-06-23 08:39:18,9,5,4
+25.03746,121.52799,"Ln. 101, Sec. 1, Hangzhou S. Rd.","No. 72, Sec. 1, Jinshan S. Rd.",2024-06-23 08:28:19,14,10,4
+25.03846,121.52497,Ren'ai Rd. & Hangzhou Rd. Intersection,"No. 59, Sec. 1, Ren'ai Rd.",2024-06-23 08:50:31,16,5,11
+25.02815,121.51108,Longxing Community Center,"No. 131, Sanyuan St.",2024-06-23 08:49:20,21,5,16
+25.02990,121.51033,Taipei Botanical Garden,"No. 100, Sec. 2, Heping W. Rd.",2024-06-23 08:41:20,29,8,21
+25.03158,121.51464,Postal Museum,"No. 45, Sec. 2, Chongqing S. Rd.",2024-06-23 08:49:20,24,5,19
+25.04659,121.52377,Linsen Rd & Beiping Rd. Intersection,Linsen N. Rd & Beiping E. Rd. Intersection (Northwest),2024-06-23 08:47:20,20,6,14
+25.04597,121.52579,Beiping Rd. & Shaoxing St. Intersection,"No. 30, Beiping E. Rd. (Opposite)",2024-06-23 08:47:20,15,7,8
+25.04692,121.52208,Tianjin St. & Beiping Rd. Intersection,"No. 1, Tianjin St. (Opposite)",2024-06-23 08:51:20,25,10,15
+25.04272,121.53207,MRT Zhongxiao Xinsheng Sta.(Exit.1),MRT Zhongxiao Xinsheng Sta.(Exit.1),2024-06-23 08:41:20,19,15,4
+25.04113,121.53273,MRT Zhongxiao Xinsheng Sta.(Exit.5),"No. 56, Sec. 1, Xinsheng S. Rd.",2024-06-23 08:44:20,13,1,12
+25.04074,121.51586,MRT NTU Hospital Sta. (Exit. 1),Gongyuan Rd. & Changde St. Intersection (West),2024-06-23 08:51:20,19,5,14
+25.04461,121.51880,National Taiwan University Children's Hospital,"No. 8, Zhongshan S. Rd. (Qingdao W. Rd.)",2024-06-23 08:49:20,22,12,10
+25.04250,121.52270,Linsen Rd. & Jinan Rd. Intersection (Northeast),"Linsen S. Rd. & Sec. 1, Jinan Rd. Intersection (Northeast)",2024-06-23 08:51:20,26,9,17
+25.03837,121.52345,Ren'ai Rd. & Shaoxing St. Intersection (South),"Sec. 1, Ren'ai Rd. & Shaoxing S. St. Intersection (South)",2024-06-23 08:48:20,17,10,7
+25.02703,121.50686,Zhonghua Rd. & Nanhai Rd. Intersection,"No. 343, Sec. 2, Zhonghua Rd.",2024-06-23 08:41:20,15,2,13
+25.03371,121.51068,Taipei Association,"No. 217, Bo'ai Rd.",2024-06-23 08:35:21,15,3,12
+25.04467,121.52357,MRT Shandao Temple Sta. (Exit 3) (Zhongxiao E. Rd.),"Sec. 1, Zhongxiao E. Rd. & Linsen S. Rd. Intersection",2024-06-23 08:50:31,31,1,30
+25.03788,121.51904,National Concert Hall,"Sec. 1, Xinyi Rd. (National Concert Hall Northwest)",2024-06-23 08:08:20,22,4,18
+25.04724,121.51272,Zhongxiao W. Rd. & Chongqing S. Rd. Intersection,"No. 100, Sec. 1, Zhongxiao W. Rd.",2024-06-23 08:46:20,33,14,19
+25.04127,121.52697,"Ln. 8, Sec. 2, Jinan Rd.","No. 6-1, Ln. 8, Sec. 2, Jinan Rd. (Opposite)",2024-06-23 08:49:20,14,1,13
+25.03811,121.52855,Ren'ai Rd. & Jinshan Rd. Intersection (Southeast),"No. 48-4, Sec. 2, Ren'ai Rd.",2024-06-23 08:36:19,14,12,2
+25.04148,121.52870,Taiwan Literature Base,"No. 10, Ln. 53, Qidong St.",2024-06-23 08:42:20,23,6,17
+25.02507,121.51645,Chongqing S. Rd. & Zhao'an St. Intersection,"Sec. 3, Chongqing S. Rd. & Zhao'an St. Intersection",2024-06-23 08:49:20,16,6,10
+25.03898,121.53058,Wenguang Park,"No. 4, Ln. 65, Sec. 2, Ren'ai Rd. (Opposite)",2024-06-23 08:51:20,17,2,15
+25.03212,121.51861,MRT C.K.S Memorial Hall Sta.(Exit 2),"No. 10, Sec. 1, Roosevelt Rd.",2024-06-23 08:51:20,12,5,6
+25.02484,121.51973,Yingpulixiao Park,"No. 135, Sec. 2, Tingzhou Rd. (Opposite)",2024-06-23 08:45:22,25,15,8
+25.02682,121.51737,Yingqiao Park,"No. 110, Sec. 1, Heping W. Rd.",2024-06-23 08:37:19,15,10,5
+25.02965,121.51415,Ningbo W. St. & Quanzhou St. Intersection,"No. 15, Quanzhou St. (Opposite)",2024-06-23 08:50:30,30,11,19
+25.02890,121.50970,"Ln. 98, Sec. 2, Heping W. Rd.","No. 81, Sanyuan St.",2024-06-23 08:17:34,16,12,4
+25.03796,121.53261,Ren'ai Rd. & Xinsheng Rd. Intersection (Southwest),"No. 110, Sec. 2, Ren'ai Rd.",2024-06-23 08:50:31,18,12,6
+25.04032,121.53141,Xingan Market,"No. 55, Sec. 2, Jinan Rd.",2024-06-23 08:48:20,15,6,9
+25.02750,121.51013,LongKou Market,"No. 232, Sec. 1, Tingzhou Rd. (Opposite)",2024-06-23 08:41:20,14,4,8
+25.04418,121.52552,MRT Shandao Temple Sta. (Exit 5),"No. 138, Sec. 1, ZhongXiao E. Rd.",2024-06-23 08:42:20,31,21,10
+25.04281,121.52629,QingDao E. Rd. & HangZhou S. Rd. Intersection,"QingDao E. Rd. & Sec. 1, HangZhou S. Rd. Intersection",2024-06-23 08:43:20,17,10,7
+25.02542,121.51233,"Ln. 37, ZhaoAn St.","No. 43, ZhaoAn St.",2024-06-23 08:29:19,15,9,6
+25.02757,121.50771,"Ln. 112, NanHai Rd.","No. 1, Ln. 112, NanHai Rd.",2024-06-23 08:51:20,15,3,12
+25.02550,121.52067,"Ln. 95, GuLing St.","No. 65, Ln. 95, GuLing St. (Opposite)",2024-06-23 08:33:20,16,6,10
+25.03862,121.52385,RenAi Rd. & ShaoXing S. St. Intersection (North),"No. 43, Sec. 1, RenAi Rd.",2024-06-23 08:25:15,23,0,23
+25.08251,121.54004,"Ln. 65, Tongbei St.","Tongbei /Ln. 65, Tongbei St. Intersection",2024-06-23 08:33:20,16,7,9
+25.07805,121.52950,Yuanshan Scenic Area,"Bei'an Rd./Ln. 77, Bei'an Rd. Intersection",2024-06-23 08:47:20,15,10,5
+25.08030,121.56251,Lequn 2nd & Tiding Blvd. Intersection,"No. 382, Tiding Blvd.",2024-06-23 08:46:20,20,2,18
+25.08524,121.53748,Jiantan Community,"No. 2, Aly. 2, Ln. 146, Tongbei St. (Opposite)",2024-06-23 08:33:20,13,6,7
+25.08258,121.54462,Peiying Park,"Chongshi/Ln. 62, Dajhih St. Intersection",2024-06-23 08:51:20,40,8,32
+25.08009,121.55226,Lequn 2nd & Mingshui Rd. Intersection,Lequn 2nd/Mingshui Rd. Intersection,2024-06-23 08:48:20,20,4,16
+25.08474,121.54968,Bei'an & Dajhih St. Intersection,"No. 676, Bei'an Rd.",2024-06-23 08:50:25,31,1,30
+25.08401,121.55535,MRT Jiannan Rd. Station (Exit 2),"No. 11, Jingye 3rd Rd. (Opposite)",2024-06-23 08:47:20,86,26,60
+25.07985,121.55609,Lequn 2nd & Jingye 3rd Rd. Intersection,"No. 155, Jingye 3rd Rd.",2024-06-23 08:48:20,20,4,16
+25.07976,121.55813,Lequn 2nd & Jingye 4th Rd. Intersection,"No. 186, Lecyun 2nd Rd.",2024-06-23 08:51:20,36,1,35
+25.07923,121.54730,Dazhi Station (Exit 3),"No. 536, Bei'an Rd.",2024-06-23 08:49:20,34,25,8
+25.04585,121.54375,Fuxing Rd. & Civic Blvd. Intersection,"No. 36-9, Sec. 1, Fuxing S. Rd.",2024-06-23 08:50:30,52,11,41
+25.05176,121.54217,Nanjing Rd. & Liaoning St. Intersection,"No. 189, Sec. 3, Nanjing E. Rd. (Opposite)",2024-06-23 08:51:20,42,31,10
+25.04833,121.53469,Yitong St. & Chang'an Rd. Intersection,"Yitong St. & Sec. 2, Chang'an E Rd. Intersection (Southwest)",2024-06-23 08:49:20,21,12,9
+25.04861,121.52935,Xinsheng Rd. & Chang'an Rd. Intersection,"Sec.1, Xinsheng N. Rd. & Sec. 2, Chang'an E Rd. Intersection (North)",2024-06-23 08:49:20,30,15,15
+25.04796,121.52439,Civic Blvd. & Linsen Rd. Intersection,"Sec. 2, Civic Blvd. & Linsen N Rd. Intersection (NorthEast)",2024-06-23 08:50:30,39,20,19
+25.05194,121.52766,Nanjing Rd. & Xinsheng Rd. Intersection,"Sec.1, Xinsheng N. Rd. & Sec. 1, Nanjing E. Rd. Intersection (Under Bridge)",2024-06-23 08:48:20,34,7,26
+25.05316,121.53146,Yijiang Park,"Yijiang St. & Ln. 132, Songjiang Rd. Intersection (Northwest)",2024-06-23 08:21:20,37,2,35
+25.05025,121.53273,Songjiang Park,"Songjiang Rd. & Ln. 84, Songjiang Rd. Intersection (Northwest)",2024-06-23 08:34:19,37,21,16
+25.05639,121.52752,Xinsheng Rd. & Changchun Rd. Intersection,"Sec. 2, Xinsheng N. Rd. & Ln. 68 Intersection (Under Bridge)",2024-06-23 08:50:31,32,1,31
+25.06642,121.53735,The Second Wholesale Fruit and Vegetable Market,"No. 18, Aly. 2, Ln. 410, Minzu E Rd. (East)",2024-06-23 08:50:31,40,10,30
+25.05778,121.53692,Minsheng Rd. & Jianguo Rd. Intersection,"Sec. 3, Minsheng E Rd. & Sec. 2, Jianguo N Rd. Intersection",2024-06-23 08:39:19,33,22,11
+25.05606,121.54175,Xing An Hua Cheng,"No. 53-4, Xing'an St. (Opposite)",2024-06-23 08:50:30,62,27,35
+25.06106,121.54406,MRT Zhongshan Junior High School Sta.,"No. 386, Fuxing N Rd. (South)",2024-06-23 08:50:31,62,18,44
+25.06045,121.54077,Long Jiang Rd. & Jinzhou St. Intersection,"No. 287, Long Jiang Rd.",2024-06-23 08:51:20,16,1,15
+25.05469,121.53686,Jianguo Rd. & Changchun Rd. Intersection,Jianguo N Rd. & Changchun Rd. Intersection (South),2024-06-23 08:42:20,16,7,9
+25.05214,121.53680,Nanjing E Rd. & Jianguo Rd. Intersection,"Sec. 2, Nanjing E Rd. & Sec. 2, Jianguo N Rd. Intersection (North)",2024-06-23 08:46:20,42,22,20
+25.05246,121.53320,MRT Songjiang Nanjing Sta. (Exit 7),"No. 119, Songjiang Rd.",2024-06-23 08:49:20,75,60,15
+25.04762,121.54043,Zhulun Market,"No. 15, Long Jiang Rd.",2024-06-23 08:50:31,37,21,16
+25.05604,121.53166,Zhongji Park,"No. 22, Ln. 170, Songjiang Rd, (Opposite)",2024-06-23 08:29:19,15,5,10
+25.04710,121.52770,Huashan Park,"Civic Blvd. & Ln. 52, Sec. 1, Chang'an E Rd. Intersection",2024-06-23 08:44:20,19,1,18
+25.04699,121.53735,"Ln. 17, Sec. 1, Jianguo N. Rd.","Ln. 17, Sec. 1, Jianguo N. Rd. & Ln. 137, Sec. 2, Bade Rd. Intersection",2024-06-23 08:31:20,45,8,37
+25.06140,121.53929,Jiangning Park,"No. 186, Hejiang St. (Opposite)",2024-06-23 08:40:31,15,3,12
+25.06225,121.54107,Minquan E. Rd. & Long Jiang Rd. Intersection,"Sec. 3, Minquan E. Rd. & Long Jiang Rd. Intersection (Southeast)",2024-06-23 08:48:20,32,29,3
+25.06246,121.52705,MRT Zhongshan Elementary School Sta. (Exit 2),MRT Zhongshan Elementary School Sta. (Exit 2) (Back),2024-06-23 08:41:19,59,30,29
+25.05992,121.53330,MRT Xingtian Temple Sta. (Exit 3),"No. 261, Songjiang Rd.",2024-06-23 08:45:22,42,6,36
+25.06531,121.52565,Linsen Rd. & Nong'an St. Intersection,"No. 582, Linsen N. Rd.",2024-06-23 08:50:25,17,1,16
+25.06283,121.52697,MRT Zhongshan Elementary School Sta. (Exit 4),"Sec. 1, Minquan E. Rd. & Ln. 71, Sec. 1, Minquan E. Rd. Intersection",2024-06-23 08:51:20,20,9,11
+25.06491,121.52449,Nong'an St. & Shuangcheng St. Intersection,"No. 12-1, Nong'an St.",2024-06-23 08:49:20,15,10,5
+25.06652,121.52762,Xinsheng Rd. & Dehui St. Intersection,"No. 76, Sec. 3, Xinsheng N. Rd. (Opposite)",2024-06-23 08:46:20,25,14,11
+25.06847,121.52559,Minzu Rd. & Linsen Rd. Intersection,"No. 17, Minzu E. Rd.",2024-06-23 08:43:20,37,13,24
+25.06987,121.52291,Taipei Fine Arts Museum,Taipei EXPO Park Yuanshan Gate 5,2024-06-23 08:02:20,24,5,19
+25.06816,121.52265,Zhongshan Rd. & Minzu Rd. Intersection,"No. 54, Sec. 3, Zhongshan N. Rd.",2024-06-23 08:51:20,16,2,14
+25.04983,121.52853,"Xinsheng Elevated Parking Lot (Ln. 107, Linsen N. Rd.)","Sec. 1, Xinsheng N. Rd. & Ln. 107, Linsen N. Rd. (Under Xinsheng Elevated Bridge)",2024-06-23 08:50:31,14,7,7
+25.05201,121.52556,Nanjing E. Rd.,"No. 86, Sec. 1, Nanjing E. Rd.",2024-06-23 08:51:20,10,4,6
+25.05337,121.52890,Rende Park,"Ln. 108, Jilin Rd. & Ln.21 , Sec. 2, Nanjing E. Rd. Intersection (Southeast)",2024-06-23 08:08:20,18,13,5
+25.05583,121.52821,Zhongyuan Park,"Ln. 45, Sec. 2, Xinsheng N. Rd. (Zhongyuan Park West)",2024-06-23 08:49:20,15,8,7
+25.06682,121.54213,Xiapi Park,"No. 4, Aly. 13, Ln. 512, Minzu E. Rd.",2024-06-23 08:51:20,24,4,20
+25.06505,121.54366,Wuchang Junior High School,"No. 5, Aly. 2, Ln. 488, Fuxing N. Rd. (Opposite)",2024-06-23 08:38:20,16,8,8
+25.06424,121.54037,Rongxing Garden,"No. 77, Wuchang St. (Opposite)",2024-06-23 08:49:20,46,34,5
+25.06251,121.53765,Minquan Rd. & Jianguo N. Rd. Intersection,"Sec. 3, Minquan E. Rd. & Sec. 3, Jianguo N. Rd. Intersection (Northeast)",2024-06-23 08:48:20,50,38,9
+25.06585,121.53338,"Ln. 431, Songshan Rd. Intersection","No. 433, Songjiang Rd.",2024-06-23 08:50:31,15,10,5
+25.06533,121.53177,Xinxi Park,"No. 22, Ln. 170, Dehuei St. (Opposite)",2024-06-23 08:49:20,13,4,9
+25.06595,121.53041,"Ln. 407, Jilin Rd. Intersection","No. 401, Jilin Rd",2024-06-23 08:51:20,15,4,11
+25.06833,121.53280,Minzu Rd. & Songjiang Rd. Intersection,Minzu E. Rd. & Songjiang Rd. Intersection (Northwest),2024-06-23 08:51:20,17,9,8
+25.07154,121.53058,Lin An Tai Historical House,"No. 5, Binjiang St. (Opposite)",2024-06-23 08:17:34,36,17,19
+25.06185,121.52260,zhongshan Public Assembly Hall,"Ln. 128, Sec. 2, Jhongshan N. Rd.",2024-06-23 08:38:20,20,8,12
+25.04573,121.53508,Weishuei Rd. & Bade Rd. Intersection,"No. 54, Weishuei Rd. (Opposite)",2024-06-23 08:48:20,23,20,3
+25.05228,121.52176,MRT Zhongshan Sta. (Exit 2),"No. 4, Nanjing W. Rd.",2024-06-23 08:49:20,33,5,28
+25.06416,121.52203,Fushun Park,"No. 2, Sec. 3, Jhongshan N. Rd. (Opposite)",2024-06-23 08:51:20,30,7,23
+25.06839,121.53032,Xinsheng Park,Minzu E. Rd & Jilin Rd. Intersection (Northwest),2024-06-23 08:26:20,29,10,19
+25.05867,121.53305,MRT Xingtian Temple Sta. (Exit 1),"No. 230, Songjiang Rd.",2024-06-23 08:32:20,46,26,19
+25.05497,121.52536,Linsen & Changchun Intersection,"No. 29, Changchun Rd.",2024-06-23 08:51:20,28,18,10
+25.06503,121.53678,Jianguo & Nong'an Intersection,Jianguo N. Rd. & Nong'an St. Intersection,2024-06-23 08:49:20,50,38,12
+25.04985,121.53312,"Ln. 77, Songjiang Rd.","Ln. 77, Songjiang Rd.",2024-06-23 08:26:20,10,7,3
+25.04836,121.53669,Jianguo & Chang'an Intersection,"Sec. 1, Jianguo N. Rd. & Sec. 2, Chang'an E. Rd. Intersection (North)",2024-06-23 08:39:19,20,16,4
+25.04611,121.53193,Civic & Xinsheng Intersection,"No. 36, Sec. 1, Xinsheng N. Rd.",2024-06-23 08:31:20,15,2,13
+25.06269,121.53061,Minquan & Jilin Intersection,"No. 51, Sec. 2, Minquan E. Rd.",2024-06-23 08:48:20,15,7,8
+25.06510,121.52240,Zhongshan Rd. & Nong'an St. Intersection,"No. 25, Sec. 3, Zhongshan N. Rd.",2024-06-23 08:50:31,17,6,11
+25.05575,121.52168,MRT Administration Building,"No. 7, Ln. 48, Sec. 2, Zhongshan N. Rd",2024-06-23 08:51:20,14,9,5
+25.05680,121.53191,"Zhongji Park(Ln. 188, Songjiang Rd.)","No. 11, Ln. 188, Songjiang Rd. (Opposite)",2024-06-23 08:28:19,22,17,5
+25.05731,121.53021,"Ln. 123, Jilin Rd.","No. 125, Jilin Rd.",2024-06-23 08:47:20,13,1,12
+25.05808,121.52887,Zhongyuan St. & Minsheng Rd. Intersection,"No. 33, Sec. 2, Minsheng E. Rd.",2024-06-23 08:43:15,15,0,15
+25.05794,121.54244,National Taipei University(Taipei Canpus),"No. 67, Sec. 3, Minsheng E. Rd.",2024-06-23 08:50:31,38,7,31
+25.06028,121.52991,Jinzhou St. & Jilin Rd. Intersection,"No. 174, Jinzhou St.",2024-06-23 08:50:31,30,14,16
+25.05606,121.52290,"Ln. 59, Sec. 2, Zhongshan N. Rd.","No. 59-3, Sec. 2, Zhongshan N. Rd.",2024-06-23 08:50:31,12,7,5
+25.05873,121.52488,"Yongsheng Park(Ln. 23, Sec. 1, Minsheng E. Rd.)","Ln. 23, Sec. 1, Minsheng E. Rd. & Ln. 27, Sec. 1, Minsheng E. Rd. Intersection",2024-06-23 08:50:31,24,16,8
+25.05955,121.52744,Xinsheng Rd. & Jinzhou St. Intersection,"No. 100, Sec. 2, Xinsheng N. Rd.",2024-06-23 08:31:19,20,7,13
+25.07340,121.53985,"Ln. 199, Binjiang St.","Ln. 199, Binjiang St.",2024-06-23 08:51:20,15,6,9
+25.07275,121.53730,Dajia Community Park,"Ln. 154, Binjiang St. (Opposite)",2024-06-23 08:42:20,15,5,10
+25.06807,121.53673,Binjiang Fruit and Vegetable Wholesale Market,"No. 336, Minzu E. Rd.",2024-06-23 08:32:20,22,18,4
+25.05619,121.53949,Xing'an St. & Hejiang St. Intersection,"No. 60, Xing'an St. (Opposite)",2024-06-23 08:51:20,29,18,11
+25.06597,121.54117,Fuxing Rd. & Longjiang Rd. Intersection,"No. 66, Ln. 514, Fuxing N. Rd.",2024-06-23 08:43:15,12,0,12
+25.06142,121.52305,TCC Building,"No. 113-133, Sec. 2, Zhongshan N. Rd.",2024-06-23 08:49:20,18,13,5
+25.08303,121.56040,Zhifu Rd. & Lequn Rd. Intersection,Zhifu Rd. & Lequn 3rd Rd. Intersection (Northwest),2024-06-23 08:50:31,10,4,6
+25.06157,121.52439,Xinxing Park,"Ln. 13, Jinzhou St. & Ln. 137, Sec. 2, Zhongshan N. Rd. Intersection (Southeast)",2024-06-23 08:51:20,26,13,13
+25.05189,121.53517,Nanjing Rd. & Yitong St. Intersection,"No. 178-1, Sec. 2, Nanjing E. Rd.",2024-06-23 08:50:25,11,0,11
+25.05205,121.54012,Nanjing Rd. & Longjiang Rd. Intersection,"No. 121, Sec. 3, Nanjing E. Rd.",2024-06-23 08:45:22,24,6,18
+25.06389,121.51916,"Ln. 41, Fushun St. (Chongde Temple)","No. 1-7, Ln. 41, Fushun St.",2024-06-23 08:34:19,19,6,13
+25.08152,121.54646,Taipei Public Library Dazhi Branch,"No. 28, Dazhi St. (Opposite)",2024-06-23 08:29:19,20,9,11
+25.08010,121.54708,MRT Dazhi Sta. (Exit 1),"No. 535-2, Bei'an Rd.",2024-06-23 08:51:20,27,16,11
+25.05120,121.53312,MRT Songjiang Nanjing Sta. (Exit 4),"No.109, Songjiang Rd.",2024-06-23 08:50:31,32,1,31
+25.07864,121.55557,hong 429 Park,"Ln. 177, Jingye 3rd Rd. (South)",2024-06-23 08:37:19,21,17,3
+25.05791,121.53114,"Ln. 137, Changchun Rd.","No. 134, Sec. 2, Minquan E. Rd.",2024-06-23 08:47:20,23,15,8
+25.05765,121.53299,Songjiang Rd. & Minsheng Rd. Intersection,"No. 208, Songjiang Rd.",2024-06-23 08:50:30,21,14,7
+25.05277,121.53013,"Ln. 132, Songjiang Rd.","No. 100, Jilin Rd. (Opposite)",2024-06-23 08:40:31,14,10,4
+25.05481,121.53032,Changchun Rd. & Jilin Rd. Intersection,"No. 120, Changchun Rd.",2024-06-23 07:58:15,10,6,4
+25.05488,121.53142,Changchun Rd. & Yijiang St. Intersection,"No. 135, Changchun Rd.",2024-06-23 08:29:19,11,5,6
+25.05215,121.53276,MRT Songjiang Nanjing Sta. (Exit 8),"No. 101, Sec. 2, Nanjing E. Rd.",2024-06-23 08:50:31,25,11,14
+25.05215,121.53171,Nanjing Rd. & Yijiang St. Intersection,"No. 85, Sec. 2, Nanjing E. Rd.",2024-06-23 01:54:20,20,1,19
+25.05499,121.53295,Songjiang Rd. & Changchun Rd. Intersection,"No. 158, Songjiang Rd.",2024-06-23 08:43:20,16,11,5
+25.07802,121.53511,Ching-kuo Chi-Hai Culture Park,"No. 301, Bei'an Rd.",2024-06-23 08:39:19,15,10,5
+25.06873,121.52003,Minzu Rd. & Yumen St. Intersection,Minzu W. Rd. & Yumen St. Intersection (Northeast),2024-06-23 07:33:15,20,0,20
+25.06493,121.52778,Xinsheng Rd. & Nong'an St. Intersection,"Sec. 3, Xinsheng N. Rd. & Nong'an St. Intersection",2024-06-23 08:37:20,15,5,10
+25.06532,121.52848,Daojiang Senior High School of Nursing and Home Economics,"Ln. 77, Nong'an St. & Aly. 1, Ln. 77, Nong'an St. Intersection",2024-06-23 08:50:30,14,11,3
+25.07934,121.54671,MRT Dazhi Sta.(Exit 3)_1,"No. 52-1, Aly. 41, Ln. 458, Bei'an Rd.",2024-06-23 08:41:19,18,16,2
+25.07983,121.55236,Lequn 2nd Rd. & Mingshui Rd. Intersection,Lequn 2nd Rd. & Mingshui Rd. Intersection (East),2024-06-23 08:50:30,34,11,22
+25.06245,121.53043,Minquan Rd. & Jilin Rd. Intersection,"No. 46, Sec. 2, Minquan E. Rd.",2024-06-23 08:37:14,16,16,0
+25.05473,121.54026,Changchun Rd. & Longjiang Rd. Intersection,Changchun Rd. & Longjiang Rd. Intersection (Northwest),2024-06-23 08:50:31,39,12,27
+25.06305,121.52776,Minquan Rd. & Xinsheng Rd. Intersection,"Sec. 1, Minquan E. Rd. & Sec. 3, Xinsheng N. Rd. Intersection (North)",2024-06-23 08:47:20,26,24,2
+25.05476,121.53693,Jianguo Rd. & Changchun Rd. Intersection,Jianguo N. Rd. & Changchun Rd. Intersection (North),2024-06-23 08:44:20,30,3,27
+25.06432,121.53349,Zhongshan District Household Registration Office,Songjiang Rd. & Nong'an St. Intersection,2024-06-23 08:47:20,30,23,7
+25.07063,121.52327,Taipei Fine Arts Museum_1,"Sec. 3, Zhongshan N. Rd. (Pavilion of New Fashion)",2024-06-23 08:51:20,30,7,23
+25.08476,121.53789,Jiantan Community_1,"No. 143, Tongbei St.",2024-06-23 08:40:31,42,18,24
+25.07818,121.56175,Binjiang Elementary School Swimming Pool,"No. 99, Ln. 266, Lequn 2nd Rd.",2024-06-23 08:40:30,16,12,3
+25.05223,121.52581,Linsen Park,"Linsen N. Rd. ＆ Sec. 1, Nanjing E. Rd. Intersection",2024-06-23 08:50:30,32,6,26
+25.07825,121.55337,Zhong 428 Park,"Ln. 30, Lequn 2nd Rd. & Aly. 61, Ln. 116, Lequn 2nd Rd. Intersection",2024-06-23 08:40:31,15,9,6
+25.05339,121.54010,Fuhua Park,"Ln. 109, Sec. 3, Nanjing E. Rd. & Ln. 120, Longjiang Rd. Intersection",2024-06-23 08:34:19,20,8,12
+25.06819,121.52767,Xinsheng Rd. & Minzu Rd. Intersection,"Sec. 3, Xinsheng N. Rd. & Minzu E. Rd. Intersection (Southwest)",2024-06-23 08:37:20,15,9,6
+25.05253,121.54256,MRT Nanjing Fuxing Sta. (Exit.1),"MRT Nanjing Fuxing Sta.(Exit.1) (Ln. 155, Liaoning St.)",2024-06-23 08:51:20,21,20,1
+25.04478,121.53661,Bade Market (North),"Sec. 1, Jianguo S. Rd. & Civic Blvd. Intersection (North)",2024-06-23 08:50:31,26,6,20
+25.05004,121.54043,Longjiang Rd. & Zhulun St. Intersection,Longjiang Rd. & Zhulun St. Intersection (Northwest),2024-06-23 08:08:20,14,1,13
+25.08431,121.54755,"Ln. 94, Dazhi St.","Ln. 94, Dazhi St.",2024-06-23 08:40:31,15,9,6
+25.05196,121.54330,MRT Nanjing Fuxing Sta. (Exit.8),"No. 221, Sec. 3, Nanjing E. Rd.",2024-06-23 08:48:20,25,22,3
+25.06228,121.53702,Minquan Rd. & Jianguo Rd. Intersection (South),"Sec. 3, Minquan E. Rd. & Sec. 2, Jianguo N. Rd. (Under Elevated Bridge)",2024-06-23 08:50:25,15,14,1
+25.06688,121.52570,Linsen Rd. & Dehui St. Intersection,"No. 11, Dehui St. (East)",2024-06-23 08:50:31,16,4,12
+25.07059,121.52812,Xinsheng Rd. & Binjiang St. Intersection (Southeast),"Sec. 3, Xinsheng N. Rd. & Binjiang St. Intersection (Southeast)",2024-06-23 07:43:19,21,12,9
+25.04699,121.53075,"Ln. 62, Sec. 1, Xinsheng N. Rd.","No. 64, Sec. 1, Xinsheng N. Rd. (Opposite)",2024-06-23 08:27:21,30,7,22
+25.05532,121.52769,Xinsheng Rd. & Changchun Rd. Intersection (Northeast),"No. 39-2, Sec. 2, Xinsheng N. Rd. (Opposite)",2024-06-23 08:45:21,19,1,18
+25.08519,121.55498,MRT Jiannan Rd. Sta. (Exit. 1),"Ln. 807, Bei'an Rd.",2024-06-23 08:44:20,21,2,15
+25.08272,121.55624,Jingye 3rd Rd. & Lequn 3rd Rd. Intersection (Northwest),Jingye 3rd Rd. & Lequn 3rd Rd. Intersection,2024-06-23 08:46:20,22,17,5
+25.05427,121.53896,"Aly. 2, Ln. 258, Changchun Rd.","No. 6, Ln. 258, Changchun Rd. (North)",2024-06-23 08:50:31,15,6,9
+25.05418,121.54332,Zhangning Dasha Community (South),"No. 13, Ln. 201, Liaoning St.",2024-06-23 08:46:20,15,3,12
+25.06419,121.53732,Jianguo Rd. & Wuchang St. Intersection,"Sec. 3, Jianguo N. Rd. & Wuchang St. Intersection",2024-06-23 08:50:31,20,14,6
+25.05676,121.52268,"Ln. 62, Sec. 2, Zhongshan N. Rd.","No. 66, Sec. 2, Zhongshan N. Rd.",2024-06-23 08:14:20,12,2,10
+25.04480,121.54213,Civic Blvd. & Andong St. Intersection,"No. 179, Sec. 3, Civic Blvd.",2024-06-23 08:51:20,20,2,18
+25.04812,121.52166,"Ln. 5, Sec. 2, Civic Blvd.","Sec. 2, Civic Blvd. & Ln. 5, Sec. 2, Civic Blvd. Intersection",2024-06-23 08:35:21,15,6,9
+25.05236,121.52212,MRT Zhongshan Sta. (Exit 3),"No. 1, Nanjing W. Rd.",2024-06-23 08:48:20,21,5,16
+25.05959,121.53682,Jianguo N. Rd. Parking Lot (G),Jianguo N. Rd. Parking Lot (G),2024-06-23 08:31:20,18,8,9
+25.04919,121.54198,Zhulun Park,"No. 42, Ln. 45, Longjiang Rd.",2024-06-23 08:49:20,20,1,19
+25.04992,121.54379,Zhulun St. & Fuxing N. Rd. Intersection,"No. 56, Fuxing N. Rd.",2024-06-23 08:48:20,12,2,10
+25.06037,121.53283,MRT Xingtian Temple Sta. (Exit 4),"No. 316, Songjiang Rd.",2024-06-23 08:50:31,30,24,6
+25.06617,121.53526,"Ln. 86, Sec. 3, JianGuo N. Rd.","Sec. 3, Jianguo N. Rd. & Ln. 86, Sec. 3, Jianguo N. Rd. Intersection",2024-06-23 08:23:19,15,11,4
+25.04808,121.52898,ZhengShou Park,"Ln. 56, Sec. 1, Chang'an E. Rd. & Sec. 1, Chang'an E. Rd. Intersection",2024-06-23 08:43:20,15,1,14
+25.05366,121.53282,SiPing St. & SongJiang Rd. Intersection,"No. 148, Songjiang Rd.",2024-06-23 07:58:16,18,8,10
+25.07965,121.54148,BeiAn Rd. & TongBei St. Intersection,BeiAn Rd. & TongBei St. Intersection (Northeast),2024-06-23 08:31:15,17,0,17
+25.06246,121.54323,MinQuan E. Rd. & FuXing N. Rd. Intersection (Northwest),"No. 69, Sec. 3, MinQuan E. Rd.",2024-06-23 08:45:21,20,12,8
+25.05484,121.53521,Taipei Municipal Datong High School,"No. 167, ChangChun Rd.",2024-06-23 08:47:19,22,5,17
+25.08578,121.55225,BeiAn Rd. & MingShui Rd. Intersection (ZiQiang Tunnel),BeiAn Rd. & MingShui Rd. Intersection (Bus Station：ZiQiang Tunnel),2024-06-23 07:48:19,12,8,4
+25.05126,121.53845,"Zhong Zheng Elementary School (Ln. 48, Sec. 3, NanJing E. Rd.)","Ln. 48, Sec. 3, NanJing E. Rd. & Ln. 76, LongJiang Rd. Intersection",2024-06-23 08:39:18,15,6,9
+25.08044,121.56152,Times Square Taipei,"No. 308, ZhiFu Rd.",2024-06-23 08:38:20,35,3,32
+25.06493,121.53034,JiLin Rd. & NongAn St. Intersection (Northwest),"No. 388, JiLin Rd.",2024-06-23 08:49:20,15,10,5
+25.07734,121.56310,HuanShan Pumping Station,"No. 168, JiHu Rd.",2024-06-23 07:15:22,21,6,15
+25.06292,121.52299,MinQuan E. Rd. & ZhongShan N. Rd. Intersection (Northeast),"No. 171, Sec. 2, ZhongShan N. Rd.",2024-06-23 08:45:22,25,2,23
+25.06409,121.54415,FuXing N. Rd. & WuChang St. Intersection (Southwest),"No. 448, FuXing N. Rd.",2024-06-23 08:23:01,26,12,14
+25.04819,121.53282,SongJiang Rd. & ChangAn E. Rd. Intersection,"No. 50, SongJiang Rd.",2024-06-23 08:48:20,20,16,4
+25.09122,121.55961,"Aly. 118, Ln. 21, Wunhu St.","No. 6-10, Aly. 118, Ln. 21, Wunhu St.",2024-06-23 08:32:20,28,23,5
+25.08378,121.56208,Beishi Lake Environmental Park,"No. 66-72, Sec. 1, Neihu Rd.",2024-06-23 06:33:20,15,5,10
+25.07977,121.56454,Jhouzih No.1 Park,"No. 37, Jihu Rd.",2024-06-23 08:14:20,43,9,34
+25.08284,121.56449,Xikang Park,"No. 225, Sec 1, Neihu Rd.",2024-06-23 08:38:19,16,8,8
+25.08637,121.56088,Wenhu Elementary School,"Ln. 21, Wunhu St.",2024-06-23 08:48:20,43,19,24
+25.08707,121.56406,"No. 10, Ln. 81, Wenhu St","No. 10, Ln. 81, Wenhu St.(West)",2024-06-23 08:50:30,14,10,3
+25.08637,121.56574,Takming University of Science and Technology,"No. 56, Sec. 1, Huanshan Rd.(South)",2024-06-23 08:46:19,36,15,21
+25.08260,121.57158,Lishan Elementary School,"Ln. 411, Sec. 1, Neihu Rd.(East)",2024-06-23 08:48:20,18,2,16
+25.08398,121.57725,Lishan Senior High School,"No. 141, Sec. 2, Huanshan Rd.(North)",2024-06-23 08:42:20,33,4,29
+25.08522,121.57462,Ganghua 2nd Park,"No. 81, Sec. 2, Huanshan Rd.(Northwest)",2024-06-23 08:44:20,16,2,14
+25.08803,121.59958,Dahu Elementary School,"Dahu Shanzhuang St & Ln. 176, Dahu Shanzhuang St. (Southeast)",2024-06-23 08:48:20,25,13,12
+25.07021,121.61593,Anhu No.3 Park,"No. 3, Aly. 49, Ln. 113, Donghu Rd. (North)",2024-06-23 08:44:20,12,8,4
+25.07177,121.61491,"Aly. 95, Ln. 113, Donghu Rd","No. 13, Aly. 95, Ln. 113, Donghu Rd. (West)",2024-06-23 08:27:21,10,6,4
+25.07450,121.57389,Ruiguangjichengchefuwu Sta,"No. 2, Ln. 221, Gangqian Rd.",2024-06-23 08:37:20,20,10,10
+25.07524,121.57720,Wende No. 3 Park,"No. 271, Ruiguang Rd. (Southeast)",2024-06-23 08:46:20,15,1,14
+25.08395,121.60185,MRT Dahu Park Sta. (Exit 2),"No. 5, Sec. 5, Chenggong Rd. (East)",2024-04-22 01:15:19,28,0,28
+25.07958,121.59336,Kangning Rd & Xingyun St Intersection,"No. 116, Sec. 1, Kangning Rd.",2024-06-23 08:08:19,12,8,4
+25.07864,121.59177,"No. 47, Xingyun St","No. 47, Xingyun St. (South)",2024-06-23 08:51:20,15,12,2
+25.08301,121.56638,MRT Xihu Sta. (Exit 1),"Ln. 9, Sec. 1, Huanshan Rd",2024-06-23 08:37:20,23,6,17
+25.08205,121.56716,MRT Xihu Sta. (Exit 2),"No. 291, Sec. 1, Neihu Rd. (Opposite)",2024-06-23 08:43:19,19,7,12
+25.07932,121.56869,Zhouzi No. 2 Park,"No. 500, Ruiguang Rd. (Opposite)",2024-06-23 08:28:19,60,15,45
+25.08296,121.57520,Gangdu Park,"No. 57, Ganghua St. (Opposite)",2024-06-23 08:49:20,15,4,11
+25.08598,121.57200,"Ln. 26, Sec. 2, Huanshan Rd Intersection","Sec. 2, Huanshan Rd & Ln. 26, Sec. 2, Huanshan Rd (Southwest)",2024-06-23 08:47:19,22,20,2
+25.08436,121.59478,Chenggong Rd & Jinlong Rd Intersection,"No. 188, Sec. 4, Chenggong Rd.",2024-06-23 08:51:20,29,24,5
+25.08780,121.59227,Bishan Park,"No. 28, Ln. 60, Sec. 3, Neihu Rd. (East)",2024-06-23 08:49:20,31,22,8
+25.08785,121.58790,Jinrui Park,"No. 203-8, Jinlong Rd. (North)",2024-06-23 08:49:20,30,14,16
+25.07842,121.58464,MRT Wende Sta. (Exit 2),"No. 212, Wende Rd.",2024-06-23 08:45:22,49,11,38
+25.07695,121.58764,Yangguang Park,"Yangguang St & Ln. 220, Wende Rd Intersection",2024-06-23 08:27:21,16,7,9
+25.07504,121.58375,Wende No.2 Park (South),"Aly. 102, Ln. 68, Yangguang St & Yangguang St Intersection",2024-06-23 08:32:20,13,6,7
+25.07758,121.58381,Wende No.2 Park (North),"No. 12, Ln. 210, Wende Rd. (Opposite)",2024-06-23 08:50:31,15,6,9
+25.07777,121.57961,Ruiyang Park,"No. 6, Ln. 22, Wende Rd. (Opposite)",2024-06-23 08:42:20,12,3,7
+25.07538,121.58079,Hu Guang Public House,"Ln. 22, Wende Rd & No. 1, Aly. 74, Ln. 22, Wende Rd Intersection",2024-06-23 08:49:20,37,12,25
+25.05575,121.58486,"No. 213, Tanmei St.","No. 213, Tanmei St. (South)",2024-06-23 07:38:19,12,4,8
+25.05590,121.57991,"No. 180, Sec. 6, Nanjing E. Rd.","No. 180, Sec. 6, Nanjing E. Rd. (North)",2024-06-23 08:01:19,21,18,2
+25.05768,121.58159,Tanmei Elementary School (Nanjing Rd. & Jiuzong Rd. Intersection,"No. 179, Xingshan Rd. (South)",2024-06-23 08:50:30,29,20,9
+25.05653,121.58345,"No. 343, Xinming Rd.","No. 343, Xinming Rd. (North)",2024-06-23 08:10:07,10,6,4
+25.05390,121.58084,Zhoumei Community Center,"No. 139, Tanmei St.",2024-06-23 08:46:20,17,12,5
+25.06915,121.58898,Neihu District Office,"No. 99, Sec. 6, Minquan E. Rd.",2024-06-23 08:44:20,25,13,12
+25.07007,121.62055,Lekang Park,"No. 22-1, Aly. 73, Ln. 61, Kangle St. (South)",2024-06-23 08:25:22,20,17,3
+25.06181,121.59447,"Aly. 24, Ln. 32, Ankang Rd.","No. 22, Aly. 24, Ln. 32, Ankang Rd.",2024-06-23 08:27:20,21,8,13
+25.06256,121.58607,Mingmei Park,"No. 27, Shitan Rd. (South)",2024-06-23 07:54:20,30,8,22
+25.05827,121.58707,"Ln. 368, Sec. 6, Nanjing E. Rd.","No. 382, Sec. 6, Nanjing E. Rd. (Southwest)",2024-06-23 08:40:31,73,16,57
+25.06058,121.59110,Xinming Rd. & Chenggong Rd. Intersection,"No. 22, Xinming Rd.",2024-06-23 08:10:07,30,20,10
+25.06835,121.58323,Minquan E. Rd. & Ruiguang Rd. Intersection,"No. 50, Sec. 6, Minquan E. Rd.",2024-06-23 07:59:19,32,23,9
+25.07335,121.57951,Ruiguang Public Housing (Ruiguang Rd),"No. 160, Ruiguang Rd.",2024-06-23 08:49:20,18,4,14
+25.06853,121.57813,"Ln. 15, Sec. 6, Minquan E. Rd.","No. 29, Ln. 15, Sec. 6, Minquan E. Rd.",2024-06-23 02:06:19,28,2,26
+25.06709,121.58002,Rotary Park,"No. 30, Sec. 6, Minquan E. Rd.",2024-06-23 07:56:19,30,17,13
+25.06286,121.57497,Xinhu 3rd Rd & Minshan St Intersection,"No. 36, Xinhu 3rd Rd.",2024-06-23 08:13:19,15,3,12
+25.05594,121.57865,No.119 Neihu Greens,"No. 125, Sec. 6, Nanjing E. Rd. (South)",2024-06-23 08:08:20,24,10,14
+25.05301,121.57592,Xingshan Park,"No. 27, Tanmei St. (West)",2024-06-23 08:01:20,20,14,6
+25.07151,121.58991,Tri-Service General Hospital,"No. 424, Sec. 2, Chenggong Rd. (Opposite)",2024-06-23 08:27:21,50,12,38
+25.06877,121.59265,Fuhua Market,"Sec. 6, Minquan E. Rd. / Ln. 180, Sec. 6, Minquan E. Rd. (Southwest)",2024-06-23 08:46:20,25,5,20
+25.06740,121.59749,Taipei Tennis Center,"No. 208, Sec. 6, Minquan E. Rd.",2024-06-23 08:22:56,34,0,34
+25.07249,121.60796,MRT Huzhou Sta. (Exit 1),"No. 39, Sec. 3, Kangning Rd. (Opposite)",2024-06-23 08:24:15,37,37,0
+25.07332,121.60223,Lihu Elementary School,"No. 11, Ln. 363, Jinhu Rd. (Opposite)",2024-06-23 08:42:19,27,5,22
+25.07330,121.59834,"Aly. 125, Ln. 347, Jinhu Rd. Intersection","No. 1, Aly. 125, Ln. 347, Jinhu Rd. (Opposite)",2024-06-23 05:41:19,15,10,5
+25.07988,121.58287,Bihu Park,"Sec. 2, Neihu Rd. / Ln. 103, Sec. 2, Neihu Rd. (Northeast)",2024-06-23 08:46:19,25,14,11
+25.08317,121.58109,"Bihu Park (Ln. 103, Sec. 2, Neihu Rd.)","No. 76, Ln. 103, Sec. 2, Neihu Rd. (Opposite)",2024-06-23 08:50:31,19,10,7
+25.08357,121.58534,Maoqi Community,"No. 17, Aly. 48, Ln. 179, Sec. 2, Neihu Rd.",2024-06-23 08:25:15,17,12,5
+25.08165,121.58891,Neihu District Farmers' Association,"No. 334, Sec. 2, Neihu Rd.",2024-06-23 08:45:15,12,0,12
+25.08350,121.59454,MRT Neihu Sta. (Exit 2),"No. 2, Aly. 6, Ln. 167, Sec. 4, Chenggong Rd.",2024-06-23 08:42:15,10,0,10
+25.07896,121.59921,Kangning Rd. & Jinhu Rd. Intersection,"No. 273, Sec. 1, Kangning Rd. (Opposite)",2024-06-23 07:52:19,14,7,4
+25.07792,121.59354,"Aly. 20, Ln. 156, Sec. 1, Kangning Rd. Intersection","Ln. 156, Sec. 1, Kangning Rd. / Aly. 20, Ln. 156, Sec. 1, Kangning Rd. (West)",2024-06-23 08:46:20,17,10,7
+25.06657,121.61360,Ankang Park,"No. 31, Ln. 14, Wufen St. (Opposite)",2024-06-23 08:28:19,19,4,15
+25.07669,121.61709,"Ln. 83, Antai St.","No. 3, Ln. 83, Antai St. (Opposite)",2024-06-23 08:49:20,34,27,7
+25.08722,121.62306,Neigousi Ecological Exhibition Hall,"No. 236-3, Kangle St.",2024-06-23 08:14:20,16,7,9
+25.07967,121.57584,MRT Gangqian Sta. (Exit 2),"No. 520, Sec. 1, Neihu Rd.",2024-06-23 08:51:20,47,17,30
+25.07334,121.61962,Dong Hu Junior High School,"No. 4, Ln. 125, Kangle St. (Opposite)",2024-06-23 08:50:31,42,29,13
+25.06261,121.59334,Shitan Park (Ankang Rd.),"No. 28, Ankang Rd. (Northwest)",2024-06-23 06:10:27,20,8,12
+25.06209,121.60347,Neihu Refuse Incineration Plant,"No. 290, Ankang Rd. (West)",2024-06-23 08:31:20,20,5,15
+25.06927,121.61019,Kangning Park (North),"No. 60, Sec. 3, Kangning Rd. (South)",2024-06-23 08:48:20,20,7,13
+25.07160,121.60936,"Ln. 54, Sec. 3, Kangning Rd. Intersection","No. 54-5, Sec. 3, Kangning Rd. (West)",2024-06-23 01:48:19,15,5,10
+25.05707,121.57658,"Ln. 25, Xingshan Rd. Intersection","No. 39, Xingshan Rd.",2024-06-23 08:36:20,21,3,17
+25.05503,121.57823,"Ln. 460, Xinming Rd. Intersection","No. 122, Sec. 6, Nanjing E. Rd. ((Front right))",2024-06-23 08:08:19,15,13,2
+25.06516,121.59561,Xiawan Park,"Ln. 206, Sec. 6, Minquan E. Rd. & Aly. 75, Ln. 190, Sec. 6, Minquan E. Rd. (Northwest)",2024-06-23 00:41:19,30,9,21
+25.06708,121.60059,"Ln. 245, Sec. 6, Minquan E. Rd. Intersection","No. 247, Sec. 6, Minquan E. Rd.",2024-06-23 08:46:20,17,10,7
+25.06854,121.61532,Donghu Elementary School,"Donghu Rd.& Ln. 113, Donghu Rd. Intersection (East)",2024-06-23 08:49:20,29,22,7
+25.08373,121.59406,MRT Neihu Sta. (Exit.1),"Ln. 182, Sec. 4, Chenggong Rd. & Sec. 4, Chenggong Rd. Intersection (West)",2024-06-23 08:51:20,28,16,8
+25.07611,121.57487,Rueiguang Rd. & Gangcian Rd. Intersection,"No. 185, Gangcian Rd.",2024-06-23 08:50:31,30,0,30
+25.07296,121.57603,Rueihu St. & Yangguang St. Intersection,"No. 101, Rueihu St. (Opposite)",2024-06-23 08:48:20,34,11,23
+25.08554,121.59076,Jinlong Park,"Ln. 112, Jinlong Rd.",2024-06-23 08:51:20,15,3,12
+25.07943,121.59544,"Aly. 1, Ln. 138, Xingyun St.","No. 12, Ln. 138, Xingyun St.",2024-06-23 08:24:15,15,0,14
+25.07567,121.61180,Donghu No. 1 Park,"No. 13, Aly. 163, Ln. 189, Sec. 3, Kangning Rd. (Southeast)",2024-06-23 08:44:20,10,6,4
+25.07415,121.61075,Donghu No. 2 Park,"No. 70, Aly. 39, Ln. 99, Sec. 3, Kangning Rd. (Southeast)",2024-06-23 08:40:31,15,11,4
+25.07514,121.60857,Kanghu No. 2 Park(Kang-Ning General Hospital),"No. 17, Ln. 420, Sec. 5, Chenggong Rd. (East)",2024-06-23 08:50:31,16,3,13
+25.05892,121.57354,Tiding Blvd. & Xinhu 1st Rd. Intersection,"No. 215, Sec. 1, Tiding Blvd.",2024-06-23 05:52:19,13,8,5
+25.06682,121.59070,Xiawan Park,"No. 189, Sec. 2, Chenggong Rd. (North)",2024-06-23 08:46:14,16,15,1
+25.05876,121.58062,Jiuzong Rd. & Xingshan Rd. Intersection,"No. 179, Xingshan Rd.",2024-06-23 08:27:21,22,9,13
+25.06455,121.58262,"Ln. 250, Xinhu 2nd Rd.","Xinhu 2nd Rd. & Ln. 250, Xinhu 2nd Rd. Intersection (Southwest)",2024-06-23 08:15:22,20,11,9
+25.08105,121.59205,"Ln. 41, Sec. 4, Chenggong Rd.","No. 6, Ln. 41, Sec. 4, Chenggong Rd.",2024-06-23 08:50:31,12,8,4
+25.08151,121.59764,Jinhu Rd. & Xingyun St. Intersection,"No. 83, Jinhu Rd. (Opposite)",2024-06-23 08:50:31,30,22,8
+25.06851,121.59559,National Defense Medical Center,"No. 161, Sec. 6, Minquan E. Rd.",2024-06-23 07:40:32,25,12,13
+25.06434,121.59399,"Aly. 117, Ln. 190, Sec. 6, Minquan E. Rd.","No. 15, Aly. 117, Ln. 190, Sec. 6, Minquan E. Rd.",2024-06-23 03:06:19,15,12,3
+25.07848,121.57493,Taipei Neihu Sports Center,"No. 12, Zhouzi St.",2024-06-23 08:36:20,21,16,5
+25.08844,121.56122,Jiuhua Park,"No. 25-6, Aly. 68, Ln. 21, Wenhu St. (North)",2024-06-23 08:45:22,16,7,9
+25.08454,121.58400,"Ln. 179, Sec. 2, Neihu Rd.","No. 242, Ln. 179, Sec. 2, Neihu Rd. (Opposite)",2024-06-23 08:25:21,16,12,4
+25.06060,121.58286,Xingshan Rd. & Xing'ai Rd. Intersection,"No. 243, Xingshan Rd.",2024-06-23 08:43:20,12,10,2
+25.06017,121.57552,Xinhu 2nd Rd. & Minshan St. Intersection (Carrefour),"No. 88, Minshan St.",2024-06-23 08:47:20,23,12,11
+25.06007,121.60138,Welldone Building,"No. 181, Anmei St.",2024-06-23 07:39:18,25,8,17
+25.07433,121.58584,"Ln. 161, Yangguang St. Intersection","No. 14, Ln. 161, Yangguang St. (Opposite)",2024-06-23 08:24:20,16,8,7
+25.05928,121.58617,"Tanmei Park (Ln. 368, Sec. 6, Nanjing E. Rd.)","No. 366, Sec. 6, Nanjing E. Rd. (Opposite)",2024-06-23 08:44:20,18,3,15
+25.08503,121.56370,Xikang No. 2 Park,"Ln. 60, Wenhu St. & Ln. 24, Sec. 1, Huanshan Rd. Intersection (North)",2024-06-23 08:40:31,21,9,12
+25.06935,121.58692,"Sanmin Junior High School (Ln. 47, Sec. 6, Minquan E. Rd.)","No. 6, Ln. 47, Sec. 6, Minquan E. Rd. (Opposite)",2024-06-23 08:34:19,13,6,7
+25.07168,121.58125,"Ln. 76, Ruiguang Rd.","No. 102, Ruiguang Rd.",2024-06-23 08:37:19,12,3,9
+25.06664,121.61351,MRT Donghu Sta.,"Ln. 315, Ankang Rd. & Ln. 14, Wufen St. Intersection (West)",2024-06-23 08:46:20,35,9,26
+25.06874,121.58923,XinHu Elementary School,"Sec. 6, Minquan E. Rd. & Aly. 31, Ln. 320, Sec. 2, Chenggong Rd. Intersection (Southeast)",2024-06-23 08:17:29,12,0,12
+25.08627,121.59140,Bishan Rd. & Neihu Rd. Intersection,"No. 15, Ln. 72, Sec. 3, Neihu Rd. (West)",2024-06-23 08:46:20,16,10,6
+25.07038,121.60352,"Ln. 413, Sec. 6, Minquan E. Rd.","No. 409, Sec. 6, Minquan E. Rd.",2024-06-23 02:56:19,16,8,8
+25.07676,121.57433,Honhui Ruiguang Plaza (Ruiguang Rd.),"No. 353, Ruiguang Rd. (Ruiguang Rd.)",2024-06-23 08:34:19,16,3,13
+25.07777,121.57562,Honhui Ruiguang Plaza (Gangqian Rd.),"No. 353, Ruiguang Rd. (Gangqian Rd.)",2024-06-23 08:47:20,20,16,4
+25.07192,121.61955,"Ln. 151, Kangle St.","Ln. 151, Kangle St. & Kangle St. Intersection",2024-06-23 08:51:20,24,16,8
+25.08120,121.57067,"Ln. 360, Sec. 1, Neihu Rd.","No. 358, Sec. 1, Neihu Rd.",2024-06-23 07:17:37,15,7,8
+25.07823,121.58980,"No. 83, Sec. 3, Chenggong Rd.","No. 83, Sec. 3, Chenggong Rd.",2024-06-23 08:48:20,11,6,5
+25.08781,121.55872,"Ln. 47, Sec. 1, Neihu Rd.","Ln. 47, Sec. 1, Neihu Rd. & Aly. 22, Ln. 47, Sec. 1, Neihu Rd. Intersection",2024-06-23 08:28:19,16,11,5
+25.07243,121.57416,Yangguang St. & Jiuzong Rd. Intersection,"Yangguang St. & Sec. 2, Jiuzong Rd. Intersection",2024-06-23 06:42:19,20,7,13
+25.07392,121.61545,Anhu Park,"Aly. 95, Ln. 113, Donghu Rd. & Ln. 75, Sec. 3, Kangning Rd. Intersection",2024-06-23 07:45:21,8,4,4
+25.06671,121.58913,Huxing Park,"Aly. 23, Ln. 250, Sec. 2, Chenggong Rd. & Ln. 312, Sec. 2, Chenggong Rd. Intersection",2024-06-23 08:46:19,16,3,13
+25.07849,121.61666,Antai St.(Kangle Bridge),Antai St.(Kangle Bridge),2024-06-23 08:24:20,15,12,3
+25.07539,121.62030,Kangle Greens,"Ln. 191, Kangle St. &  Kangle St. Intersection",2024-06-23 08:47:20,15,8,7
+25.08004,121.57568,MRT Gangqian Sta. (Exit 1),"No. 663, Sec. 1, Neihu Rd.",2024-06-23 08:46:14,23,18,0
+25.06058,121.58660,"Mingmei Park (Ln. 333, Xingshan Rd.)","No. 92, Ln. 333, Xingshan Rd.",2024-06-23 08:51:20,16,10,6
+25.06365,121.58609,"Ln. 383, Xingshan Rd.","No. 27, Ln. 383, Xingshan Rd. (Opposite)",2024-06-23 08:36:20,17,2,15
+25.06321,121.57681,Jiuzong Rd. & Xinhu 3rd Rd. Intersection,"Sec. 1, Jiuzong Rd. & Xinhu 3rd Rd. Intersection (South)",2024-06-23 08:35:21,18,11,7
+25.06766,121.57459,Neihu Sports Park,"Sec. 2, Jiuzong Rd. & Ln. 11, Sec. 6, Minquan E. Rd. Intersection",2024-06-23 06:51:19,17,4,13
+25.08968,121.58352,"Ln. 326, Sec. 3, Neihu Rd.","Ln. 326, Sec. 3, Neihu Rd. & Sec. 3, Neihu Rd. Intersection",2024-06-23 08:44:20,15,6,9
+25.08416,121.59665,Chengong Park,"Ln. 223, Sec. 4, Chenggong Rd. & Aly. 6, Ln. 223, Sec. 4, Chenggong Rd. Intersection",2024-06-23 07:52:19,11,7,4
+25.07350,121.61258,"Aly. 93, Ln. 189, Sec. 3, Kangning Rd.","Ln. 189, Sec. 3, Kangning Rd. & Aly. 93, Ln. 189, Sec. 3, Kangning Rd. Intersection",2024-06-23 08:51:20,14,7,7
+25.08227,121.59090,China Medical University Hospital (Taipei Branch),"No. 368, Sec. 2, Neihu Rd. (Opposite)",2024-06-23 08:51:20,13,2,11
+25.06643,121.61732,Kangle Pumping Station,"No. 23, Ln. 160, Donghu Rd.",2024-06-23 08:50:31,15,13,2
+25.08464,121.57945,"Ln. 16, Sec. 3, Huanshan Rd.","Sec. 3, Huanshan Rd. & Ln. 16, Sec. 3, Huanshan Rd. Intersection (Southeast)",2024-06-23 08:47:15,13,0,13
+25.07860,121.58302,Wende Green No.1,"No. 91, Wende Rd.",2024-06-23 08:46:20,15,8,7
+25.06265,121.57427,Taipei Flowers Auction,"No. 28, Xinhu 3rd Rd.",2024-06-23 08:13:19,30,6,23
+25.06126,121.58201,Xingshan Social Housing,Xing'ai Rd. & Xinhu 1st Rd. Intersection (Southwest),2024-06-23 08:50:31,23,16,7
+25.07210,121.60991,"Aly. 17, Ln. 99, Sec. 3, Kangning Rd.","No. 19, Ln. 99, Sec. 3, Kangning Rd. (Opposite)",2024-06-23 08:24:20,15,12,3
+25.08019,121.56316,"Ln. 407, Sec. 2, Tiding Blvd.","No. 405, Sec. 2, Tiding Blvd.",2024-06-23 01:46:14,15,4,11
+25.08156,121.56227,Heidelberg Science & Technology Building,"No. 473, Sec. 2, Tiding Blvd.",2024-06-22 23:08:19,12,3,9
+25.08067,121.56560,Primax Headquarters Building,"No. 669, Ruiguang Rd.",2024-06-23 08:40:31,17,9,8
+25.08202,121.56861,"Ln. 288, Sec. 1, Neihu Rd.","No. 290, Sec. 1, Neihu Rd.",2024-06-23 08:45:22,20,8,12
+25.06749,121.57784,Mtc Bus (Neihu),"No. 25, Ln. 11, Sec. 6, Minquan E. Rd. (Opposite)",2024-06-23 08:36:20,15,10,5
+25.06888,121.57711,Ruihu Park,"Aly. 15, Sec. 6, Minquan E. Rd. & Aly. 19, Sec. 6, Minquan E. Rd. Intersection",2024-06-23 06:56:19,15,2,13
+25.07345,121.57848,"CECI Engineering Consultants, Inc.","No. 323, Yangguang St.",2024-06-23 08:39:19,16,12,4
+25.07821,121.57103,Farglory Group,"No. 423, Yangguang St.",2024-06-23 08:49:20,14,5,9
+25.07733,121.57270,"Ln. 358, Ruiguang Rd.","Ruiguang Rd. & Ln. 358, Ruiguang Rd. Intersection",2024-06-23 07:52:19,14,5,9
+25.07897,121.57370,Dagangqian Park (Zhouzi St.),"Zhouzi St. & Ln. 393, Ruiguang Rd. Intersection",2024-06-23 08:24:20,18,5,13
+25.08049,121.57361,Century Trade Building,"No. 396, Sec. 1, Neihu Rd.",2024-06-23 07:33:15,16,0,16
+25.06805,121.58488,"Ln. 56, Sec. 6, Minquan E. Rd.","No. 7, Ln. 56, Sec. 6, Minquan E. Rd. (Opposite)",2024-06-23 08:49:20,15,8,7
+25.06605,121.58206,"Xinhu 3rd Rd. & Ln. 146, Xinhu 2nd Rd. Intersection","No. 122、124, Xinhu 3rd Rd. (Opposite)",2024-06-23 07:46:20,15,3,12
+25.06407,121.57787,"Xinhu 3rd Rd. & Ln. 146, Xinhu 2nd Rd. Intersection","No. 122、124, Xinhu 3rd Rd. (Opposite)",2024-06-23 06:11:19,15,6,9
+25.06151,121.57811,Jiuzong Rd. & Xinhu 2nd Rd. Intersection,"Sec. 1, Jiuzong Rd. & Xinhu 2nd Rd. Intersection (South)",2024-06-23 08:46:20,17,8,9
+25.08152,121.56489,Shinkong Jihu Building,"No. 12, Jihu Rd.",2024-06-23 08:04:19,19,6,13
+25.08203,121.56298,"Aly. 15, Ln. 120, Sec. 1, Neihu Rd.","No. 8, Aly. 15, Ln. 120, Sec. 1, Neihu Rd. (Opposite)",2024-06-23 07:08:22,19,4,15
+25.08318,121.56154,Beishihu Environmental Protection Park,"No. 501, Sec. 2, Tiding Blvd.",2024-06-22 22:31:19,14,6,8
+25.07941,121.57277,Darwin Building,"No. 61, Zhouzi St.",2024-06-23 07:41:20,15,4,11
+25.07074,121.61803,Donghu Park No.4,"No. 21, Ln. 110, Kangle St. (Opposite)",2024-06-23 08:13:19,21,15,6
+25.08035,121.57050,Gamma Technology center,"No. 17-19, Ln. 360, Sec. 1, Neihu Rd.",2024-06-23 08:39:19,13,4,9
+25.07983,121.59625,Fushou Park,"No. 156, Xingyun St.",2024-06-23 07:26:19,14,4,10
+25.08227,121.56709,MRT Xihu Sta. (Exit 1) (Neihu Rd.),"No. 289, Sec. 1, Neihu Rd.",2024-06-23 08:47:20,13,10,3
+25.06153,121.60033,ADATA Technology,"No. 537, Tanmei St.",2024-06-23 06:36:20,25,5,20
+25.08514,121.56161,Sun Technology Plaza,"No. 16, Ln. 91, Sec. 1, Neihu Rd. (Opposite)",2024-06-23 08:31:20,15,11,4
+25.07567,121.57341,"Ln. 316, Ruiguang Rd.","No. 35, Ln. 316, Ruiguang Rd.",2024-06-23 08:12:20,20,3,17
+25.07862,121.58796,"Ln. 220, WenDe Rd.","WenDe Rd. & Ln. 220, WenDe Rd. Intersection (Southwest)",2024-06-23 08:47:19,15,7,8
+25.06099,121.59662,ChangShou Pumping Station,"No. 38, AnMei St.",2024-06-23 08:06:21,15,13,2
+25.07264,121.60692,MRT Huzhou Sta. (Exit 2),"No. 6, Ln. 16, Sec. 3, KangNing Rd. (Opposite)",2024-06-23 08:50:31,18,6,12
+25.07595,121.62257,WuFenPi,"No. 25-35, Ln. 201, KangLe St.",2024-06-23 08:26:20,16,10,6
+25.08438,121.57876,"Ln. 1, Sec. 3, HuanShan Rd. (Lishan Senior High School)","No. 15, Sec. 3, HuanShan Rd. (Opposite)",2024-06-23 08:34:19,18,10,8
+25.06092,121.58898,"TanMei Park (No. 482, Sec. 6, NanJing E. Rd.)","No. 482, Sec. 6, NanJing E. Rd.",2024-06-22 17:39:20,29,9,20
+25.05698,121.58173,"TanMei Park (Ln. 298, XinMing Rd.)","No. 242, Sec. 6, NanJing E. Rd. (Opposite)",2024-06-23 08:49:20,26,18,8
+25.08389,121.57189,"LisHan Elementary School (Ln. 411, Sec. 1, NeiHu Rd.)","Ln. 411, Sec. 1, NeiHu Rd. & GangHua St. Intersection",2024-06-23 08:51:20,22,6,16
+25.11680,121.50480,"Ln. 304, Sec. 7, Chengde Rd.","No. 306-308, Chengde Rd. (Front)",2024-06-23 08:29:19,20,13,7
+25.10981,121.49886,Zhoumei Sports Park,"No. 271, Zhoumei St. (Front)",2024-06-23 08:32:20,20,6,14
+25.11357,121.52255,Ronghua 2nd & Mingde Rd. Intersection,"No. 212, Mingde Rd. (Ronghua 2nd Rd. Side)",2024-06-23 08:50:30,30,13,17
+25.10896,121.51936,MRT Mingde Station (Exit 1),"Sec.1, Xi'an St. & Mingde Rd. (Southeast)",2024-06-23 08:49:20,23,4,19
+25.10788,121.51457,Wenlin & Jianmin Intersection,"No. 214-216, Wenlin N. Rd. (Front)",2024-06-23 08:32:20,25,14,9
+25.12416,121.52607,Yongxin Greens,"No, 2, Ln. 10, Xingyi Rd. (Side)",2024-06-23 08:45:22,37,12,25
+25.11739,121.46288,Guandu Temple,"No. 360, Zhixing Rd.",2024-06-23 08:51:20,62,9,53
+25.11884,121.46912,Guandu Nature Park,"No. 68, Guandu Rd. (Opposite)",2024-06-23 08:50:25,25,24,1
+25.12030,121.46650,Taipei Guandu hospital,"No. 7, Ln. 235, Zhixing Rd. (Opposite)",2024-06-23 08:49:20,14,6,8
+25.13149,121.47365,MRT Zhongyi Sta. (Exit 1),"No. 262, Sec. 4, Zhongyang N. Rd. (Opposite)",2024-06-23 08:44:20,30,5,25
+25.12397,121.46712,MRT Guandu Sta. (Exit 1),"Ln. 270, Sec. 3, Dadu Rd. & Ln. 55, Ligong St. (Southwest)",2024-06-23 08:47:20,71,10,61
+25.12618,121.46737,MRT Guandu Sta. (Exit 2),"Ln. 583, Sec. 4, Zhongyang N. Rd. Intersection",2024-06-23 08:28:19,14,11,3
+25.12796,121.46782,"Ln. 540, Sec. 4, Zhongyang N. Rd. Intersection","No. 529, Sec. 4, Zhongyang N. Rd. (Opposite)",2024-06-23 08:50:31,27,16,11
+25.12310,121.47092,Dadu & Lide Rd. Intersection,"Sec. 3, Dadu Rd. & Lide Rd. Intersection (Northwest)",2024-06-23 08:49:15,18,17,0
+25.13780,121.48630,MRT Fuxinggang Sta. (Exit 1),"No. 9-1, Sec. 3, Zhongyang N. Rd. (Opposite)",2024-06-23 08:48:20,45,13,32
+25.13666,121.48159,MRT Fuxinggang Sta Tourist Information Center,"No. 185, Sec. 3, Zhongyang N. Rd.",2024-06-23 08:45:22,15,13,2
+25.13475,121.49613,Fengnian Park,"No. 259, Daye Rd. (Opposite)",2024-06-23 06:42:19,20,8,12
+25.13997,121.48967,Daoxiang Chongshan Rd. Intersection,Daoxiang & Chongshan Rd. Intersection,2024-06-23 08:45:22,15,14,1
+25.13776,121.49345,Fu Hsing Kang College,"No. 167, Sec. 2, Zhongyang N. Rd. (Opposite)",2024-06-23 08:50:31,45,22,23
+25.14582,121.49303,Xiushan Community Center,"No. 50, Xiushan Rd.",2024-06-23 08:31:20,36,25,11
+25.13691,121.49987,Daye Datong St. Intersection,"No. 671, Daye Rd. (Opposite)",2024-06-23 08:46:20,42,25,17
+25.13733,121.50339,MRT Xinbeitou Station,"No. 10, Zhonghe St. (Opposite)",2024-06-23 08:48:20,42,17,25
+25.13187,121.49900,MRT Beitou Station,"No. 3, Ln. 2, Guangming Rd. (Opposite)",2024-06-23 08:45:22,30,8,17
+25.12634,121.50099,MRT Qiyan Station(Sanhe St.),"No. 486, Sec. 2, Sanhe St.",2024-06-23 08:48:20,40,11,29
+25.12297,121.50158,Baxian Village Office,"No. 20, Sec. 1, Beitou Rd.",2024-06-23 08:37:20,16,3,6
+25.12725,121.50676,Qingjiang Elementary School,"No. 198, Gongguan Rd. (Opposite)",2024-06-23 08:47:20,58,25,31
+25.12814,121.49782,"Ln. 300, Daye Rd. Intersction","No. 302, Daye Rd.",2024-06-23 08:39:18,20,3,17
+25.11798,121.50342,Linong Park,"Sec. 7, Chengde Rd. & Jili St. (Northwest)",2024-06-23 08:42:20,21,12,9
+25.12666,121.50373,Beitou Qiyan Elderly Service Center,"No. 119, Sec. 1, Sanhe St.",2024-06-23 08:45:21,15,13,2
+25.12087,121.50523,MRT Qilian Sta. (Exit 2),"No. 345, Sec. 2, Xi'an St. (Opposite)",2024-06-23 08:50:31,54,20,34
+25.11666,121.50962,Beitou Sports Center,"No. 100, Ln. 39, Sec. 1, Shipai Rd.",2024-06-23 08:50:31,70,45,23
+25.11912,121.51223,National Yangming Jiaotong University,"No. 136, Sec. 2, Donghua St. (Opposite)",2024-06-23 08:50:31,53,35,16
+25.11451,121.51567,MRT Shipai Sta. (Exit 2),"No. 526, Sec. 1, Donghua St. (Opposite)",2024-06-23 08:47:20,62,10,52
+25.11752,121.51662,National Taipei University of Nursing and Health Sciences,"No. 100, Sec. 2, Shipai Rd.",2024-06-23 08:47:20,42,11,31
+25.11542,121.51469,MRT Shipai Sta. (Exit 1),"No. 319, Sec. 1, Shipai Rd. (Opposite)",2024-06-23 08:15:15,33,0,33
+25.11753,121.52186,Cheng Hsin General Hospital,"No. 365, Mingde Rd.",2024-06-23 08:49:20,36,9,27
+25.11440,121.51307,Shipai Elementary School,"No. 142, Sec. 1, Shipai Rd. (Opposite)",2024-06-23 08:46:20,26,12,14
+25.11865,121.52350,Zhenxing Park,"No. 109, Tianmu W. Rd. (Opposite)",2024-06-23 08:45:22,13,3,10
+25.11978,121.50422,Linong Elementary School,"No. 201, Sec. 1, Linong St. (Opposite)",2024-06-23 08:19:19,19,10,9
+25.11587,121.50576,"No. 280, Sec. 7, Chengde Rd. Intersection","No. 260, Sec. 7, Chengde Rd.",2024-06-23 08:49:20,17,11,5
+25.11093,121.51382,"Ln. 11, Sec. 2, Zhiyuan 1st Rd.","No. 8, Ln. 61, Ziqiang St.",2024-06-23 08:51:20,22,15,7
+25.11370,121.52437,Rongfu Park,"No. 2, Ronghua 3rd Rd.",2024-06-23 08:39:19,13,1,12
+25.10467,121.51654,Zhongzheng Senior High School,"No. 77, Wenlin N. Rd.",2024-06-23 08:37:20,31,16,15
+25.12501,121.47158,Ligong & Lide Rd. Intersection,"No.15, Lide Rd. (Front)",2024-06-23 08:50:31,41,12,29
+25.13539,121.47800,"Ln.40, Sec.4, Zhongyang N. Rd.","No. 32, Sec.4, Zhongyang Rd. (Side)",2024-06-23 08:48:20,22,5,17
+25.12081,121.51352,National Yang-Ming University Library,Parking lot at the back of the NYCU Library,2024-06-23 08:49:20,37,7,30
+25.13675,121.50224,MRT Xinbeitou Sta. (Exit 2),"No. 225, Guangming Rd. (Opposite)",2024-06-23 08:31:20,24,8,16
+25.13872,121.50210,Fuxing Park,"No. 61, Zhonghe St.",2024-06-23 08:46:20,28,5,23
+25.11272,121.50922,Chengde Rd. & Shipai Rd. Intersection,"Sec. 7, Chengde Rd. & Sec. 1, Shipai Rd. Intersection (North)",2024-06-23 08:47:20,17,6,11
+25.11416,121.50771,"Ln. 188, Sec. 7, Chengde Rd. Intersection","No. 192-198, Sec. 7, Chengde Rd.",2024-06-23 08:37:20,16,9,7
+25.11000,121.51841,MRT Mingde Sta.(Exit.3),"No. 95, Mingde Rd.",2024-06-23 08:47:19,48,5,43
+25.13102,121.50408,Dafeng Park,"No. 145, Dasing St.",2024-06-23 08:51:20,39,13,26
+25.10032,121.50599,Zhoumei Park,"No. 199, Fumei Rd.",2024-06-23 08:41:20,30,12,16
+25.14319,121.49621,"Aly. 11, Ln. 455, Zhonghe St.","No. 6-8, Aly. 11, Ln. 455, Zhonghe St.",2024-06-23 07:32:18,13,3,10
+25.10065,121.51107,Zhoumei Xianzaigang Park,Zhoumei Xianzaigang Park(Southwest),2024-06-23 08:29:19,20,9,11
+25.14058,121.49915,Wenhua 3rd Rd. & Xinglin 1st Rd. Intersection,"No. 3, Xinglin 1st Rd.",2024-06-23 08:45:22,17,3,10
+25.14045,121.50446,Zhuhai Rd. & Fuxing 1st Rd. Intersection,Zhuhai Rd. & Fuxing 1st Rd. Intersection (East),2024-06-23 08:29:19,15,7,7
+25.11535,121.51736,"Ln. 33, Yumin 2nd Rd.","Ln. 33, Yumin 2nd Rd. & Yumin 6th Rd. Intersection (Northwest)",2024-06-23 08:42:19,15,8,7
+25.12287,121.50370,Xinqiyan Social Housing,"No. 269-271, Huanggang Rd.",2024-06-23 08:43:20,12,7,5
+25.14193,121.50835,Quanyuan Park,"No. 145, Zhuhai Rd. (Opposite)",2024-06-23 08:41:20,15,9,6
+25.12533,121.50573,Qiyan No4 Green Space,"No. 16, Ln. 79, Sec. 1, Sanhe St. (Opposite)",2024-06-23 08:48:20,12,1,10
+25.11857,121.51846,NTUNHS,"No. 185, Sec. 2, Shipai Rd. (Opposite)",2024-06-23 08:48:20,15,10,4
+25.12862,121.50330,Qiyan No.1 Park,"Huanggang Rd. & Ln. 177, Qingjiang Rd. Intersection (East)",2024-03-31 16:15:15,24,0,24
+25.10940,121.51248,Fuxing Park,"No. 280, Wenlin N. Rd. (Opposite)",2024-06-23 08:43:19,30,25,5
+25.13774,121.50142,Zhongyong Park,"No. 1, Zhuhai Rd.",2024-06-23 08:50:31,12,10,2
+25.13597,121.49702,Fengnian Park_1,"No. 259, Daye Rd. (Opposite)",2024-06-23 08:25:22,33,24,9
+25.13431,121.50226,Guangming Rd. & Wenquan Rd. Intersection,"No. 148, Guangming Rd. (Opposite)",2024-06-23 08:50:31,20,6,14
+25.12757,121.47207,Koo Foundation Sun Yat-Sen Cancer Center,"No. 125, Lide Rd.",2024-06-23 08:44:20,25,19,6
+25.14319,121.49093,Zhiyuan New Village,"No. 26, Xiushan Rd.",2024-06-23 08:12:20,15,7,8
+25.13684,121.50792,Beitou Public Hotspring,"No. 6, Zhongshan Rd.",2024-06-23 08:47:20,15,4,11
+25.14390,121.49447,"Aly. 9, Ln. 493, Zhonghe St.","No. 2, Aly. 9, Ln. 493, Zhonghe St. (Opposite)",2024-06-23 08:47:20,16,2,14
+25.13258,121.49862,MRT Beitou Sta. (Exit 1),"Ln. 2, Guangming Rd. & Guangming Rd. Intersection",2024-06-23 08:49:20,58,14,35
+25.11879,121.51921,Shipai Rd. & Linong St. Intersection,"Sec. 2, Shipai Rd. & Sec. 2, Linong St. Intersection",2024-06-23 08:35:21,29,1,27
+25.12082,121.50727,MRT Qilian Sta. (Exit 1),Qilian Station 1(Donghua). (Opposite),2024-06-23 08:44:20,20,6,14
+25.13043,121.50017,"No. 50, Daxing St. (Opposite)","Daxing St. & Ln. 2, Guangming Rd. Intersection",2024-06-23 08:48:15,14,7,7
+25.13076,121.47347,MRT Zhongyi Sta. (Exit. 2),MRT Zhongyi Sta. (Exit. 2),2024-06-23 08:27:21,30,8,22
+25.10171,121.51263,Fuguo Rd. & Chengde Rd. Intersection,"No. 80, Sec. 6, Chengde Rd.",2024-06-23 08:43:20,15,7,8
+25.13201,121.49817,MRT Beitou Sta. (Exit 1) ( Beitou Rd.),MRT Beitou Sta. (Exit 1) ( Beitou Rd.),2024-06-23 08:45:22,31,5,26
+25.10392,121.51244,Innovation Fortune Center,"No. 120, Sec. 6, Chengde Rd.",2024-06-23 08:19:19,15,2,13
+25.12595,121.51098,"Chongyang Park (Ln. 255, Gongguan Rd.)","No. 43, Ln. 255, Gongguan Rd. (Opposite)",2024-06-23 07:52:18,20,12,8
+25.13713,121.49706,Wenhua No.1 Park (North),"No. 2, Wenhua 3rd Rd.",2024-06-23 08:49:20,15,8,7
+25.14190,121.49890,Zhonghe Green,"No. 365, Zhonghe St.",2024-06-23 08:37:19,13,7,6
+25.12307,121.49906,"Ln. 65, Daye Rd.","Daye Rd. & Ln. 65, Daye Rd. Intersection",2024-06-23 07:46:20,15,6,9
+25.11969,121.50169,Gongguan Rd. & Chengde Rd. Intersection,"No. 390, Sec. 7, Chengde Rd.",2024-06-23 08:41:20,17,12,5
+25.10576,121.51730,Wenlin N. Rd. & Mingde Rd. Intersection (Northeast),"No. 112, Wenlin N. Rd.",2024-06-23 08:49:20,15,8,7
+25.13905,121.50012,"Ln. 32, Sec. 1, Yongxing Rd.","Ln. 32, Sec. 1, Yongxing Rd. & Sec. 1, Yongxing Rd. Intersection",2024-06-23 08:51:20,12,4,8
+25.11944,121.51453,NYCU ( Bldg. A),"No. 155-1, Sec. 2, LinOng St.",2024-06-23 08:46:19,30,5,25
+25.11955,121.46735,Guan Do Junior High School,"No. 16, Ln. 210, ZhiXing Rd. (Opposite)",2024-06-23 08:43:19,24,18,6
+25.12518,121.46922,"Ln. 55, LiGong St.","No. 76, LiGong St. (Opposite)",2024-06-22 23:04:19,14,4,10
+25.11483,121.49934,"Ln. 401, Sec. 7, ChengDe Rd. (ZhouMei Bridge)","No. 200, Ln. 401, Sec. 7, ChengDe Rd. (Opposite)",2024-06-23 07:21:14,15,0,15
+25.12231,121.49964,DaYe Rd. (Nung Chan Monastery),"No. 6, DaYe Rd.",2024-06-23 08:34:19,16,3,13
+25.13843,121.48802,China Film Studio,"No. 400, Sec. 2, ZhongYang N. Rd.",2024-06-23 08:41:20,15,5,10
+25.13997,121.48711,ShinShing Park,XinXing Rd. & GangShan Rd. Intersection,2024-06-23 08:33:20,15,3,12
+25.11332,121.51615,"MRT Shipai Sta. (Exit 2) (Sec. 1, XiAn St.)","No. 325, Sec. 1, XiAn St. (Opposite)",2024-06-23 08:48:20,23,3,20
+25.04987,121.57785,MRT Songshan Sta. (Exit 4),"No. 742, Sec. 4, Bade Rd.",2024-06-23 08:50:31,19,18,1
+25.05009,121.57202,Tayou Rd. & Bade Rd. Intersection,"No. 2, Tayou Rd.",2024-06-23 08:39:19,34,13,21
+25.05503,121.56876,Pengcheng Park,"No. 399, Jiankang Rd. (North)",2024-06-23 08:46:20,24,10,11
+25.04878,121.56087,Zhonglun Senior High School,"No. 9, Ln. 91, Sec. 4, Bade Rd. (Opposite)",2024-06-23 08:47:20,77,53,24
+25.05136,121.56283,MRT Nanjing Sanmin Sta. (Exit 2),"No. 156, Sec. 5, Nanjing E. Rd.",2024-06-23 08:43:20,19,9,10
+25.05155,121.56360,MRT Nanjing Sanmin Sta. (Exit 1),MRT Nanjing Sanmin Sta. (Exit 1),2024-06-23 08:51:20,39,25,14
+25.04937,121.55800,"Ln. 11, Guangfu N Rd.","No. 13, Guangfu N Rd.",2024-06-23 08:42:20,23,18,5
+25.05152,121.56460,MRT Nanjing Sanmin Sta. (Exit 4),"No. 229, Sec. 5, Nanjing E. Rd.",2024-06-23 08:51:20,13,7,6
+25.05492,121.56701,Xisong Senior High School,"No. 5, Aly. 5, Ln. 325, Jiankang Rd.",2024-06-23 08:43:19,14,7,6
+25.06220,121.54565,Minquan Rd. & Fuxing Rd. Intersection,"No. 119, Sec. 3, Minquan E. Rd.",2024-06-23 08:47:20,36,11,25
+25.06374,121.54767,Minfu No.3 Greens,"No. 712, Minzu E. Rd. (Opposite)",2024-06-23 08:47:15,15,1,14
+25.06095,121.54731,Minyou No.1 Park,"No. 43, Ln. 244, Dunhua N. Rd. (Opposite)",2024-06-23 08:50:31,41,12,29
+25.05804,121.54897,Minsheng Rd. & Dunhua Rd. Intersection,"No. 216, Dunhua N. Rd. (Opposite)",2024-06-23 08:39:19,66,42,10
+25.05460,121.54486,Song-Ji Park,"No. 432, Changchun Rd. (Opposite)",2024-06-23 08:51:20,20,7,13
+25.06190,121.56328,"Ln. 166, Sanmin Rd. Intersection","No. 1, Ln. 166, Sanmin Rd. (Opposite)",2024-06-23 08:46:20,12,4,8
+25.05907,121.56305,Minsheng Activity Center,"No.163-1, Sec. 5, Minsheng E. Rd.",2024-06-23 08:49:20,43,22,21
+25.05157,121.55118,MRT Taipei Arena Sta. (Exit.2),"No.6, Sec. 4, Nanjing E. Rd.",2024-06-23 08:38:14,26,25,1
+25.04826,121.55235,Taipei City Arts Promotion Office,"No. 25, Sec. 3, Bade Rd.",2024-06-23 08:51:20,45,38,7
+25.05633,121.55286,"Minsheng Elementary School (Ln. 199, Dunhua N. Rd.)","No. 15, Ln. 199, Dunhua N. Rd.",2024-06-23 08:50:31,20,6,14
+25.06118,121.55098,Dunbei Park,"Dunhua N. Rd. & Ln. 77, Fujin St. (Southeast)",2024-06-23 08:49:20,48,33,15
+25.06200,121.56019,Minquan Sports Park,"Sec. 4, Minquan E Rd. & Xinzhong St. Intersection (Southwest)",2024-06-23 08:45:22,44,29,15
+25.05925,121.56888,Xindong Park,"Sec. 5, Minsheng E Rd. & Tayou Rd. Intersection (Southwest)",2024-06-23 08:45:22,51,27,24
+25.05834,121.55496,Minsheng Rd. & Guangfu N. Rd. Intersection,"No. 266, Guangfu N. Rd.",2024-06-23 08:50:30,33,24,9
+25.06129,121.56668,Sanmin Park,"No. 339, Fuyuan St.",2024-06-23 08:51:20,27,9,18
+25.04459,121.55252,"Ln. 74, Sec. 3, Bade Rd. Intersection","No. 95, Ln. 74, Sec. 3, Bade Rd. (South)",2024-06-23 08:50:31,17,7,10
+25.04488,121.54992,"Ln. 8, Sec. 3, Bade Rd. Intersection","No. 123, Sec. 4, Civic Blvd.",2024-06-23 08:42:20,15,1,14
+25.05419,121.55631,Tri-Service General Hospital Songshan Branch,"Guangfu N. Rd. & Ln. 190, Guangfu N. Rd. Intersection (Southeast)",2024-06-23 08:49:20,43,35,8
+25.05528,121.55900,Pingan New Town,"Ln. 356, Yanshou St. & Aly. 16, Ln. 330, Yanshou St. Intersection (Northeast)",2024-06-23 08:44:20,16,4,12
+25.05433,121.56545,Jiankang Social Housing,"No. 305, Jiankang Rd.",2024-06-23 08:51:20,20,8,12
+25.06206,121.55475,Minquan Rd. & Guangfu Rd. Intersection (Northeast),"Sec. 4, Minquan E. Rd. & Guangfu N. Rd. Intersection (Northeast)",2024-06-23 08:32:20,24,8,16
+25.04840,121.56586,Civic Blvd. & Dongxing Rd. Intersection,"No. 33, Dongxing Rd. (South)",2024-06-23 08:50:31,30,24,6
+25.04693,121.55771,"Ln. 22, Guangfu S. Rd. Intersection","No. 19, Guangfu S. Rd. (West)",2024-06-23 08:49:20,29,26,3
+25.04606,121.55665,"Ln. 46, GuangFu S. Rd.","No.10, Ln. 46, GuangFu S. Rd. (North)",2024-06-23 08:43:20,16,10,6
+25.05347,121.55436,Songshan New Village,"No. 78, Jiankang Rd. (Opposite)",2024-06-23 08:44:15,27,27,0
+25.04769,121.54480,Construction and Planning Agency,"No.342, Sec. 2, Bade Rd.",2024-06-23 08:51:20,33,14,19
+25.05143,121.55716,Nanjing Rd. & Guangfu Rd. Intersection,"No. 186, Sec. 4, Nanjing E. Rd.",2024-06-23 08:51:20,31,9,22
+25.05846,121.55947,Minsheng Parking Lot,"No. 84, Sec. 5, Minsheng E. Rd.",2024-06-23 08:49:20,24,12,12
+25.05408,121.56095,Jiankang New Village,"No. 179, Jiankang Rd.",2024-06-23 08:50:31,44,5,39
+25.05606,121.56345,Jianan Sincheng,"No. 1, Ln. 43, Sanmin Rd.",2024-06-23 08:49:15,30,0,30
+25.04763,121.56115,Fusheng Park,"Ln. 106, Sec. 4, Bade Rd. & Aly. 6, Ln. 106, Sec. 4, Bade Rd. Intersection (East)",2024-06-23 08:49:20,37,11,26
+25.04524,121.54659,Zhonglun Fucheng Temple,"No. 73, Sec. 4, Civic Blvd.",2024-06-23 08:50:31,31,6,25
+25.05278,121.54478,MRT Nanjing Fuxing Sta.(Exit.7),"No. 1, Qingcheng St. (Southeast)",2024-06-23 08:50:31,15,15,0
+25.05168,121.54506,MRT Nanjing Fuxing Sta.(Exit.5),"No. 262, Sec. 3, Nanjing E. Rd.",2024-06-23 08:48:20,52,22,29
+25.06480,121.56788,Tayou Evacuation Gate,"No. 41-1, Sec. 5, Minquan E. Rd.",2024-06-23 08:43:20,32,12,20
+25.04951,121.54941,Taipei Stadium,"Dunhua N. Rd. & Sec. 3, Bade Rd. Intersection (Northeast)",2024-06-23 08:50:31,47,14,33
+25.05176,121.55352,MRT Taipei Arena Sta. (Exit.5),"No. 75-1, Sec. 4, Nanjing E. Rd.",2024-06-23 08:50:31,22,11,11
+25.05360,121.54871,Dunhua Rd. & Changchun Rd. Intersection,"No. 112, Dunhua N. Rd.",2024-06-23 08:50:31,34,5,29
+25.05147,121.57683,Raohe Evacuation Gate,"No. 182, Songhe St. (Opposite)",2024-06-23 08:24:15,19,0,19
+25.05013,121.57635,MRT Songshan Sta. (Exit 2),"No. 685, Sec. 4, Bade Rd.",2024-06-23 08:31:20,14,10,4
+25.06200,121.54472,"Ln. 106, Sec. 3, Minquan E. Rd.","No. 102, Sec. 3, Minquan E. Rd.",2024-06-23 08:49:20,22,17,5
+25.05163,121.55907,"Ln. 59, Sec. 5, Nanjing E. Rd.","No. 57, Sec. 5, Nanjing E. Rd.",2024-06-23 08:49:20,17,1,16
+25.06241,121.56831,Sanmin Park (Tayou Rd.),"Tayou Rd. & Ln. 261, Fuyuan St. (West)",2024-06-23 07:57:20,20,3,17
+25.05198,121.56810,Baoqing Park,"Baoqing St. & Ln. 30, Baoqing St. Intersection (North)",2024-06-23 08:49:20,13,12,1
+25.05406,121.56407,Xisong Park,"Jiankang Rd. & Aly. 50, Ln. 251, Sec. 5, Nanjing E. Rd. Intersection (West)",2024-06-23 08:26:19,11,6,5
+25.05378,121.55893,Changshou Park,"No. 174, Jiankang Rd.",2024-06-23 08:49:20,22,6,16
+25.04634,121.55420,Fuyuan Park,"No. 62, Ln. 106, Sec. 3, Bade Rd. (Opposite)",2024-06-23 08:40:25,14,0,13
+25.05173,121.55609,"Ln. 179, Sec. 4, Nanjing E. Rd.","No. 163, Sec. 4, Nanjing E. Rd.",2024-06-23 08:45:22,13,1,12
+25.04954,121.55261,Taipei Stadium (Beining Rd.),"No. 25, Sec. 3, Bade Rd.",2024-06-23 08:48:20,38,19,19
+25.05567,121.56713,"Xisong Senior High School (Ln. 325, Jiankang Rd.)","Ln. 325, Jiankang Rd. & Aly. 12, Ln. 325, Jiankang Rd. Intersection (Northeast)",2024-06-23 08:49:20,31,26,2
+25.05149,121.56535,Nanjing Rd. & Dongxing Rd. Intersection,"Sec. 5, Nanjing E. Rd. & Dongxing Rd. Intersection (North)",2024-06-23 08:50:30,30,24,6
+25.04962,121.57746,MRT Songshan Sta. (Exit 3),"Songshan Rd. & Sec. 6, Civic Blvd. Intersection",2024-06-23 08:51:20,52,20,32
+25.05722,121.55706,Jieshou Junior High School,"Ln. 36, Sec. 5, Minsheng E. Rd. & Ln. 165, Guangfu N. Rd. Intersection",2024-06-23 08:50:31,12,6,6
+25.05226,121.54926,Dunhua Rd. & Nanjing Rd. Intersection (Northeast),"Dunhua N. Rd. & Sec. 4, Nanjing E. Rd. Intersection",2024-06-23 08:42:15,25,1,24
+25.04802,121.54864,Dunhua Rd. & Bade Rd. Intersection,"Sec. 1, Dunhua S. Rd. & Sec. 2, Bade Rd. Intersection (Southwest)",2024-06-23 08:51:20,20,18,2
+25.06150,121.56332,"Ln. 51, Xindong St.","Sanmin Rd. & Ln. 51, Xindong St. Intersection (East)",2024-06-23 08:50:31,30,22,8
+25.04985,121.57189,Bade Parking,Bade Rd. & Songxin Rd. Intersection (Southwest),2024-06-23 08:48:20,34,23,10
+25.05452,121.54636,Changchun Rd. & Qingcheng St. Intersection,"No. 431, Changchun Rd.",2024-06-23 08:38:20,28,5,23
+25.04942,121.57503,"Ln. 652, Sec. 4, Bade Rd.","No. 650, Sec. 4, Bade Rd. (South)",2024-06-23 08:41:20,20,6,14
+25.05014,121.57692,MRT Songshan Sta. (Exit 1),"No. 711, Sec. 4, Bade Rd.",2024-06-23 08:50:31,15,14,1
+25.05152,121.55243,MRT Taipei Arena Sta. (Exit.3),"No. 12, Sec. 4, Nanjing E. Rd.",2024-06-23 08:51:20,28,8,20
+25.05181,121.55210,MRT Taipei Arena Sta. (Exit.5)_1,"Sec. 4, Nanjing E. Rd. & Jiankang Rd. Intersection (Northwest)",2024-06-23 08:49:20,20,14,6
+25.05420,121.54910,"Ln. 155, Dunhua N. Rd.","No. 151, Dunhua N. Rd.",2024-06-23 08:51:20,30,4,26
+25.05764,121.54443,Minsheng Rd. & Fuxing Rd. Intersection,"Sec. 3, Minsheng E. Rd. & Fuxing N. Rd. Intersection (Southeast)",2024-06-23 08:51:20,15,2,13
+25.04440,121.55397,Civic Blvd. & Yanji St. Intersection,Civic Blvd. & Yanji St. Intersection (Under Bridge),2024-06-23 08:47:19,30,19,11
+25.05454,121.55417,Longcheng Market,"No. 35, Ln. 190, Guangfu N. Rd. (Opposite)",2024-06-23 08:50:31,22,9,13
+25.05129,121.56426,MRT Nanjing Sanmin Sta. (Exit 3),MRT Nanjing Sanmin Sta. (Exit 3),2024-06-23 08:47:20,28,2,26
+25.05139,121.57062,Tayou Rd. & Keelung Rd. Intersection (First MacArthur Bridge),"No. 386, Sec. 5, Nanjing E. Rd.",2024-06-23 08:49:20,20,13,7
+25.06432,121.54537,"Ln. 370, Wuchang St.","No. 8, Ln. 370, Wuchang St.",2024-06-23 08:31:20,11,2,9
+25.05708,121.56486,"Ln. 119, Yanshou St.","Ln. 119, Yanshou St. & Yanshou St.",2024-06-23 08:46:19,15,7,8
+25.04742,121.56305,Civic Blvd. & Dongning Rd. Intersection,"No. 111, Sec. 5, Civic Blvd.",2024-06-23 08:46:14,15,14,1
+25.06589,121.54529,Minfu Green,"No. 630, Minzu E. Rd. (Opposite)",2024-06-23 08:10:07,15,13,2
+25.06457,121.56458,Sanmin Elementary School (Fuyuan St.),"No. 27, Ln. 390, Fuyuan St. (Opposite)",2024-06-23 08:44:20,26,10,16
+25.05936,121.56586,Minsheng Post Office,"No. 191, Sec. 5, Minsheng E. Rd.",2024-06-23 08:28:19,14,5,9
+25.06185,121.55000,MinQuan Rd. & DunHua Rd. Intersection (Northwest),"No. 211, Sec. 3, Minquan E. Rd.",2024-06-23 08:45:21,24,14,10
+25.05028,121.56879,BaoQing St. & BaDe Rd. Intersection (North),"No. 29, BaoQing St.",2024-06-23 08:38:14,15,15,0
+25.05600,121.54670,"Ln. 140, Sec. 3, MinsHeng E. Rd.","XingAn St. & Ln. 140, Sec. 3, Minsheng E. Rd. Intersection",2024-06-23 08:49:20,15,5,10
+25.05725,121.56608,XinDong St. & YanShou St. Intersection,"No. 2, Ln. 1, XinDong St.",2024-06-23 08:49:20,16,7,8
+25.05434,121.56878,JianKang Park,"No. 442, JianKang Rd.",2024-06-23 08:44:20,26,11,15
+25.04591,121.59226,Nangang Park (Dongxin St),"No. 1, Ln. 170, Dongxin St. Southwest)",2024-06-23 08:48:20,25,14,11
+25.04128,121.59089,Nangang Park (Fude St),"No. 383, Fude St. (North)",2024-06-23 08:51:20,56,35,21
+25.05014,121.59238,MRT Kunyang Sta. (Exit 1),"No. 403, Sec. 6, Zhongxiao E. Rd.",2024-06-23 08:47:20,65,26,39
+25.04919,121.58832,"Ln. 225, Sec. 6, Zhongxiao E. Rd Intersection","No. 219, Sec. 6, Zhongxiao E. Rd.",2024-06-23 08:45:22,35,22,13
+25.04437,121.58133,MRT Houshanpi Sta (Exit 1),"No. 7, Zhongpo N. Rd. (East)",2024-06-23 08:35:21,53,8,45
+25.04843,121.58154,Hele Park,"No. 46, Yucheng St. (East)",2024-06-23 08:50:31,15,8,7
+25.04608,121.58315,Hexing Square,"No. 17, Sec. 6, Zhongxiao E. Rd. (Northeast)",2024-06-23 08:50:31,43,30,13
+25.04592,121.58820,Chengde Junior High School,"No. 15, Ln. 118, Dongxin St. Southwest)",2024-06-23 08:50:31,44,16,24
+25.04281,121.58613,Yucheng Park,"No. 247, Yucheng St. (Opposite)",2024-06-23 08:36:19,36,12,24
+25.04239,121.61683,Academia Sinica (Jiuzhuang St. Intersection),"No. 1, Sec. 1, Jiuzhuang St. (West)",2024-06-23 08:14:20,30,8,22
+25.04054,121.61374,Academia Sinica Gymnasium (East),"No. 128, Sec. 2, Academia Rd. (Gymnasium)",2024-06-23 08:38:19,30,8,22
+25.04763,121.61145,National Biotechnology Research Park,"No. 128, Sec. 2, Academia Rd. (NBRP)",2024-06-23 08:36:20,30,4,26
+25.05469,121.61669,MRT Nangang Exhibition Center Sta. (Exit 5),"No. 1, Sec. 1, Academia Rd. (Exit 5)",2024-06-23 08:51:20,73,45,25
+25.04697,121.61375,Academia Park,"No. 9, Aly. 58, Ln. 12, Sec. 2, Academia Rd. (West)",2024-06-23 08:50:30,40,18,22
+25.04499,121.61775,Fushan Park,"No. 27, Ln. 44, Fushan St. (Southeast)",2024-06-23 08:33:20,25,19,6
+25.04139,121.61910,Jiuzhuang Recreation Center,"No. 11, Ln. 91, Sec. 1, Jiuzhuang St. Southwest)",2024-06-23 08:45:22,25,18,7
+25.03564,121.61415,Lingyun Market,"No. 9, Ln. 68, Sec. 3, Academia Rd. (North)",2024-06-23 08:33:20,25,16,9
+25.05400,121.61334,"No. 532, Sec. 8, Civic Blvd.","No. 532, Sec. 8, Civic Blvd. (North)",2024-06-23 08:09:20,15,11,4
+25.05933,121.61677,MRT Nangang Software Park Sta. (Exit 2),"No. 183, Jingmao 2nd Rd. (Exit 2)",2024-06-23 08:50:30,37,17,20
+25.05668,121.61137,Nangang Elementary School,"No. 67, Huimin St. (Southeast)",2024-06-23 08:40:30,41,20,21
+25.05629,121.60700,Xing Zhong Parking Lot (Xingzhong Rd.),"No. 1, Ln. 44, Xingzhong Rd. (East)",2024-06-23 08:51:20,26,12,14
+25.05485,121.60866,Taipei Public Library Nangang Branch,"No. 350, Sec. 1, Nangang Rd.",2024-06-23 08:33:20,40,27,13
+25.05716,121.59792,Dongyang Park,"No. 34, Ln. 125, Chongyang Rd. (East)",2024-06-23 08:51:20,48,37,11
+25.05437,121.59423,Xiangyang Rd. & Nangang Rd. Intersection,"No. 49, Xiangyang Rd. (North)",2024-06-23 08:31:20,27,6,21
+25.05252,121.60922,"Nangang Sta. (Ln. 415, Sec. 7, Zhongxiao E. Rd.)","No. 510, Sec. 7, Zhongxiao E. Rd. (Northwest)",2024-06-23 06:29:19,11,10,1
+25.05201,121.60741,MRT Nangang Sta. (Exit 2),"No. 380, Sec. 7, Zhongxiao E. Rd. (Exit 2)",2024-06-23 08:48:20,23,18,5
+25.05192,121.60642,MRT Nangang Sta. (Exit 1),"No. 380, Sec. 7, Zhongxiao E. Rd. (Exit 1)",2024-06-23 06:50:32,20,8,12
+25.05507,121.60280,Dongxin Elementary School,"No. 68, Dongming St. (North)",2024-06-23 08:50:31,22,10,12
+25.03392,121.60985,China University of Science and Technology,"No. 246, Sec. 3, Yanjiuyuan Rd. (East)",2024-06-23 08:50:31,20,17,3
+25.04681,121.61703,Liufu Park,"No. 25, Aly. 23, Ln. 35, Sec. 2, Academia Rd. (North)",2024-06-23 08:29:19,19,7,12
+25.04805,121.61594,Nangangjiaya Sta.,"No. 1, Ln. 3, Sec. 2, Academia Rd. (West)",2024-06-23 08:41:20,24,16,8
+25.05343,121.59945,Taipei Pop Music Center,"No. 200-1, Sec. 2, Nangang Rd.(South)",2024-06-23 08:44:20,21,16,2
+25.05766,121.60396,Xingnan Park,"No. 269, Chongyang Rd. (South)",2024-06-23 08:04:20,26,11,15
+25.05211,121.59839,Taipei Pop Music Center (Civic Blvd),"No. 99, Sec. 8, Civic Blvd.",2024-06-23 08:50:31,21,16,5
+25.05326,121.60656,Nangang Train Sta. (Civic Blvd),"No. 313, Sec. 1, Nangang Rd.",2024-06-23 08:50:31,30,14,16
+25.05266,121.61275,"Ln. 527, Sec. 7, Zhongxiao E Rd. Intersection","No. 552, Sec. 7, Zhongxiao E Rd.",2024-06-23 08:48:20,26,15,11
+25.05627,121.61369,NKSP (Xinmin St),"No. 15, Xinmin St. (North)",2024-06-23 07:59:20,25,21,4
+25.05831,121.61422,World Trade Park,"No. 188-1, Jingmao 2nd Rd.",2024-06-23 08:43:20,35,8,27
+25.03595,121.61688,"Lingyun Village 5 (Ln. 8, Sec. 3, Yanjiuyuan Rd.)","No. 1, Ln. 10, Sec. 3, Yanjiuyuan Rd. (East)",2024-06-23 08:21:20,26,12,14
+25.05210,121.59053,"Xinxin Park (Ln. 60, Kunyang St.)","No. 8, Ln. 47, Sec. 3, Nangang Rd. (South)",2024-06-23 08:21:20,20,12,8
+25.05285,121.59279,Nangang Senior High School (Kunyang St.),"No. 58, Kunyang St. (East)",2024-06-23 08:02:20,26,21,5
+25.05234,121.58152,"Ln. 290, Sec. 3, Nangang Rd. Intersection","No.20, Ln. 314, Sec. 3, Nangang Rd.",2024-06-23 08:41:20,20,16,4
+25.05289,121.58599,"Ln. 220, Sec. 3, Nangang Rd. Intersection","No. 133, Sec. 3, Nangang Rd.",2024-06-23 08:46:20,25,18,7
+25.05168,121.58284,Nangang Rd. & Dongxin St. Intersection,"No. 4, Dongxin St. (East)",2024-06-23 07:41:19,28,12,16
+25.05064,121.58030,Bade Rd. & Zhongpo Rd. Intersection,"No. 873, Sec. 4, Bade Rd.",2024-06-23 08:44:20,40,19,21
+25.04511,121.58360,MRT Houshanpi Sta. (Exit 3),"No. 150, Yucheng St.",2024-06-23 08:49:20,18,15,3
+25.04193,121.58493,Yucheng Park Sports Center,"-No. 19, Zhongpo S. Rd.",2024-06-23 08:48:20,26,13,13
+25.03884,121.58788,Baifu Park,"No. 7, Ln. 309, Fude St. (South)",2024-06-23 08:50:31,25,20,3
+25.06148,121.61384,"Nanhu Bridge (Ln. 255, Jingmao 2nd Rd.)","No. 1, Ln. 255, Jingmao 2nd Rd.",2024-06-23 08:47:20,20,8,12
+25.05937,121.61072,Park St. & Chongyang Rd. Intersection,"No. 458, Chongyang Rd.(West)",2024-06-23 08:49:20,21,6,15
+25.05293,121.60549,Nangang Station Building B (Civic Blvd.),"No. 359, Sec. 7, Zhongxiao E. Rd.",2024-06-23 08:46:20,24,19,5
+25.04014,121.61766,Dr.Hu Shih Park,"No. 130, Sec. 2, Academia Rd. Intersection (East)",2024-06-23 08:13:19,20,10,10
+25.06164,121.61267,Nangang Pumping Station,"No. 505, Chongyang Rd.",2024-06-23 08:17:34,13,9,4
+25.06271,121.61597,Jingmao Park,"No. 58, Jingyuan St. (North)",2024-06-23 06:57:19,20,13,7
+25.05853,121.60983,Yu Cheng Senior High School,"No. 71, Huimin St. (West)",2024-06-23 08:45:22,20,8,12
+25.05436,121.61810,MRT Nangang Exhibition Center Sta. (Exit 7),"No. 2, Aly. 16, Ln. 1, Fukang St. (East)",2024-06-23 08:44:20,20,11,9
+25.05172,121.61686,Lixing Bridge (Nangang),"No. 2, Aly. 16, Ln. 101, Sec. 1, Academia Rd.",2024-06-23 08:48:20,18,13,4
+25.03987,121.62015,"JiuZhuang Elementary School(Sec. 1, Jiuzong Rd.)","Sec. 1, Jiuzong Rd. & Ln. 145, Sec. 1, Jiuzong Rd. Intersection",2024-06-23 06:50:32,15,11,4
+25.05705,121.59265,Siangyang Greens,"No. 76, Sec. 1, Chenggong Rd. (Opposite)",2024-06-23 07:54:20,17,11,6
+25.05820,121.59368,Xiaowan Social Housing,"Ln. 258, Xiangyang Rd. & Ln. 39, Chongyang Rd. Intersection (Southwest)",2024-06-23 08:51:20,51,35,16
+25.05465,121.61850,MRT Nangang Exhibition Center Sta. (Exit 6),"No. 28, Sec. 1, Nangang Rd.",2024-06-23 08:19:18,25,12,13
+25.05535,121.61838,MRT Nangang Exhibition Center Sta. (Exit 4),"No. 32, Sec. 1, Nangang Rd.",2024-06-23 08:47:20,22,14,8
+25.04675,121.58731,Chengde Greens,"No. 65, Dongxin St. (Southeast)",2024-06-23 08:46:20,17,13,4
+25.04134,121.59323,"Nangang Park (Ln. 170, Dongxin St.)","No. 63, Ln. 170, Dongxin St. (Opposite)",2024-06-23 08:10:07,16,13,3
+25.04969,121.58028,Zhongpo Rd. & Civic Blvd. Intersection (Northeast),"Zhongpo N. Rd. & Sec. 7, Civic Blvd. Intersection (Northeast)",2024-06-23 08:48:20,19,2,17
+25.04830,121.59425,Kunyang Park,"No. 173, Kunyang St.",2024-06-23 08:48:20,14,11,3
+25.05368,121.59969,"Ln. 178, Sec. 2, Nangang Rd.","Sec. 2, Nangang Rd. & Ln. 178, Sec. 2, Nangang Rd. Intersection (North)",2024-06-23 08:46:20,18,9,9
+25.05225,121.60766,Nangang Train Sta. (Zhongxiao E. Rd.),"Sec. 7, Zhongxiao E. Rd. & Ln. 415, Sec. 7, Zhongxiao E. Rd. Intersection",2024-06-23 08:50:31,24,6,17
+25.05343,121.60633,Nangang Train Sta. (Xinghua Rd.),"Xinghua Rd. & Sec. 8, Civic Blvd. Intersection (Northwest)",2024-06-23 08:50:31,48,5,38
+25.04177,121.58735,"Yucheng Park (Ln. 178, Chengfu Rd.)","No. 8, Ln. 178, Chengfu Rd. (Opposite)",2024-06-23 08:45:21,27,8,19
+25.04998,121.58383,Yudong Park (Dongxin St.),"Dongxin St. & Sec. 7, Civic Blvd. Intersection (North)",2024-06-23 08:25:22,14,9,5
+25.03878,121.59302,Nangang Community,"No. 80, Ln. 373, Fude St.",2024-06-23 08:46:20,25,8,17
+25.04066,121.58877,"Ln. 197, Chengfu Rd.","Ln. 197, Chengfu Rd. & Chengfu Rd. Intersection",2024-06-23 08:39:19,15,6,6
+25.05543,121.58920,Nangang Evacuating Gate,"No. 398, Songhe St. (Opposite)",2024-06-23 07:24:19,24,15,9
+25.04557,121.58629,Cheng De Liti Parking,"Chengfu Rd. & Aly. 10, Ln. 80, Dongxin St.",2024-06-23 08:51:20,17,12,5
+25.05545,121.61646,Taipei Nangang Exhibition Center Hall 2,"Jingmao 2nd Rd. & Sec. 1, Nangang Rd. Intersection (Northwest)",2024-06-23 08:39:19,18,13,5
+25.03827,121.62274,Jiuzhuang Police Station,"Sec. 1, Jiuzhuang St. & Ln. 215, Sec. 1, Jiuzhuang St. Intersection",2024-06-23 07:56:20,15,12,3
+25.05394,121.59124,"Ln. 80, Sec. 3, Nangang Rd.","Sec. 3, Nangang Rd. & Ln. 80, Sec. 3, Nangang Rd. Intersection",2024-06-23 08:37:20,15,2,13
+25.05066,121.59431,MRT Kunyang Sta. (Exit 4),"No. 465, Sec. 6, Zhongxiao E. Rd.",2024-06-23 08:47:20,28,7,21
+25.04916,121.58906,"Ln. 278, Sec. 6, Zhongxiao E. Rd.","Zhongxiao E. Rd. & Ln. 278, Sec. 6, Zhongxiao E. Rd. Intersection",2024-06-23 08:49:20,14,6,8
+25.04126,121.61180,Humanities and Social Science Building,"No. 128, Sec. 2, Academia Rd.",2024-03-15 13:02:36,20,0,20
+25.05457,121.58781,"Ln. 130, Sec. 3, Nangang Rd.","No. 380, Songhe St. (Opposite)",2024-06-23 08:23:01,12,8,4
+25.05381,121.58638,"Ln. 190, Sec. 3, Nangang Rd.","No. 358, Songhe St. (Opposite)",2024-06-23 08:34:19,16,9,7
+25.04880,121.58742,"Ln. 212, Sec. 6, Zhongxiao E. Rd.","No. 226, Sec. 6, Zhongxiao E. Rd.",2024-06-23 08:02:20,15,10,5
+25.05296,121.61713,Xinfu Park,"No. 2, Ln. 47, Fukang St. (Opposite)",2024-06-23 08:34:19,12,4,8
+25.04728,121.58605,"Ln. 63, Dongxin St.","Dongxin St. & Ln. 63, Dongxin St. Intersection",2024-06-23 08:42:19,15,12,3
+25.04487,121.61481,Zhongxing Park,"Aly. 10, Ln. 70, Sec. 2, Academia Rd. & Ln. 98, Sec. 2, Academia Rd. Intersection",2024-06-23 08:47:20,15,8,7
+25.05163,121.59535,XiangYang Rd. & Civic Blvd. Intersection (Northwest),"XiangYang Rd. & Sec. 7, Civic Blvd. Intersection",2024-06-23 08:50:31,13,7,6
+25.05486,121.59440,XiangYang Rd. & NanGang Rd. Intersection (Northwest),"No. 312, Sec. 2, NanGang Rd.",2024-06-23 08:45:22,16,7,9
+25.04997,121.61620,"Ln. 151, Sec. 1, Academia Rd.","No. 18, Ln. 151, Sec. 1, Academia Rd.",2024-06-23 08:50:31,14,6,8
+25.05801,121.60674,XingZhong Rd. & ChongYang Rd. Intersection,XingZhong Rd. & ChongYang Rd. Intersection,2024-06-23 08:26:19,14,7,7
+25.05800,121.62189,Taipei Metro Neihu Depot (Gangdong St.),"No. 77, Jingmao 1st Rd. (Gangdong St.)",2024-06-23 06:52:19,20,16,4
+25.02035,121.55769,Lizhong Community Center,"No. 16, Ln. 391, Sec. 3, Heping E. Rd.",2024-06-23 08:31:20,16,14,2
+25.02561,121.55409,"Ln. 159, Sec. 2, Keelung Rd. Intersection","No. 155, Sec. 2, Keelung Rd.",2024-06-23 08:46:20,14,12,2
+25.02811,121.55671,"Ln. 175, Jiaxing St Intersection.","No. 131-4, Sec. 2, Keelung Rd.",2024-06-23 08:50:31,16,0,16
+25.01320,121.56335,"Ln. 631, Sec. 3, Heping E. Rd Intersection","No. 633, Sec. 3, Heping E. Rd.",2024-06-23 08:24:20,24,12,12
+25.01545,121.56134,"Ln. 530, Sec. 3, Heping E. Rd Intersection","Ln. 530, Sec. 3, Heping E. Rd Intersection (Northeast)",2024-06-23 06:52:19,15,10,5
+25.02698,121.55841,Jingqin No. 2 Park,"No. 50, Xin'an St. (Opposite)",2024-06-23 08:37:19,41,32,9
+25.02668,121.56175,Taipei Medical University,"Taipei Medical University (Aly. 59, Ln. 220, Wuxing St)",2024-06-23 08:49:20,64,47,17
+25.02868,121.55932,Sanxing Park,"No. 28, Aly. 35, Ln. 118, Wuxing St. (Sanxing Park)",2024-06-23 08:50:31,47,21,18
+25.03162,121.57396,Songde Sta.,"No. 300, Songde Rd. (South)",2024-06-23 08:49:20,50,15,35
+25.03222,121.56974,MRT Xiangshan Sta. (Exit 2),"No. 128, Sec. 5, Xinyi Rd. (East)",2024-06-23 08:38:14,31,30,0
+25.02863,121.56981,Xiangshan Park,"No. 15, Ln. 153, Songren Rd. (East)",2024-06-23 08:51:20,48,24,24
+25.02678,121.56884,"Aly. 3, Ln. 253, Songren Rd","No. 6, Ln. 215, Songren Rd.",2024-06-23 08:45:22,25,9,5
+25.03616,121.56983,Xingya Junior High School,"No. 101, Songren Rd. (East)",2024-06-23 08:43:19,18,4,14
+25.03295,121.56867,MRT Xiangshan Sta. (Exit 1),"No. 152, Sec. 5, Xinyi Rd. (Exit 1)",2024-06-23 08:48:20,24,8,16
+25.03471,121.57301,"Ln. 200, Songde Rd","No. 53, Ln. 200, Songde Rd. (North)",2024-06-23 08:51:20,41,18,23
+25.03820,121.57495,Zhongquan Park,"No. 54, Ln. 164, Hulin St. (North)",2024-06-23 08:50:31,34,28,4
+25.02868,121.56672,Taipei Emergency Operation Center,"No. 2, Aly. 11, Ln. 391, Zhuangjing Rd. (Northeast)",2024-06-23 08:51:20,53,16,37
+25.03189,121.56678,Taipei Xinyi Sports Center,"No. 100, Songqin St.",2024-06-23 08:51:20,35,33,2
+25.03275,121.56337,MRT Taipei 101/World Trade Center Sta. (Exit 3),"No. 16, Sec. 5, Xinyi Rd.",2024-06-23 08:51:20,15,10,5
+25.03003,121.56287,Jingxin Park,"No. 12, Ln. 239, Zhuangjing Rd. (Opposite)",2024-06-23 08:45:22,17,8,9
+25.03281,121.55756,"Guangfu S. Rd & Sec. 4, Xinyi Rd Intersection (Southeast)","No. 485, Guangfu S. Rd.",2024-06-23 08:49:20,16,7,9
+25.03452,121.55760,Sanzhangli,"No. 455, Guangfu S. Rd.",2024-06-23 08:43:20,56,10,46
+25.03745,121.56020,"Ln. 496, Sec. 4, Ren'ai Rd Intersection","Sec. 4, Ren'ai Rd & Ln. 496, Sec. 4, Ren'ai Rd Intersection.(Southwest)",2024-06-23 08:51:20,34,13,21
+25.03961,121.57199,Songshan High School of Agriculture and Industry,"No. 15, Ln. 236, Sec. 5, Zhongxiao E. Rd.",2024-06-23 08:51:20,34,6,28
+25.03423,121.57636,Songyou Park,"No. 22, Aly. 2, Ln. 76, Sec. 6, Xinyi Rd. (Opposite)",2024-06-23 08:50:31,39,29,7
+25.03894,121.57915,Linkou Park,"No. 82, Linkou St. (Opposite)",2024-06-23 08:50:31,51,34,17
+25.03470,121.58018,Songshan High School of Commerce and Home Economics,"No. 655, Songshan Rd.",2024-06-23 08:26:19,25,14,11
+25.03301,121.58096,Yong Chun Pi Wetland Park,"No. 721, Songshan Rd. (Opposite)",2024-06-23 08:48:20,23,11,12
+25.03801,121.56541,Taipei City Hall,Taipei City Hall East Gate. (Songzhi Rd),2024-06-23 08:17:34,63,2,61
+25.03607,121.56535,Songzhi Rd & Songshou Rd Intersection,Songzhi Rd & Songshou Rd Intersection. (Northwest),2024-06-23 08:31:20,39,3,36
+25.03627,121.56383,Shifu Rd & Songshou Rd Intersection,Shifu Rd & Songshou Rd Intersection. (Northeast),2024-06-23 08:36:15,28,0,28
+25.03899,121.56369,Shifu Rd & Songgao Rd Intersection,Shifu Rd & Songgao Rd Intersection. (Southeast),2024-06-23 08:49:20,54,8,46
+25.03599,121.56218,City Hall Square,Shifu Rd & Songshou Rd Intersection. (Northwest),2024-06-23 08:49:20,44,16,28
+25.03306,121.56620,Xinyi Plaza (Taipei 101),Songzhi Rd & Xinyi Rd Intersection. (Northeast),2024-06-23 08:48:20,96,19,77
+25.03338,121.56333,MRT Taipei 101/World Trade Center Sta. (Exit 5),Shifu Rd & Xinyi Rd Intersection. (Northwest),2024-06-23 08:36:20,21,2,19
+25.04270,121.58112,Chunguang Park,"No. 230, Linkou St. (Opposite)",2024-06-23 08:49:20,41,12,29
+25.03476,121.56865,"Ln. 121, Songren Rd Intersection","No. 123, Songren Rd. (North)",2024-06-23 08:48:20,31,14,17
+25.03846,121.58618,Fude Elementary School,"No. 2, Ln. 251, Fude St. (Opposite)",2024-06-23 08:51:20,36,33,3
+25.03841,121.58355,Fude Park,"No. 135, Dadao Rd. (Opposite)",2024-06-23 08:49:20,35,26,9
+25.03918,121.56654,Songgao Rd. (Xinyi Place A4),"No. 19, Songgao Rd.",2024-06-23 08:48:20,17,9,8
+25.04010,121.56822,Xingya Rd. & Songren Rd. Intersection,"No. 28, Songren Rd. (North)",2024-06-23 08:44:20,65,23,42
+25.04626,121.57045,"Fuxiang Park (Aly. 11, Ln. 127, Yongji Rd.)","No. 99, Songlong Rd. (Southwest)",2024-06-23 08:50:25,19,18,0
+25.02388,121.56984,Bus Wuxing Sta.,"No. 277, Songren Rd. (South)",2024-06-23 08:47:19,56,9,47
+25.01930,121.57105,Taihe Park,"No. 81, Ln. 600, Wuxing St. (West)",2024-06-23 08:51:20,40,20,20
+25.04773,121.56895,"Xingya Elementary School (Ln. 37, Sec. 1, Jilong Rd.)","No. 9, Ln. 83, Sec. 1, Jilong Rd. (West)",2024-06-23 08:49:20,27,15,12
+25.04732,121.57211,"Yaxiang Park (Ln. 50, Songxin Rd.)","No. 61, Songxin Rd. (West)",2024-06-23 08:48:20,12,8,4
+25.04890,121.57841,Songshan Sta.,"No. 11, Songshan Rd. (South)",2024-06-23 08:51:20,70,36,34
+25.04797,121.57432,Wuchang Park,"No. 161, Songlong Rd.",2024-06-23 08:50:30,37,22,15
+25.04548,121.57207,Yongji Rd. & Songxin Rd. Intersection,Songxin Rd./Yongji Rd. (Southwest),2024-06-23 08:47:20,35,32,3
+25.02969,121.55766,Sanxing Elementary School,"No. 99-1, Sec. 2, Keelung Rd.",2024-06-23 08:47:20,22,8,14
+25.04927,121.57205,Civic Blvd. & Songxin Rd. Intersection,"Sec. 6, Civic Blvd. & Songxin Rd. Intersection (West)",2024-06-23 08:45:22,20,18,2
+25.04330,121.56380,Songshan Senior High School,"No. 36, Ln. 599, Sec. 4, Zhongxiao E. Rd. (Opposite)",2024-06-23 08:43:20,42,4,37
+25.03005,121.55764,Keelung Rd. & Guangfu Rd. Intersection,"Sec. 2, Keelung Rd. & Guangfu S. Rd. Intersection (Northeast)",2024-06-23 08:46:20,31,1,30
+25.04108,121.56290,Keelung Rd. & Zhongxiao Rd. Intersection (Southwest),"No. 550, Sec. 4, Zhongxiao E. Rd.",2024-06-23 08:47:20,14,4,10
+25.02130,121.57027,Taihe Activity Center,"No. 60, Ln. 308, Songren Rd.",2024-06-23 08:23:00,25,22,3
+25.04395,121.58184,MRT Houshanpi Sta. (Exit 2),"No. 800, Sec. 5, Zhongxiao E. Rd.",2024-06-23 08:43:19,22,21,1
+25.04519,121.57712,Hulin St. & Yongji Rd. Intersection,"No. 356, Yongji Rd. (East)",2024-06-23 08:51:20,15,8,5
+25.04345,121.57539,Yongji Park,"No. 66, Ln. 326, Yongji Rd. (West)",2024-06-23 08:49:20,18,9,5
+25.04561,121.57549,"Ln. 321, Yongji Rd. Intersection","No. 323, Yongji Rd. (West)",2024-06-23 08:43:19,15,4,8
+25.04623,121.57772,Songshan Rd. & Yongji Rd. Intersection,"No. 166, Songshan Rd",2024-06-23 08:44:20,20,1,19
+25.04320,121.57789,"Ln. 292, Songshan Rd. Intersection","No. 279, Songshan Rd",2024-06-23 08:44:20,17,11,6
+25.03295,121.57120,MRT Xiangshan Sta.(Exit.3),"Sec. 5, Sinyi Rd. & Ln. 91, Sec. 5, Sinyi Rd. Intersection (Northwest)",2024-06-23 08:49:20,51,28,23
+25.03657,121.57349,Songde Park,"No. 20, Ln. 168, Songde Rd.",2024-06-23 08:41:19,40,11,29
+25.03511,121.56369,TWTC Exhibition Hall 3,Shihfu Rd. & Songshou Rd. Intersection (Southeast),2024-06-23 08:50:31,54,3,51
+25.03830,121.57620,Songde Rd. & Hulin St. Intersection,"No. 79, Songde Rd.",2024-06-23 08:51:20,30,20,9
+25.04185,121.57204,Futai Park,"No. 209, Songsin Rd.",2024-06-23 08:42:20,32,20,11
+25.04516,121.56702,"Ln. 101, Sec. 1,Keelung Rd. Intersection","No. 109-6, Sec. 1, Keelung Rd.",2024-06-23 08:39:19,32,27,5
+25.04050,121.57538,MRT Yongchun Sta.(Exit.2),"No. 44, Ln. 132, Hulin St. (West)",2024-06-23 08:51:20,30,6,20
+25.02606,121.56310,"Ln. 260, Wuxing St. Intersection","Ln. 260, Wuxing St. & Aly. 21, Ln. 260, Wuxing St. Intersection (Southeast)",2024-06-23 08:51:20,32,12,20
+25.03593,121.57906,Songshan Vocational High School (Linkou St.),"Linkou St., Xinyi Dist. & Fude St. Intersection (Southeast)",2024-06-23 08:46:20,47,31,16
+25.03771,121.56124,Ren'ai Rd. & Yisian Rd. Intersection,"Sec. 4, Ren'ai Rd. & Yisian Rd. Intersection (Northwest)",2024-06-23 08:44:19,38,19,19
+25.03321,121.55873,Xinyi & Keelung Intersection,"No. 393, Sec. 4, Sinyi Rd.",2024-06-23 08:44:20,26,16,10
+25.03270,121.56157,MRT Taipei 101 / World Trade Center Sta.(Exit.2),MRT Taipei 101 & World Trade Center Sta. (Exit.2) (West),2024-06-23 08:51:20,52,47,5
+25.02236,121.56268,"Aly. 36, Ln. 284, Wuxing St.","No. 24, Aly. 36, Ln. 284, Wuxing St. (West)",2024-06-23 08:44:20,25,23,0
+25.04260,121.58381,Xiehe Youde High School,"No. 51, Zhongpo S. Rd. (Opposite)",2024-06-23 08:45:22,20,5,15
+25.03929,121.58755,Fude Elementary School  Bus Station,"No. 308, Fude St. (Opposite)",2024-06-23 08:46:20,19,17,2
+25.03656,121.56866,"Ln. 95, Songren Rd.","Songren Rd. & Ln. 95, Songren Rd. Intersection (Southeast)",2024-06-23 08:51:20,60,17,42
+25.03404,121.56598,Nan Shan Plaza,Songzhi Rd. & Songlian Rd. Intersection (Northeast),2024-06-23 08:51:20,68,14,54
+25.03214,121.55974,Jinglian Plaza,"No. 8, Songqin St. (Opposite)",2024-06-23 08:51:20,23,9,14
+25.02976,121.56420,Jingping Park,"No. 15, Ln. 50, Songping Rd. (Opposite)",2024-06-23 08:35:21,26,16,10
+25.04084,121.56789,MRT Taipei City Hall Sta. (Exit 3),Zhongxiao E. Rd. & Songren Rd. Intersection (Southeast),2024-06-23 08:51:20,92,14,78
+25.04719,121.58058,Wufenpu Park,"No. 57, Zhongpo N. Rd.",2024-06-23 08:45:22,18,5,13
+25.02306,121.57036,"No. 305, Songren Rd.","Songren Rd. & Aly. 3, Ln. 583, Wuxing St. Intersection",2024-06-23 08:48:20,21,11,10
+25.02474,121.56741,"Ln.394, Wuxing St.","Ln. 394, Wuxing St. & Wuxing St. Intersection",2024-06-23 08:43:19,12,3,8
+25.04090,121.57050,"Ln. 215, Sec. 5, Zhongxiao E. Rd.","Sec. 5, Zhongxiao E. Rd. & Ln. 215, Sec. 5, Zhongxiao E. Rd. Intersection",2024-06-23 08:41:20,24,14,10
+25.03203,121.56150,Songqin St. & Zhuangjing Rd. Intersection,Songqin St. & Zhuangjing Rd. Intersection,2024-06-23 08:51:20,15,10,4
+25.03047,121.56838,Songren Rd & Songping Rd. Intersection,Songren Rd & Songping Rd. Intersection,2024-06-23 08:50:30,10,9,1
+25.03322,121.57433,Xinyi Rd. & Songde Rd. Intersection,"No. 180, Sec. 5, Xinyi Rd.",2024-06-23 08:45:22,23,13,10
+25.04146,121.56731,MRT Taipei City Hall Sta. (Exit 4),"Ln. 71, Sec. 5, Zhongxiao E. Rd. & Aly. 18, Ln. 31, Sec. 5, Zhongxiao E. Rd. Intersection",2024-06-23 08:50:31,14,0,14
+25.02326,121.56329,"Ln. 284, Wuxing St. (Guangan Shrine)","No. 23, Ln. 284, Wuxing St. (Opposite)",2024-06-23 08:51:20,15,10,5
+25.02605,121.55770,Jingqin No.2 Park (Southwest),"Ln. 67, Xin'an St. & Xin'an St. Intersection (Southeast)",2024-06-23 08:50:31,22,11,11
+25.02589,121.56073,Keqin New Village,"No. 75, Ln. 67, Xin'an St. (Opposite)",2024-06-23 08:45:22,18,15,3
+25.02186,121.55532,"No. 291, Sec. 3, Heping E. Rd.","No. 291, Sec. 3, Heping E. Rd.",2024-06-23 08:49:20,20,6,11
+25.04533,121.57915,"Ln. 468, Yongji Rd.","No. 478, Yongji Rd.",2024-06-23 08:44:19,13,7,5
+25.03866,121.58082,Guangci Social Housing (Zone D),"No. 15, Ln. 84, Fude St. (Opposite)",2024-06-23 08:50:31,23,18,5
+25.02188,121.55891,"Ln. 341, Sec. 3, Heping E. Rd.","No. 63, Ln. 341, Sec. 3, Heping E. Rd. (Opposite)",2024-06-23 08:43:19,22,13,9
+25.04367,121.56741,Gexin Park,"No. 36, Songlong Rd. (Opposite)",2024-06-23 08:44:20,20,8,12
+25.02460,121.56028,Lishuang Park,"Ln. 103, Xin'an St. & Aly. 22, Ln. 284, Wuxing St. Intersection",2024-06-23 08:46:20,17,14,3
+25.04144,121.56126,Taipei Cultural & Sports Park,"No. 545, Sec. 4, Zhongxiao E. Rd.",2024-06-23 08:51:20,33,5,28
+25.04206,121.55792,MRT S.Y.S Memorial Hall Sta. (Exit 5),"No. 200, Guangfu S. Rd. (Opposite)",2024-06-23 08:49:20,23,16,7
+25.04482,121.55795,Guangfu S. Rd. & Yanchang Rd. Intersection,"No. 76, Guangfu S. Rd. (Opposite)",2024-06-23 08:43:20,25,20,5
+25.04557,121.58059,Zhongpo N. Rd. & Yongji Rd. Intersection,"No. 35, Zhongpo N. Rd.",2024-06-23 08:48:20,15,3,12
+25.02261,121.57178,"Aly. 66, Ln. 281, SongRen Rd.","No. 14, Aly. 66, Ln. 281, Songren Rd.",2024-06-23 08:50:25,20,20,0
+25.04892,121.56906,KeeLung Rd. & Civic Blvd. Intersection,"No. 3, Sec. 1, KeeLung Rd.",2024-06-23 08:37:19,26,14,12
+25.02559,121.56954,"Aly. 4, Ln. 253, SongRen Rd.","No. 1, Aly. 4, Ln. 253, Songren Rd.",2024-06-23 08:41:20,15,12,1
+25.03633,121.57582,"Ln. 169, Songde Rd.","No. 23, Ln. 169, Songde Rd. (Opposite)",2024-06-23 08:45:22,20,15,5
+25.02365,121.49528,Dechang St & Baoxing St Intersection (Northwest),"No. 186, Baoxing St.",2024-06-23 08:47:20,14,9,5
+25.02160,121.49597,Baoxing St & Changtai St Intersection (Southwest),Baoxing St & Changtai St Intersection. (Southwest),2024-06-23 08:50:30,17,11,6
+25.01975,121.49730,"Ln. 486, Wanda Rd","No. 482, Wanda Rd.",2024-06-23 08:50:31,10,0,10
+25.02485,121.50898,"Guoxing Rd & Sec. 2, Zhonghua Rd Intersection","No. 2, Guoxing Rd.",2024-06-23 08:47:20,22,11,9
+25.02442,121.51070,Guting Junior High School,"No. 465, Sec. 2, Zhonghua Rd. (Opposite)",2024-06-23 08:51:20,25,17,7
+25.02297,121.50845,Guoxing Rd & Shuiyuan Rd Intersection,"No. 15, Ln 1, Guoxing Rd. (Opposite)",2024-06-23 08:39:19,23,20,3
+25.02481,121.50755,Youth Park Golf Driving Range,"No. 42, Guoxing Rd. (Opposite)",2024-06-23 08:43:20,25,11,14
+25.02594,121.50651,Guoxing Rd & Qingnian Rd Intersection,Guoxing Rd & Qingnian Rd Intersection. (Southwest),2024-06-23 08:47:20,51,16,35
+25.02410,121.50289,Youth Park Baseball Field,"No. 66, Qingnian Rd (Opposite)",2024-06-23 08:49:20,28,11,17
+25.02085,121.50539,Youth Park Basketball Courts,Youth Park Basketball Courts. (South),2024-06-23 08:31:20,24,3,18
+25.02964,121.50258,Fuhua Garden Metro,"No. 123, Xizang Rd.",2024-06-23 08:49:20,38,24,14
+25.02582,121.50255,Xinhe Elementary School,"No. 1, Aly. 37, Ln. 277, Wanda Rd. (East)",2024-06-23 08:43:20,20,9,11
+25.03124,121.50122,Taipei Juguang Post Office,"No. 210, Juguang Rd.",2024-06-23 08:48:20,16,10,6
+25.03116,121.50336,Juguang Car Park,"No. 137, Juguang Rd.",2024-06-23 06:59:19,10,3,7
+25.03301,121.50160,"Ln. 146, Bangka Blvd Intersection","No. 142, Bangka Blvd.",2024-06-23 07:59:20,14,11,3
+25.02257,121.49807,Dongyuan Elementary School,"No. 199, Dongyuan St.",2024-06-23 08:45:22,33,11,17
+25.01688,121.49534,Huazhong Evacuation Gate,"No. 371, Sec. 3, Huanhe S. Rd.",2024-06-23 08:47:20,12,8,4
+25.02332,121.49264,Jinde Park,"No. 243, Dechang St.",2024-06-23 08:43:20,29,8,14
+25.02516,121.49604,Zhongde Park,"No. 27, Aly 20, Ln 66, Dongyuan St.",2024-06-23 08:49:20,19,10,6
+25.02744,121.49619,Hua Jiang Senior High School,"No. 14, Ln 35, Dongyuan St. (Opposite)",2024-06-23 08:49:20,50,13,37
+25.03267,121.49757,"Sec. 2, Xiyuan Rd & Bangka Blvd Intersection","Sec. 2, Xiyuan Rd & Bangka Blvd Intersection. (Southwest)",2024-06-23 08:39:19,50,21,29
+25.02673,121.49176,Shuang Yuan Junior High School,"Sec. 2, Xiyuan Rd & Xingyi St Intersection",2024-06-23 08:28:19,24,19,5
+25.03284,121.48908,Changshun Community Center,"No. 127, Changshun St.",2024-06-23 08:50:31,26,4,22
+25.03397,121.49029,Hwa Chiang Elementary School,"No. 2, Aly. 25, Ln. 250, Sec. 2, Huanhe S. R. (Opposite)",2024-06-23 08:51:20,23,2,21
+25.03388,121.49293,Huajiang No.8 Park,"No. 2, Aly. 25, Ln. 250, Sec. 2, Huanhe S. R",2024-06-23 08:45:22,20,6,14
+25.03203,121.49127,"Sec. 2, Huanhe S. R & Shuangyuan St Intersection","No. 282, Sec. 2, Huanhe S. Rd.",2024-06-23 08:31:35,22,11,11
+25.03124,121.49075,Dali Senior High School,"Sec. 2, Huanhe S. Rd & Xizang Rd (East)",2024-06-23 08:50:31,35,16,19
+25.03383,121.49460,Tang bu Cultural Park,"No. 177, Dali St. (Opposite)",2024-06-23 08:50:31,16,8,8
+25.03253,121.49549,Liangkeshu Park,"Bangka Blvd & Aly. 20, Ln. 160, Dali St Intersection. (East)",2024-06-23 08:43:20,19,8,8
+25.02021,121.50376,Wanhua Qingnian Public Housing,"No. 188, Qingnian Rd.",2024-06-23 08:17:34,23,1,22
+25.04662,121.50717,Kaifeng St. & Xining Rd. Intersection,"No. 12, Xining Rd. (Opposite)",2024-06-23 08:48:20,68,9,59
+25.04441,121.50541,Emei Parking Lots,"No. 83, Emei St. (Side)",2024-06-23 08:49:20,47,17,28
+25.04170,121.49992,Changsha Park,"No. 280-1, Sec. 1, Huanhe S Rd. (Opposite)",2024-06-23 08:47:20,30,14,16
+25.04367,121.50218,Cat Park (Zhongxing Bridgehead),"No. 108, Chengdu Rd. (Opposite)",2024-06-23 08:36:19,15,12,3
+25.04099,121.50769,Nishi Honganji Relics Plaza,"No. 164-1, Sec. 1, Zhonghua Rd.",2024-06-23 08:40:25,87,0,87
+25.03771,121.50662,Zhonghua Rd. & Guilin Rd. Intersection,"Sec. 1, Zhonghua Rd. & Guilin Rd. (Northwest)",2024-06-23 08:50:31,34,7,27
+25.03535,121.49938,MRT Longshan Temple Sta. (Exit 1),"Sec. 3, Heping W Rd. & Sec. 1, Xiyuan Rd. (Northeast)",2024-06-23 08:51:20,30,29,0
+25.03550,121.49541,Longshan Elementary School,"No. 235, Sec. 3, Heping W Rd. (Side)",2024-06-23 08:36:20,30,11,19
+25.03852,121.49881,Huaxi Park,"No. 134, Guilin Rd. (Opposite)",2024-06-23 08:49:20,51,34,17
+25.03792,121.50177,laosong Elementary School,"No. 238, Kangding Rd. (Opposite)",2024-06-23 08:50:31,50,31,19
+25.03364,121.50322,Wanhua Train Sta.,"No. 83, Bangka Blvd.",2024-06-23 08:36:20,53,38,14
+25.03394,121.50117,Wanhua Train Sta. (D2 Plaza),"Kangding Rd. & Ln. 287, Kangding Rd. Intersection",2024-06-23 08:47:15,17,17,0
+25.03509,121.50199,MRT Longshan Temple Sta. (Exit 3),"Sec. 3, Heping W Rd. & Ln. 88, Sec. 3, Heping W Rd. Intersection (Southwest)",2024-06-23 08:39:19,23,11,12
+25.04445,121.50306,Taipei Cinema Park (Emei St.),"No. 100, Emei St. (Opposite)",2024-06-23 08:49:20,15,4,11
+25.04551,121.50318,Taipei Cinema Park (Kangding Rd.),"No. 18-2, Kangding Rd.",2024-06-23 08:47:19,15,7,8
+25.04345,121.50841,Zhonghua Rd. & Emei St. Intersection,"No. 130, Sec. 1, Zhonghua Rd.",2024-06-23 08:49:20,24,5,19
+25.04030,121.50197,wanhua greehs NO.266,"No. 81, Kangding Rd. (Opposite)",2024-06-23 08:50:31,15,0,15
+25.02376,121.49986,"Wanda Elementary School (Ln. 344, Wanda Rd.)","No. 346, Wanda Rd.",2024-06-23 08:51:20,18,4,14
+25.02533,121.49960,"Ln. 10, Dechang St.","No. 15, Dechang St. (Opposite)",2024-06-23 08:47:20,17,7,10
+25.03517,121.49048,Huanhe S. Rd. & Heping W. Rd. Intersection,"Sec. 1, Huanhe S. Rd. & Sec. 3, Heping W. Rd. Intersection (Southwest)",2024-06-23 08:49:20,20,7,13
+25.03119,121.48858,"Ln. 60, Changshun St.","No. 38, Ln. 60, Changshun St. (Opposite)",2024-06-23 08:26:20,15,6,7
+25.02710,121.49775,Xiyuan Park,"Ln. 35, Dongyuan St. & Ln. 67, Dongyuan St. Intersection",2024-06-23 08:24:20,14,7,6
+25.03606,121.49163,Huajiang Sewage Treatment Plant,"No. 66, Ln. 246, Guilin Rd. (South)",2024-06-23 08:43:20,20,4,16
+25.03731,121.49526,Liuxiang Park,"No. 102, Sec. 2, Huanhe S. Rd. (Northwest)",2024-06-23 08:50:31,15,7,8
+25.03302,121.49310,Luti Community Park,"Ln. 170, Dali St. & Ln.159, Sec. 2, Huanhe S. Rd. Intersection",2024-06-23 08:40:30,28,20,8
+25.03035,121.49228,Changshun St. & Bangka Blvd. Intersection,"Changshun St. & Ln. 106, Shuangyuan St. Intersection",2024-06-23 08:28:19,26,22,4
+25.01796,121.49988,"Ln. 145, Fumin Rd.","No. 151, Fumin Rd. (Opposite)",2024-06-23 08:46:20,20,18,2
+25.02860,121.48908,Huanhe Market,"No. 245, Sec. 2, Huanhe S. Rd.",2024-06-23 08:46:20,14,6,8
+25.03646,121.50492,LongShan Junior High School,Nanning Rd. & Guangzhou St. Intersection (South),2024-06-23 08:40:25,15,0,15
+25.04776,121.50612,Luoyang Parking,Kunming St. & Luoyang St. Intersection (West),2024-06-23 08:49:20,22,21,1
+25.03811,121.50362,Guilin Rd. & Kunming St. Intersection,Guilin Rd. & Kunming St. Intersection (Northwest),2024-06-23 08:49:20,29,10,19
+25.02926,121.49936,Wanhuaguomin Junior High School,"Xizang Rd. & Ln. 299, Juguang Rd. Intersection (Southeast)",2024-06-23 08:45:22,36,14,21
+25.02273,121.50271,Youth Park (Exit 3),"Qingnian Rd. & Ln. 106, Qingnian Rd. Intersection (East)",2024-06-23 08:51:20,46,21,25
+25.03548,121.50026,MRT Longshan Temple Sta. (Exit 1)_1,"Sec. 3, Heping W. Rd. & Ln. 109, Sec. 3, Heping W. Rd. Intersection (Northwest)",2024-06-23 08:48:15,49,49,0
+25.03170,121.50033,Juguang Social Housing,"Wanda Rd. & Aly. 22, Ln. 66, Xingning St. Intersection (Northwest)",2024-06-23 08:29:19,30,11,19
+25.02870,121.49156,Bangka Blvd. & Xizang Rd. Intersection,Bangka Blvd. & Xizang Rd. Intersection (Southwest) (Under Huacui Bridge),2024-06-23 07:38:19,20,15,5
+25.01975,121.49920,"Ln. 493, Wanda Rd.","No. 44, Ln. 493, Wanda Rd.",2024-06-23 08:45:22,10,4,6
+25.02768,121.49134,Shuangyuan Car Park,"No. 10, Aly. 55, Ln. 320, Sec. 2, Xiyuan Rd.",2024-06-23 08:06:21,12,7,5
+25.01979,121.50090,"Ln. 152, Qingnian Rd.","No. 59, Ln. 152, Qingnian Rd. (Opposite)",2024-06-23 08:51:20,23,15,8
+25.03348,121.50445,"Ln. 190, Sec. 2, Heping W. Rd.","No. 11, Ln. 190, Sec. 2, Heping W. Rd.",2024-06-23 08:36:20,15,8,7
+25.02039,121.49270,"Ln. 424, Wanda Rd.","Sec. 3, Huanhe S. Rd. & Ln. 424, Wanda Rd. Intersection",2024-06-23 08:51:20,15,10,5
+25.02320,121.50028,"Ln. 52, ChangTai St.","No. 45, ChangTai St. (Opposite)",2024-06-23 08:44:20,15,2,10
+25.02005,121.50429,ShuiYuan Rd. & QingNian Rd. Intersection,ShuiYuan Rd. & QingNian Rd. Intersection (North),2024-06-23 08:51:20,24,2,20
+25.02114,121.50265,Youth Park (Exit 4),"No. 162, QingNian Rd.",2024-06-23 08:44:20,24,10,14
+25.01907,121.50219,XiangAn Public Housing,"No. 207-7, Shuiyuan Rd.",2024-06-23 08:41:19,15,6,6
+25.03062,121.49021,Dali High School (XiZang Rd.),"Sec. 2, HuanHe S. Rd. & XiZang Rd. Intersection",2024-06-23 08:43:20,19,12,7
+25.03338,121.49267,LuTi Park (Northwest),"Ln. 159, Sec. 2, HuanHe S. Rd.",2024-06-23 08:44:20,14,4,10
+25.03010,121.49324,BangKa Blvd. & ShuangYuan St. Intersection,"No. 404, BangKa Blvd.",2024-06-23 08:21:20,14,10,4
+25.02406,121.49639,"Ln. 125, DeChang St.","No. 142, DeChang St.",2024-06-23 08:36:20,15,5,9
+25.02263,121.50154,"No. 186, WanQing St.","No. 186, WanQing St.",2024-06-23 08:34:19,21,9,12
+25.01493,121.53044,NTU ShuiYuan Dorms(A),"Aly. 2, Ln. 60, Sec. 3, Tingzhou Rd. Dorms A(North)",2024-06-23 08:50:31,37,23,14
+25.01466,121.52917,NTU Complex for Research Excellence,NTU Prince House Chang Hsing Dorms C(South),2024-06-23 08:18:19,32,27,5
+25.01411,121.52997,NTU ShuiYuan HsiuChi House,"No.16-1, Siyuan St.",2024-06-23 08:41:20,18,10,8
+25.01391,121.52895,NTU Archives,NTU Archives(Northeast),2024-06-23 07:58:15,10,7,3
+25.01525,121.53009,NTU ShuiYuan Dorms(B),"Aly. 2, Ln. 60, Sec. 3, Tingzhou Rd. Dorms B(North)",2024-06-23 08:50:31,30,15,15
+25.01729,121.54531,NTU 8th Men's Dorm(East),NTU 8th Men's Dorm(East),2024-06-23 08:48:20,42,27,15
+25.01415,121.53767,NTU Courtesy House(Southeast),NTU The Apex Building(Southeast),2024-06-23 08:51:20,23,16,6
+25.01839,121.53404,NTU Agricultural Exhibition Hall(North),NTU Agricultural Exhibition Hall(North),2024-06-23 08:51:20,45,23,22
+25.01355,121.53673,"NTU Building 2, College of Management(North)","NTU Building 2, College of Management(North)",2024-06-23 08:01:19,40,28,12
+25.01761,121.53844,NTU Dept. of Civil Engineering,NTU Dept. of Civil Engineering(South),2024-06-23 08:50:31,30,6,24
+25.01547,121.53436,NTU Freshman Women's Dorm(North),NTU Freshman Women's Dorm(North),2024-06-23 08:44:19,53,3,50
+25.01981,121.53903,NTU 9th Women's Dorm(Southwest),NTU 9th Women's Dorm(Southwest),2024-06-23 08:44:20,62,33,29
+25.01846,121.53760,NTU Xiao Fu Commissary(East),NTU Xiao Fu Commissary(East),2024-06-23 08:50:31,31,13,18
+25.01616,121.54251,NTU Parking lot(Motorcycle),"Ln. 156, Sec. 3, Keelung Rd. Intersection(North)",2024-06-23 08:49:20,27,3,24
+25.01857,121.54059,NTU College of Engineering Building(South),NTU College of Engineering Building(Southeast),2024-06-23 08:51:20,26,15,11
+25.02108,121.53783,NTU Astronomy - Mathematics Building(South),NTU Astronomy - Mathematics Building(Southwest),2024-06-23 08:35:21,19,9,10
+25.01941,121.54040,NTU Dept. of Psychology (South Hall),NTU Dept. of Psychology (South Hall),2024-06-23 08:24:20,30,5,25
+25.01793,121.53585,NTU Lesyue Building(East),Liberal Arts Research Building(West),2024-06-23 08:47:19,28,9,19
+25.01627,121.53535,NTU New Agricultural Chemistry Building(West),NTU Department of Biochemical Science and Technology(West),2024-06-23 08:49:20,10,3,7
+25.01666,121.53718,NTU Building No.5(West),NTU Department of Bioenvironmental Systems Engineering(West),2024-06-23 08:47:20,41,2,39
+25.01980,121.53583,NTU Gymnasium(West),NTU Sports Field(East),2024-06-23 08:40:31,33,13,20
+25.01595,121.53791,NTU Common Subjects Classroom Building(North),NTU Common Subjects Classroom Building(Northeast),2024-06-22 20:33:21,42,2,40
+25.01566,121.53786,NTU Common Subjects Classroom Building(Southeast),NTU Common Subjects Classroom Building(Southeast),2024-06-23 08:37:20,12,1,11
+25.01511,121.53786,NTU LuMing Hall(East),NTU Lu Ming Square(Sidewalk),2024-06-23 08:51:20,27,16,11
+25.01345,121.53798,NTU Gongguan Car Park (Northwest),NTU Gongguan Car Park (Northwest),2024-06-23 08:34:19,12,6,5
+25.01603,121.53635,NTU 2nd Administration Building(South),NTU Administration Building(West),2024-06-23 08:38:20,27,17,10
+25.01754,121.54398,NTU Ming - Da Hall Parking,NTU Ming - Da Hall(West),2024-06-23 06:58:08,28,6,22
+25.01699,121.53574,NTU Building No.2,NTU Heritage Hall of Physics,2024-06-23 08:38:19,10,5,5
+25.02157,121.53633,NTU Center for Condensed Matter Sciences(South),NTU Dept. of Physics Library,2024-06-23 08:38:19,20,1,18
+25.02053,121.54145,NTU College of social Sciences Building(West),NTU College of social Sciences Building(West),2024-06-23 08:50:31,42,31,11
+25.01987,121.54175,NTU Department of Sociology(South),NTU Dept. of Sociology / Dept. of Social Work(South),2024-06-23 08:50:30,39,18,21
+25.02074,121.53906,NTU Shih - Liang Hall(Southeast),NTU Shih - Liang Hall(Southeast),2024-06-23 07:32:18,10,3,7
+25.01561,121.53583,NTU Green Cabin,NTU Green Cabin,2024-06-23 08:48:20,48,35,13
+25.02036,121.53992,NTU Computer and Information Networking Center(South),NTU Computer and Information Networking Center(South),2024-06-23 08:47:20,34,19,15
+25.01881,121.53868,NTU Institute of Atomic and Molecular Sciences(North),NTU Institute of Atomic and Molecular Sciences(Northeast),2024-06-23 08:37:20,12,6,6
+25.01548,121.53825,NTU Life Science Building(Northwest),Museum of Zoology(West),2024-06-23 08:44:19,30,8,22
+25.01761,121.53995,NTU 1st Student Activity Center(Southwest),NTU 1st Student Activity Center(Southeast),2024-06-23 08:46:20,40,22,17
+25.01922,121.54195,NTU Barry Lam Hall(West),NTU Barry Lam Hall(West),2024-06-23 08:50:30,22,10,12
+25.01890,121.53600,NTU Liberal Education Classroom Building(West),NTU Liberal Education Classroom Building(West),2024-06-23 08:50:30,56,41,15
+25.01704,121.53888,NTU Forestry Building(North),NTU Forestry Building(North),2024-06-23 08:01:20,10,4,6
+25.01698,121.53455,NTU Building No.1,NTU Building No.1(North),2024-06-23 08:46:20,19,5,14
+25.01539,121.53686,NTU Xiao Xiao Fu Commissary(Southwest),NTU Omnium Gatherum Building,2024-06-23 05:01:15,10,3,7
+25.01337,121.53909,NTU Teaching and Research Building(North),NTU The Odeum Square(Southeast),2024-06-23 08:11:14,11,11,0
+25.01703,121.53781,NTU Building No.4(Northeast),NTU Department of Horticulture(North),2024-06-23 07:48:19,10,3,7
+25.01960,121.53846,NTU Freshman Classroom Building(South),NTU Freshman Classroom Building(South),2024-06-23 07:46:20,18,9,9
+25.01900,121.54305,NTU Tseng Jiang Hall(North),NTU Graduate Institute of Journalism(South),2024-06-23 08:28:14,10,10,0
+25.01857,121.54247,NTU E. E. Building No. 2(Southeast),NTU E. E. Building No. 2(Southeast),2024-06-23 08:51:20,14,10,4
+25.01804,121.53928,NTU Dept. of Library and Information Sciences(North),NTU Dept. of Library and Information Sciences(North),2024-06-23 08:34:19,25,2,23
+25.01690,121.54031,NTU Main Library(Southwest),NTU Main Library(Southwest),2024-06-23 08:49:20,30,4,21
+25.01995,121.54347,NTU Black Forest(West),NTU Tsai Lecture Hall(South),2024-06-23 08:51:20,20,20,0
+25.01791,121.54242,NTU Dept. of Veterinary Medicine(South),NTU Dept. of Veterinary Medicine(South),2024-06-23 08:27:21,24,5,19
+25.02112,121.53591,NTU Sports Center(Southeast),NTU Sports Center(East),2024-06-23 08:47:20,40,24,16
+25.01816,121.54469,NTU Ming - Da Hall (Staff Dormitory),NTU Ming - Da Hall (North),2024-06-23 08:10:30,18,6,12

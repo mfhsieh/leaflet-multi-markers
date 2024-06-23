@@ -41,6 +41,7 @@
         .leaflet-multi-markers-popup {
             color: rgba(var(--primary-rgb), 1);
         }
+
     </style>
 </head>
 
@@ -76,10 +77,54 @@
                 new L.MultiMarkers(results.data, {
                     iconExPredefined: {
                         default: {
-                            iconFill: "#ff9d19",
-                            contentHtml: '<i class="fas fa-bicycle"></i>',
-                            contentColor: "#ff9d19",
+                            contentFontSize: 16,
                         },
+                        A: {
+                            iconHtml: `
+<svg width="32" height="40" viewBox="0 0 32 40" xmlns="http://www.w3.org/2000/svg">
+	<path stroke-width="1" d="m 2.5,0.5 c -1.107998,0 -2,0.892002 -2,2 v 27 c 0,1.107998 0.892002,2 2,2 h 4.7044922 a 4.1676656,4.1676656 24.095192 0 1 3.1064288,1.38926 L 16,39.25 21.68908,32.88926 A 4.1676657,4.1676657 155.90481 0 1 24.795508,31.5 H 29.5 c 1.107998,0 2,-0.892002 2,-2 v -27 c 0,-1.107998 -0.892002,-2 -2,-2 z" />
+</svg>`,
+                            backgroundHtml: `
+<svg width="32" height="40" viewBox="0 0 32 40" xmlns="http://www.w3.org/2000/svg">
+	<path stroke-width="0" d="M 5.5483871,4 C 4.6905822,4 4,4.6905822 4,5.5483871 V 26.451613 C 4,27.309418 4.6905822,28 5.5483871,28 h 3.6421875 a 3.2265798,3.2265798 0 0 1 2.4049774,1.075556 L 16,34 20.404449,29.075556 A 3.2265799,3.2265799 0 0 1 22.809426,28 h 3.642187 C 27.309418,28 28,27.309418 28,26.451613 V 5.5483871 C 28,4.6905822 27.309418,4 26.451613,4 Z" />
+</svg>`,
+                            backgroundHtmlSize: [32, 40],
+                            backgroundHtmlAnchor: [16, 20],
+                            contentFontSize: 18,
+                        },
+                        B: {
+                            iconHtml: `
+<svg width="32" height="48" viewBox="0 0 32 48" xmlns="http://www.w3.org/2000/svg">
+	<path stroke-width="1" d="M 16,0.5 C 7.4396,0.5 0.5,7.4396 0.5,16 0.5,20.2802 2.0133,23.9336 5.0398,26.9602 16,37.9203 13,45 16,47.3635 19,45 16,37.9203 26.9602,26.9602 29.9867,23.9336 31.5,20.2802 31.5,16 31.5,7.4396 24.5604,0.5 16,0.5 Z" />
+</svg>`,
+                            iconHtmlSize: [32, 48],
+                            iconHtmlAnchor: [16, 48],
+                            iconHtmlPopupAnchor: [0, -32],
+                        },
+                        C: {
+                            iconHtml: `
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<rect stroke-width="1" width="23.5" height="23.5" x="12" y="12" rx="4" ry="4" />
+</svg>`,
+                            iconHtmlSize: [24, 24],
+                            iconHtmlAnchor: [12, 24],
+                            iconHtmlPopupAnchor: [0, -12],
+                            backgroundHtml: "",
+                            contentHtmlAnchor: [12, 12],
+                            contentColor: "#fff",
+                        },
+                        D: {
+                            iconHtml: `
+<svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<circle stroke-width="1" cx="14" cy="14" r="13.5" />
+</svg>`,
+                            iconHtmlSize: [28, 28],
+                            iconHtmlAnchor: [14, 28],
+                            iconHtmlPopupAnchor: [0, -14],
+                            backgroundHtml: "",
+                            contentHtmlAnchor: [14, 14],
+                            contentColor: "#fff",
+                        }, 
                     },
                     getStaticContent: (marker) => {
                         return `<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`;

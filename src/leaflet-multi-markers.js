@@ -51,11 +51,19 @@
         },
 
         addMarker(elem) {
-            const predefined = this.options.iconExPredefined && elem.hasOwnProperty("iconExName") && elem.iconExName in this.options.iconExPredefined ? this.options.iconExPredefined[elem.iconExName] : {};
+            let predefined = {};
+            if (this.options.iconExPredefined) {
+                if ("default" in this.options.iconExPredefined)
+                    predefined = this.options.iconExPredefined["default"];
+                if (elem.hasOwnProperty("iconExName") && elem.iconExName in this.options.iconExPredefined)
+                    predefined = { ...predefined, ...this.options.iconExPredefined[elem.iconExName] };
+            }
+
             const iconOptions = this.options.iconExFields.reduce((acc, key) => {
-                if (elem.hasOwnProperty(key)) acc[key] = elem[key];
+                if (elem.hasOwnProperty(key) && elem[key]) acc[key] = elem[key];
                 return acc;
             }, { ...predefined });
+
             const marker = new L.Marker([elem.lat, elem.lng], { icon: new L.IconEx(iconOptions) });
             marker.elem = elem;
 

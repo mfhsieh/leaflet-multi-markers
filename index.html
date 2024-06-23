@@ -12,6 +12,8 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+    <script src="https://kit.fontawesome.com/8132850410.js" crossorigin="anonymous"></script>
+
     <script src="dist/leaflet-iconex.min.js"></script>
     <link rel="stylesheet" href="dist/leaflet-iconex.css" />
 
@@ -64,10 +66,10 @@
         set_viewport();
         window.addEventListener("resize", set_viewport);
 
-        const latLngCenter = [25.0487037, 121.5143449];
+        const latLngCenter = [25.05152, 121.55243];
         const map = new L.Map("map", {
             center: latLngCenter,
-            zoom: 13,
+            zoom: 16,
             zoomControl: false,
         });
 
@@ -77,53 +79,65 @@
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>',
         }).addTo(map);
 
-        const iconExPredefined = {
-            default: {},
-            square: {
-                iconHtml: `
-<svg width="32" height="40" viewBox="0 0 32 40" xmlns="http://www.w3.org/2000/svg">
-	<path stroke-width="1" d="m 2.5,0.5 c -1.107998,0 -2,0.892002 -2,2 v 27 c 0,1.107998 0.892002,2 2,2 h 4.7044922 a 4.1676656,4.1676656 24.095192 0 1 3.1064288,1.38926 L 16,39.25 21.68908,32.88926 A 4.1676657,4.1676657 155.90481 0 1 24.795508,31.5 H 29.5 c 1.107998,0 2,-0.892002 2,-2 v -27 c 0,-1.107998 -0.892002,-2 -2,-2 z" />
-</svg>`,
-                backgroundHtml: `
-<svg width="32" height="40" viewBox="0 0 32 40" xmlns="http://www.w3.org/2000/svg">
-	<path stroke-width="0" d="M 5.5483871,4 C 4.6905822,4 4,4.6905822 4,5.5483871 V 26.451613 C 4,27.309418 4.6905822,28 5.5483871,28 h 3.6421875 a 3.2265798,3.2265798 0 0 1 2.4049774,1.075556 L 16,34 20.404449,29.075556 A 3.2265799,3.2265799 0 0 1 22.809426,28 h 3.642187 C 27.309418,28 28,27.309418 28,26.451613 V 5.5483871 C 28,4.6905822 27.309418,4 26.451613,4 Z" />
-</svg>`,
-                backgroundHtmlSize: [32, 40],
-                backgroundHtmlAnchor: [16, 20],
-                contentFontSize: 18,
-            },
-        };
-
         const papa = Papa.parse("https://mfhsieh.github.io//leaflet-multi-markers/examples/youbike.csv", {
             download: true, header: true, dynamicTyping: false, skipEmptyLines: true, delimiter: ",",
+            complete: (results) => {
+                new L.MultiMarkers(results.data, {
+                    iconExPredefined: {
+                        default: {
+                            iconFill: "#ff9d19",
+                            contentHtml: '<i class="fas fa-bicycle"></i>',
+                            contentColor: "#ff9d19",
+                        },
+                    },
+                    defaultContent: `<div>Simulate "Data Fetching"</div><div style="display: flex; align-items: center; justify-content: center; height: 100px"><div class="loader"></div></div>`,
+                    fetchDynamicContent: (marker) => {
+                        return fetchPopupContent(marker.elem);
+                    },
+                }).addTo(map);
+            },
         });
-        console.log(papa);
 
-        const markers = new L.MultiMarkers([
-            {
-                lat: latLngCenter[0],
-                lng: latLngCenter[1],
-                iconExName: "default",
-                contentHtml: "A",
-                contentColor: "red",
-
-            }, {
-                lat: latLngCenter[0],
-                lng: latLngCenter[1] - 0.01,
-                iconExName: "square",
-                contentHtml: "B",
-                contentColor: "blue",
-            },
-        ], {
-            iconExPredefined: iconExPredefined,
-            defaultContent: `<div>Simulate "Data Fetching"</div><div style="display: flex; align-items: center; justify-content: center; height: 100px"><div class="loader"></div></div>`,
-            // getStaticContent: (marker) => {
-            //     return `<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`;
-            // },
-            fetchDynamicContent: (marker) => {
-                return fetchPopupContent(marker.elem);
-            },
-        }).addTo(map);
+        //         const iconExPredefined = {
+        //             default: {
+        //                 contentColor: "red",
+        //             },
+        //             square: {
+        //                 iconHtml: `
+        // <svg width="32" height="40" viewBox="0 0 32 40" xmlns="http://www.w3.org/2000/svg">
+        //     <path stroke-width="1" d="m 2.5,0.5 c -1.107998,0 -2,0.892002 -2,2 v 27 c 0,1.107998 0.892002,2 2,2 h 4.7044922 a 4.1676656,4.1676656 24.095192 0 1 3.1064288,1.38926 L 16,39.25 21.68908,32.88926 A 4.1676657,4.1676657 155.90481 0 1 24.795508,31.5 H 29.5 c 1.107998,0 2,-0.892002 2,-2 v -27 c 0,-1.107998 -0.892002,-2 -2,-2 z" />
+        // </svg>`,
+        //                 backgroundHtml: `
+        // <svg width="32" height="40" viewBox="0 0 32 40" xmlns="http://www.w3.org/2000/svg">
+        //     <path stroke-width="0" d="M 5.5483871,4 C 4.6905822,4 4,4.6905822 4,5.5483871 V 26.451613 C 4,27.309418 4.6905822,28 5.5483871,28 h 3.6421875 a 3.2265798,3.2265798 0 0 1 2.4049774,1.075556 L 16,34 20.404449,29.075556 A 3.2265799,3.2265799 0 0 1 22.809426,28 h 3.642187 C 27.309418,28 28,27.309418 28,26.451613 V 5.5483871 C 28,4.6905822 27.309418,4 26.451613,4 Z" />
+        // </svg>`,
+        //                 backgroundHtmlSize: [32, 40],
+        //                 backgroundHtmlAnchor: [16, 20],
+        //                 contentFontSize: 18,
+        //             },
+        //         };
+        //         const markers = new L.MultiMarkers([
+        //             {
+        //                 lat: latLngCenter[0],
+        //                 lng: latLngCenter[1],
+        //                 contentHtml: "A",
+        //             }, {
+        //                 lat: latLngCenter[0],
+        //                 lng: latLngCenter[1] - 0.01,
+        //                 iconExName: "square",
+        //                 contentHtml: "B",
+        //                 contentColor: "blue",
+        //             },
+        //         ], {
+        //             iconExPredefined: iconExPredefined,
+        //             defaultContent: `<div>Simulate "Data Fetching"</div><div style="display: flex; align-items: center; justify-content: center; height: 100px"><div class="loader"></div></div>`,
+        //             // getStaticContent: (marker) => {
+        //             //     return `<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`;
+        //             // },
+        //             fetchDynamicContent: (marker) => {
+        //                 return fetchPopupContent(marker.elem);
+        //             },
+        //         }).addTo(map);
 
     </script>
 </body>

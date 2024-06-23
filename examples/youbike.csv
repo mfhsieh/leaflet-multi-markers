@@ -1,4 +1,4 @@
-lat,lng,name,location,mday,status,total,bikes,parks,iconFill,backgroundFill,contentColor
+lat,lng,name,location,datetime,status,total,bikes,parks,iconFill,backgroundFill,contentColor
 25.02605,121.5436,MRT Technology Bldg. Sta.,"No.235, Sec. 2, Fuxing S. Rd.",2024-06-23 08:51:20,1,28,3,25,,,
 25.02565,121.54357,"No.273, Sec. 2, Fuxing S. Rd.","No.273, Sec. 2, Fuxing S. Rd. (West)",2024-06-23 08:50:30,1,21,2,19,,,
 25.02429,121.54124,NTUE Experiment Elementary School (East),"No. 7, Ln. 96, Sec. 2, Heping E. Rd",2024-06-23 08:31:20,1,16,10,6,,,

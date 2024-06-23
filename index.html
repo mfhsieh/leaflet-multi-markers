@@ -41,7 +41,6 @@
         .leaflet-multi-markers-popup {
             color: rgba(var(--primary-rgb), 1);
         }
-
     </style>
 </head>
 
@@ -58,10 +57,10 @@
         set_viewport();
         window.addEventListener("resize", set_viewport);
 
-        const latLngCenter = [25.05152, 121.55243];
+        const latLngCenter = [25.04870, 121.51434];
         const map = new L.Map("map", {
             center: latLngCenter,
-            zoom: 16,
+            zoom: 13,
             zoomControl: false,
         });
 
@@ -71,7 +70,7 @@
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>',
         }).addTo(map);
 
-        const papa = Papa.parse("https://mfhsieh.github.io//leaflet-multi-markers/examples/youbike.csv", {
+        const papa = Papa.parse("https://mfhsieh.github.io//leaflet-multi-markers/examples/example.csv", {
             download: true, header: true, dynamicTyping: false, skipEmptyLines: true, delimiter: ",",
             complete: (results) => {
                 new L.MultiMarkers(results.data, {
@@ -104,7 +103,7 @@
                         C: {
                             iconHtml: `
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-	<rect stroke-width="1" width="23.5" height="23.5" x="12" y="12" rx="4" ry="4" />
+	<rect stroke-width="1" width="23" height="23" x="0.5" y="0.5" rx="4" ry="4" />
 </svg>`,
                             iconHtmlSize: [24, 24],
                             iconHtmlAnchor: [12, 24],
@@ -124,7 +123,7 @@
                             backgroundHtml: "",
                             contentHtmlAnchor: [14, 14],
                             contentColor: "#fff",
-                        }, 
+                        },
                     },
                     getStaticContent: (marker) => {
                         return `<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`;

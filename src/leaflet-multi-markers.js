@@ -71,6 +71,8 @@
             const marker = new L.Marker([elem.lat, elem.lng], { icon: new L.IconEx(iconOptions) });
             marker.elem = elem;
 
+            if (this.options.onClick) marker.on("click", this.options.onClick.bind(null, marker));
+
             if (this.options.bindPopup && (this.options.defaultContent || this.options.getStaticContent) && !this.options.fetchDynamicContent) {
                 const id = undefined;
                 const content = this.options.getStaticContent ? this._getStaticContentWrapper(id) : this._defaultContentWrapper(id);
@@ -90,12 +92,7 @@
                 });
             }
 
-            const ret = L.LayerGroup.prototype.addLayer.call(this, marker);
-
-            if (this.options.onClick)
-                marker.on("click", this.options.onClick(marker));
-
-            return ret;
+            return L.LayerGroup.prototype.addLayer.call(this, marker);
         },
 
         _defaultContentWrapper: function (id) {

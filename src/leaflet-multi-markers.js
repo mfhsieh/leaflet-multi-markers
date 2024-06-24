@@ -59,7 +59,7 @@
             let iconOptions = {};
             if (this.options.iconExPredefined) {
                 if ("default" in this.options.iconExPredefined)
-                    iconOptions = this.options.iconExPredefined["default"];
+                    iconOptions = { ...this.options.iconExPredefined["default"] };
                 if (elem.hasOwnProperty("iconExName") && elem.iconExName in this.options.iconExPredefined)
                     iconOptions = { ...iconOptions, ...this.options.iconExPredefined[elem.iconExName] };
             }

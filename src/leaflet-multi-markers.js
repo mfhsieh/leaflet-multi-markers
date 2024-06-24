@@ -1,5 +1,5 @@
 /*
- * Leaflet.MultiMarkers v0.0.1 - 2024-6-18
+ * Leaflet.MultiMarkers v0.9.0 - 2024-6-18
  *
  * Copyright 2024 mfhsieh
  * mfhsieh@gmail.com

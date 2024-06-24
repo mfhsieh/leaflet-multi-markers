@@ -80,13 +80,13 @@
                 markerOptions = { ...this.options.markerOptions };
             if (this.options.setMarkerOptions)
                 markerOptions = { ...markerOptions, ...this.options.setMarkerOptions(elem) };
-            
+
             markerOptions["icon"] = new L.IconEx(iconOptions);
 
             const marker = new L.Marker([elem.lat, elem.lng], markerOptions);
             marker.elem = elem;
 
-            if (this.options.onClick) marker.on("click", this.options.onClick.bind(null, marker));
+            if (this.options.onClick) marker.on("click", this.options.onClick);
 
             if (this.options.bindPopup && (this.options.defaultPopupContent || this.options.getStaticPopupContent) && !this.options.fetchDynamicPopupContent) {
                 const id = undefined;

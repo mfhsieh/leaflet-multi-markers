@@ -156,8 +156,8 @@
                         });
                     },
 
-                    onClick: (marker) => {
-                        console.log("marker clicked", marker);
+                    onClick: (event) => {
+                        console.log("marker clicked", event.target);
                     },
                 }).addTo(map);
             },

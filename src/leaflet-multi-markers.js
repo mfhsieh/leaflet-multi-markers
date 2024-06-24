@@ -39,10 +39,15 @@
                 "contentHtml", "contentHtmlSize", "contentHtmlAnchor", "contentColor", "contentFontSize"],
             iconExPredefined: undefined,
             setIconExOptions: undefined,
+
+            markerOptions: undefined,
+            setMarkerOptions: undefined,
+
             bindPopup: true,
-            defaultContent: "",
-            getStaticContent: undefined,
-            fetchDynamicContent: undefined,
+            defaultPopupContent: "",
+            getStaticPopupContent: undefined,
+            fetchDynamicPopupContent: undefined,
+
             onClick: undefined,
         },
 
@@ -50,9 +55,7 @@
             L.Util.setOptions(this, options);
 
             this._layers = {};
-            if (data) data.forEach((elem) => {
-                this.addMarker(elem);
-            });
+            if (data) data.forEach((elem) => this.addMarker(elem));
         },
 
         addMarker(elem) {
@@ -69,24 +72,33 @@
                 return acc;
             }, { ...iconOptions });
 
-            if (this.options.setIconExOptions) iconOptions = { ...iconOptions, ...this.options.setIconExOptions(elem) };
+            if (this.options.setIconExOptions)
+                iconOptions = { ...iconOptions, ...this.options.setIconExOptions(elem) };
 
-            const marker = new L.Marker([elem.lat, elem.lng], { icon: new L.IconEx(iconOptions) });
+            let markerOptions = {};
+            if (this.options.markerOptions)
+                markerOptions = { ...this.options.markerOptions };
+            if (this.options.setMarkerOptions)
+                markerOptions = { ...markerOptions, ...this.options.setMarkerOptions(elem) };
+            
+            markerOptions["icon"] = new L.IconEx(iconOptions);
+
+            const marker = new L.Marker([elem.lat, elem.lng], markerOptions);
             marker.elem = elem;
 
             if (this.options.onClick) marker.on("click", this.options.onClick.bind(null, marker));
 
-            if (this.options.bindPopup && (this.options.defaultContent || this.options.getStaticContent) && !this.options.fetchDynamicContent) {
+            if (this.options.bindPopup && (this.options.defaultPopupContent || this.options.getStaticPopupContent) && !this.options.fetchDynamicPopupContent) {
                 const id = undefined;
-                const content = this.options.getStaticContent ? this._getStaticContentWrapper(id) : this._defaultContentWrapper(id);
+                const content = this.options.getStaticPopupContent ? this._getStaticPopupContentWrapper(id) : this._defaultPopupContentWrapper(id);
                 marker.bindPopup(content);
-            } else if (this.options.bindPopup && this.options.fetchDynamicContent) {
+            } else if (this.options.bindPopup && this.options.fetchDynamicPopupContent) {
                 marker.bindPopup(() => {
                     const id = this._getRandomDivId();
-                    const content = this.options.getStaticContent ? this._getStaticContentWrapper(id)(marker) : this._defaultContentWrapper(id);
+                    const content = this.options.getStaticPopupContent ? this._getStaticPopupContentWrapper(id)(marker) : this._defaultPopupContentWrapper(id);
                     marker.once("popupopen", () => {
                         const div = document.getElementById(id);
-                        if (div) this._fetchDynamicContentWrapper(marker, div);
+                        if (div) this._fetchDynamicPopupContentWrapper(marker, div);
                     });
                     return content;
                 });
@@ -95,20 +107,19 @@
             return L.LayerGroup.prototype.addLayer.call(this, marker);
         },
 
-        _defaultContentWrapper: function (id) {
-            return `<div class="leaflet-multi-markers-popup"${id ? ` id="${id}"` : ""}>${this.options.defaultContent}</div>`;
+        _defaultPopupContentWrapper: function (id) {
+            return `<div class="leaflet-multi-markers-popup"${id ? ` id="${id}"` : ""}>${this.options.defaultPopupContent}</div>`;
         },
 
-        _getStaticContentWrapper: function (id) {
+        _getStaticPopupContentWrapper: function (id) {
             return (marker) => {
-                const content = this.options.getStaticContent(marker);
-                return `<div class="leaflet-multi-markers-popup"${id ? ` id="${id}"` : ""}>${content}</div>`;
+                return `<div class="leaflet-multi-markers-popup"${id ? ` id="${id}"` : ""}>${this.options.getStaticPopupContent(marker)}</div>`;
             };
         },
 
-        _fetchDynamicContentWrapper: function (marker, div) {
+        _fetchDynamicPopupContentWrapper: function (marker, div) {
             let content;
-            this.options.fetchDynamicContent(marker)
+            this.options.fetchDynamicPopupContent(marker)
                 .then((html) => {
                     content = html;
                 }).catch((err) => {

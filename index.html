@@ -17,8 +17,8 @@
     <script src="dist/leaflet-iconex.min.js"></script>
     <link rel="stylesheet" href="dist/leaflet-iconex.css" />
 
-    <!-- <script src="src/leaflet-multi-markers.js"></script> -->
-    <script src="dist/leaflet-multi-markers.min.js"></script>
+    <script src="src/leaflet-multi-markers.js"></script>
+    <!-- <script src="dist/leaflet-multi-markers.min.js"></script> -->
     <link rel="stylesheet" href="examples/demo.css" />
 
     <style>
@@ -140,7 +140,7 @@
                         });
                     },
                     onClick: (marker) => {
-                        console.log(marker);
+                        console.log("marker clicked", marker);
                     },
                 }).addTo(map);
             },

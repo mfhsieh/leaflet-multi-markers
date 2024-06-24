@@ -81,13 +81,10 @@
                 marker.bindPopup(() => {
                     const id = this._getRandomDivId();
                     const content = this.options.getStaticContent ? this._getStaticContentWrapper(id)(marker) : this._defaultContentWrapper(id);
-                    const timer = setInterval(() => {
+                    marker.once("popupopen", () => {
                         const div = document.getElementById(id);
-                        if (div) {
-                            clearInterval(timer);
-                            this._fetchDynamicContentWrapper(marker, div);
-                        }
-                    }, 1);
+                        if (div) this._fetchDynamicContentWrapper(marker, div);
+                    });
                     return content;
                 });
             }

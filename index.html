@@ -17,8 +17,8 @@
     <script src="dist/leaflet-iconex.min.js"></script>
     <link rel="stylesheet" href="dist/leaflet-iconex.css" />
 
-    <!-- <script src="src/leaflet-multi-markers.js"></script> -->
-    <script src="dist/leaflet-multi-markers.min.js"></script>
+    <script src="src/leaflet-multi-markers.js"></script>
+    <!-- <script src="dist/leaflet-multi-markers.min.js"></script> -->
     <link rel="stylesheet" href="examples/demo.css" />
 
     <style>
@@ -143,11 +143,11 @@
                         }
                     },
 
-                    // getStaticPopupContent: (marker) => {
+                    // getPopupContent: (marker) => {
                     //     return `<pre><code>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</code></pre>`;
                     // },
                     defaultPopupContent: `<div>Simulate "Data Fetching"</div><div style="display: flex; align-items: center; justify-content: center; height: 6rem"><div class="loader"></div></div>`,
-                    fetchDynamicPopupContent: (marker) => {
+                    fetchPopupContent: (marker) => {
                         return new Promise((resolve, reject) => {
                             setTimeout(() => {
                                 if (Math.random() < .75) resolve(`<pre>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</pre>`);

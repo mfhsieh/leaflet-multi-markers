@@ -45,8 +45,8 @@
 
             bindPopup: true,
             defaultPopupContent: "",
-            getStaticPopupContent: undefined,
-            fetchDynamicPopupContent: undefined,
+            getPopupContent: undefined,
+            fetchPopupContent: undefined,
 
             onClick: undefined,
         },
@@ -88,17 +88,17 @@
 
             if (this.options.onClick) marker.on("click", this.options.onClick);
 
-            if (this.options.bindPopup && (this.options.defaultPopupContent || this.options.getStaticPopupContent) && !this.options.fetchDynamicPopupContent) {
+            if (this.options.bindPopup && (this.options.defaultPopupContent || this.options.getPopupContent) && !this.options.fetchPopupContent) {
                 const id = undefined;
-                const content = this.options.getStaticPopupContent ? this._getStaticPopupContentWrapper(id) : this._defaultPopupContentWrapper(id);
+                const content = this.options.getPopupContent ? this._getPopupContentWrapper(id) : this._defaultPopupContentWrapper(id);
                 marker.bindPopup(content);
-            } else if (this.options.bindPopup && this.options.fetchDynamicPopupContent) {
+            } else if (this.options.bindPopup && this.options.fetchPopupContent) {
                 marker.bindPopup(() => {
                     const id = this._getRandomDivId();
-                    const content = this.options.getStaticPopupContent ? this._getStaticPopupContentWrapper(id)(marker) : this._defaultPopupContentWrapper(id);
+                    const content = this.options.getPopupContent ? this._getPopupContentWrapper(id)(marker) : this._defaultPopupContentWrapper(id);
                     marker.once("popupopen", () => {
                         const div = document.getElementById(id);
-                        if (div) this._fetchDynamicPopupContentWrapper(marker, div);
+                        if (div) this._fetchPopupContentWrapper(marker, div);
                     });
                     return content;
                 });
@@ -111,15 +111,15 @@
             return `<div class="leaflet-multi-markers-popup"${id ? ` id="${id}"` : ""}>${this.options.defaultPopupContent}</div>`;
         },
 
-        _getStaticPopupContentWrapper: function (id) {
+        _getPopupContentWrapper: function (id) {
             return (marker) => {
-                return `<div class="leaflet-multi-markers-popup"${id ? ` id="${id}"` : ""}>${this.options.getStaticPopupContent(marker)}</div>`;
+                return `<div class="leaflet-multi-markers-popup"${id ? ` id="${id}"` : ""}>${this.options.getPopupContent(marker)}</div>`;
             };
         },
 
-        _fetchDynamicPopupContentWrapper: function (marker, div) {
+        _fetchPopupContentWrapper: function (marker, div) {
             let content;
-            this.options.fetchDynamicPopupContent(marker)
+            this.options.fetchPopupContent(marker)
                 .then((html) => {
                     content = html;
                 }).catch((err) => {

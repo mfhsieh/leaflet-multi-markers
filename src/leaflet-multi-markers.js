@@ -38,10 +38,11 @@
                 "backgroundHtml", "backgroundHtmlSize", "backgroundHtmlAnchor", "backgroundFill", "backgroundOpacity",
                 "contentHtml", "contentHtmlSize", "contentHtmlAnchor", "contentColor", "contentFontSize"],
             iconExPredefined: undefined,
+            setIconExOptions: undefined,
+            bindPopup: true,
             defaultContent: "",
             getStaticContent: undefined,
             fetchDynamicContent: undefined,
-            bindPopup: true,
             onClick: undefined,
         },
 
@@ -55,18 +56,20 @@
         },
 
         addMarker(elem) {
-            let predefined = {};
+            let iconOptions = {};
             if (this.options.iconExPredefined) {
                 if ("default" in this.options.iconExPredefined)
-                    predefined = this.options.iconExPredefined["default"];
+                    iconOptions = this.options.iconExPredefined["default"];
                 if (elem.hasOwnProperty("iconExName") && elem.iconExName in this.options.iconExPredefined)
-                    predefined = { ...predefined, ...this.options.iconExPredefined[elem.iconExName] };
+                    iconOptions = { ...iconOptions, ...this.options.iconExPredefined[elem.iconExName] };
             }
 
-            const iconOptions = this.options.iconExFields.reduce((acc, key) => {
+            iconOptions = this.options.iconExFields.reduce((acc, key) => {
                 if (elem.hasOwnProperty(key) && elem[key]) acc[key] = elem[key];
                 return acc;
-            }, { ...predefined });
+            }, { ...iconOptions });
+
+            if (this.options.setIconExOptions) iconOptions = { ...iconOptions, ...this.options.setIconExOptions(elem) };
 
             const marker = new L.Marker([elem.lat, elem.lng], { icon: new L.IconEx(iconOptions) });
             marker.elem = elem;

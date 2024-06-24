@@ -127,6 +127,11 @@
                             contentColor: "#fff",
                         },
                     },
+                    setIconExOptions: (elem) => {
+                        if (!elem.hasOwnProperty("iconExName") || !elem.iconExName || ["default", "A", "B"].includes(elem.iconExName))
+                            return { contentColor: ["#a11", "#1a1", "#11a", "#aa1", "#1aa", "#a1a"][Math.floor(Math.random() * 6)] };
+                        return {};
+                    },
                     // getStaticContent: (marker) => {
                     //     return `<pre><code>timestamp: ${Date.now()}\nelem: ${JSON.stringify(marker.elem, null, "  ")}</code></pre>`;
                     // },

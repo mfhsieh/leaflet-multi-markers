@@ -59,34 +59,30 @@
         },
 
         addMarker(elem) {
-            let iconOptions = {};
+            let icOptions = {};
             if (this.options.iconExPredefined) {
                 if ("default" in this.options.iconExPredefined)
-                    iconOptions = { ...this.options.iconExPredefined["default"] };
+                    icOptions = { ...this.options.iconExPredefined["default"] };
                 if (elem.hasOwnProperty("iconExName") && elem.iconExName in this.options.iconExPredefined)
-                    iconOptions = { ...iconOptions, ...this.options.iconExPredefined[elem.iconExName] };
+                    icOptions = { ...icOptions, ...this.options.iconExPredefined[elem.iconExName] };
             }
 
-            iconOptions = this.options.iconExFields.reduce((acc, key) => {
+            icOptions = this.options.iconExFields.reduce((acc, key) => {
                 if (elem.hasOwnProperty(key) && elem[key]) acc[key] = elem[key];
                 return acc;
-            }, { ...iconOptions });
+            }, { ...icOptions });
 
             if (this.options.setIconExOptions)
-                iconOptions = { ...iconOptions, ...this.options.setIconExOptions(elem) };
+                icOptions = { ...icOptions, ...this.options.setIconExOptions(elem) };
 
-            let markerOptions = {};
-            if (this.options.markerOptions)
-                markerOptions = { ...this.options.markerOptions };
-            if (this.options.setMarkerOptions)
-                markerOptions = { ...markerOptions, ...this.options.setMarkerOptions(elem) };
+            let mkOptions = {};
+            if (this.options.markerOptions) mkOptions = { ...this.options.markerOptions };
+            if (this.options.setMarkerOptions) mkOptions = { ...mkOptions, ...this.options.setMarkerOptions(elem) };
 
-            markerOptions["icon"] = new L.IconEx(iconOptions);
+            mkOptions["icon"] = new L.IconEx(icOptions);
 
-            const marker = new L.Marker([elem.lat, elem.lng], markerOptions);
+            const marker = new L.Marker([elem.lat, elem.lng], mkOptions);
             marker.elem = elem;
-
-            if (this.options.onClick) marker.on("click", this.options.onClick);
 
             if (this.options.bindPopup && (this.options.defaultPopupContent || this.options.getPopupContent) && !this.options.fetchPopupContent) {
                 const id = undefined;
@@ -103,6 +99,8 @@
                     return content;
                 });
             }
+
+            if (this.options.onClick) marker.on("click", this.options.onClick);
 
             return L.LayerGroup.prototype.addLayer.call(this, marker);
         },

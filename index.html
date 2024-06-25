@@ -127,9 +127,9 @@
                         },
                     },
                     setIconExOptions: (elem) => {
-                        if (!elem.hasOwnProperty("iconExName") || !elem.iconExName || ["default", "A", "B"].includes(elem.iconExName))
-                            return { contentColor: ["#a11", "#1a1", "#11a", "#aa1", "#1aa", "#a1a"][Math.floor(Math.random() * 6)] };
-                        return {};
+                        if (elem.hasOwnProperty("iconExName") && ["C", "D"].includes(elem["iconExName"]))
+                            return {}
+                        return { contentColor: ["#a11", "#1a1", "#11a", "#aa1", "#1aa", "#a1a"][Math.floor(Math.random() * 6)] };
                     },
 
                     markerOptions: {

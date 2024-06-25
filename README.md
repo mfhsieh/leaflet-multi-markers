@@ -1,11 +1,9 @@
 Leaflet.MultiMarkers
 =
 
-A Leaflet plugin displaying a large number of highly customizable markers. Tested on desktop and mobile versions of Chrome, Edge, Firefox, and Safari.
+A Leaflet plugin for displaying a large number of highly customizable markers, such as those from a CSV file read using [Papa Parse](https://www.papaparse.com/). It can easily handle both overall and individual settings for markers, icons, and popups. Tested on desktop and mobile versions of Chrome, Edge, Firefox, and Safari.
 
-If there is a large amount of location data (e.g., from a CSV file read using [Papa Parse](https://www.papaparse.com/)), this plugin can easily handle both overall and individual settings for markers, icons, and popups.
-
-This plugin will use [Leaflet.IconEx](https://github.com/mfhsieh/leaflet-iconex) to display the markers' icon.
+This plugin will use [Leaflet.IconEx](https://github.com/mfhsieh/leaflet-iconex) to display marker icons.
 
 * Demo Page: [demo](https://mfhsieh.github.io/leaflet-multi-markers/) (code: [index.html](index.html), data: [example.csv](examples/example.csv))
 * Current Version: v0.9.0
@@ -13,7 +11,7 @@ This plugin will use [Leaflet.IconEx](https://github.com/mfhsieh/leaflet-iconex)
 
 # Usage
 
-Simply include the [JS1](dist/leaflet-iconex.min.js), [JS2](dist/leaflet-multi-markers.min.js) and [CSS](dist/leaflet-iconex.css).
+Simply include the [JS for Leaflet.IconEx](dist/leaflet-iconex.min.js), [JS for Leaflet.MultiMarkers](dist/leaflet-multi-markers.min.js) and [CSS for Leaflet.IconEx](dist/leaflet-iconex.css).
 
 ```html
 <head>
@@ -30,30 +28,28 @@ And add the markers to the map.
 ```js
 new L.MultiMarkers(data, {
     iconExPredefined: {
-        default: {
-            // default options for all icons
+        default: {  // default options for all icons
+            // ...
         },
-        name_A: {
-            // default options for icons of a specific "iconExName"
+        name_A: {  // default options for icons of a specific "iconExName"
+            // ...
         },
     },
-    setIconExOptions: (elem) => {
-        return something;  // set options for each icon
+    setIconExOptions: (elem) => {  // set options for each icon
+        return something;
     },
-    markerOptions: {
-        // default options for all markers
+    markerOptions: {  // default options for all markers
+        // ...
     },
-    setMarkerOptions: (elem) => {
-        return something;  // set options for each marker
+    setMarkerOptions: (elem) => {  // set options for each marker
+        return something;
     },
     defaultPopupContent: "some content",  // default content of the popup window
-    fetchPopupContent: (marker) => {
-        return new Promise((resolve, reject) => { 
-            // the fetched content (a promise) to be displayed in the popup window
-        });
+    fetchPopupContent: (marker) => {  // the fetched content (a promise) to be displayed in the popup window
+        return new Promise((resolve, reject) => { /* ... */ });
     },
-    onClick: (event) => {
-            // do something after the marker is clicked
+    onClick: (event) => {  // do something after the marker is clicked
+            // ...
     },
 }).addTo(map);
 

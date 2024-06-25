@@ -25,7 +25,7 @@ Simply include the [JS1](dist/leaflet-iconex.min.js), [JS2](dist/leaflet-multi-m
 </head>
 ```
 
-And add the control to the map.
+And add the markers to the map.
 
 ```js
 new L.MultiMarkers(data, {

@@ -126,6 +126,7 @@
                     div.outerHTML = `<div class="leaflet-multi-markers-popup">${content}</div>`;
                     marker.getPopup()._updateLayout();
                     marker.getPopup()._updatePosition();
+                    marker.getPopup()._adjustPan();
                 });
         },
 

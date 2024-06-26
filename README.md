@@ -3,7 +3,7 @@ Leaflet.MultiMarkers
 
 A Leaflet plugin for displaying a large number of highly customizable markers, such as those from a CSV file read using [Papa Parse](https://www.papaparse.com/). It can easily handle both overall and individual settings for icons, markers, and popups. Tested on desktop and mobile versions of Chrome, Edge, Firefox, and Safari.
 
-L.MultiMarkers inherits from [L.LayerGroup](https://leafletjs.com/reference.html#layergroup). And this plugin utilizes [Leaflet.IconEx](https://github.com/mfhsieh/leaflet-iconex) to display marker icons.
+L.MultiMarkers inherits from [L.LayerGroup](https://leafletjs.com/reference.html#layergroup). And this plugin utilizes [Leaflet.IconEx](https://github.com/mfhsieh/leaflet-iconex) to display icons.
 
 * Demo Page: [demo](https://mfhsieh.github.io/leaflet-multi-markers/) (code: [index.html](index.html), data: [example.csv](examples/example.csv))
 * Current Version: v1.0.0
@@ -60,12 +60,12 @@ The constructor of L.MultiMarkers requires two parameters: the first is a list o
 The example list of point data is as follows:
 ```js
 [{
-    lat: 25.0487  // latitude
-    lng: 121.51434  // longitude
-    iconExName: "A" // the name of the predefined L.IconEx
-    contentHtml: '<i class="fas fa-house-user"></i>' // the HTML of the content layer
-    contentColor: "#a11" // the HTML of the content color
-    ...
+    lat: 25.0487,  // latitude
+    lng: 121.51434,  // longitude
+    iconExName: "A", // the name of the predefined L.IconEx
+    contentHtml: '<i class="fas fa-house-user"></i>', // the HTML of the content layer
+    contentColor: "#a11", // the HTML of the content color
+    // ...
 },{
     // ...
 }]

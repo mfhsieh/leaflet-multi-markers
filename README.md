@@ -37,16 +37,16 @@ new L.MultiMarkers(data, {
         },
     },
     setIconExOptions: (elem) => {  // set options for each icon
-        return something;
+        return { /* ... */ };
     },
     markerOptions: {  // default options for all markers
         // ...
     },
     setMarkerOptions: (elem) => {  // set options for each marker
-        return something;
+        return { /* ... */ };
     },
     defaultPopupContent: "some content",  // default content of the popup window
-    fetchPopupContent: (marker) => {  // the fetched content (a promise) to be displayed in the popup window
+    fetchPopupContent: (marker) => {  // fetch the content of the popup window 
         return new Promise((resolve, reject) => { /* ... */ });
     },
     onClick: (event) => {  // do something after the marker is clicked
@@ -90,7 +90,7 @@ For more details, refer to this [demo](https://mfhsieh.github.io/leaflet-multi-m
 | bindPopup           | Boolean    | true                                                                            | whether the marker displays a popup window when clicked                                                                                                                                                                                                     |
 | defaultPopupContent | String     | ""                                                                              | the default content of the popup window                                                                                                                                                                                                                     |
 | getPopupContent     | Function   | undefined                                                                       | the callback function to get the content of the popup window for each marker. The function takes each individual marker as its parameter.                                                                                                                   |
-| fetchPopupContent   | Function   | undefined                                                                       | the callback function to fetch the content (a promise) of the popup window for each marker. The function takes each individual marker as its parameter. If you need to use an API or other asynchronous methods to obtain the content, you should use this. |
+| fetchPopupContent   | Function   | undefined                                                                       | the callback function to fetch the content of the popup window for each marker. The function takes each individual marker as its parameter, and returns a promise. If you need to use an API or other asynchronous methods to obtain the content, you should use this. |
 | onClick             | Function   | undefined                                                                       | the callback function when the marker is clicked                                                                                                                                                                                                            |
 
 

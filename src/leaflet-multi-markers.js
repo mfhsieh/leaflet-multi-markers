@@ -110,9 +110,7 @@
         },
 
         _getPopupContentWrapper: function (id) {
-            return (marker) => {
-                return `<div class="leaflet-multi-markers-popup"${id ? ` id="${id}"` : ""}>${this.options.getPopupContent(marker)}</div>`;
-            };
+            return (marker) => `<div class="leaflet-multi-markers-popup"${id ? ` id="${id}"` : ""}>${this.options.getPopupContent(marker)}</div>`;
         },
 
         _fetchPopupContentWrapper: function (marker, div) {
@@ -124,9 +122,10 @@
                     content = err;
                 }).finally(() => {
                     div.outerHTML = `<div class="leaflet-multi-markers-popup">${content}</div>`;
-                    marker.getPopup()._updateLayout();
-                    marker.getPopup()._updatePosition();
-                    marker.getPopup()._adjustPan();
+                    const popup = marker.getPopup();
+                    popup._updateLayout();
+                    popup._updatePosition();
+                    popup._adjustPan();
                 });
         },
 

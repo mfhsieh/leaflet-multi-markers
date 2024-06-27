@@ -1,12 +1,13 @@
 Leaflet.MultiMarkers
 =
 
-A Leaflet plugin for displaying a large number of highly customizable markers, such as those from a CSV file read using [Papa Parse](https://www.papaparse.com/). It can easily handle both overall and individual settings for icons, markers, and popups. Tested on desktop and mobile versions of Chrome, Edge, Firefox, and Safari.
+A [Leaflet](https://leafletjs.com/) plugin for displaying a large number of highly customizable markers, such as those from a CSV file read using [Papa Parse](https://www.papaparse.com/). It can easily handle both overall and individual settings for icons, markers, and popups.
 
 L.MultiMarkers inherits from [L.LayerGroup](https://leafletjs.com/reference.html#layergroup). And this plugin utilizes [Leaflet.IconEx](https://github.com/mfhsieh/leaflet-iconex) to display icons.
 
 * Demo Page: [demo](https://mfhsieh.github.io/leaflet-multi-markers/) (code: [index.html](index.html), data: [example.csv](examples/example.csv))
 * Current Version: v1.0.0
+* Tested on desktop and mobile versions of Chrome, Edge, Firefox, and Safari.
 
 
 # Usage
@@ -102,14 +103,3 @@ For more details, refer to this [demo](https://mfhsieh.github.io/leaflet-multi-m
 
 * email: mfhsieh at gmail.com
 * Github: [Github](https://github.com/mfhsieh/)
-
-
-
-
-
-
-
-
-
-
-

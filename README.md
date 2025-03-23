@@ -6,7 +6,7 @@ A [Leaflet](https://leafletjs.com/) plugin for displaying a large number of high
 L.MultiMarkers inherits from [L.LayerGroup](https://leafletjs.com/reference.html#layergroup). And this plugin utilizes [Leaflet.IconEx](https://github.com/mfhsieh/leaflet-iconex) to display icons.
 
 * Demo Page: [demo](https://mfhsieh.github.io/leaflet-multi-markers/) (code: [index.html](index.html), data: [example.csv](examples/example.csv))
-* Current Version: v1.0.0
+* Current Version: v1.0.1
 * Tested on desktop and mobile versions of Chrome, Edge, Firefox, and Safari.
 
 

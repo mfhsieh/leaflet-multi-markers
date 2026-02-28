@@ -33,20 +33,20 @@
     /**
      * @typedef {Object} MultiMarkersOptions
      * @description Configuration options for the MultiMarkers plugin.
-     * 
-     * @property {Array<string>} [iconExFields] - Fields from data object to be applied to IconEx.
-     * @property {Object} [iconExPredefined] - Predefined IconEx options indexed by 'iconExName'. The 'default' key represents default values for all markers.
-     * @property {Function} [setIconExOptions] - Optional callback function(elem) returning additional IconEx options.
-     * 
+     *
+     * @property {Array<string>} [iconExFields] - List of fields from data objects to be used as IconEx options.
+     * @property {Object} [iconExPredefined] - Predefined IconEx options indexed by 'iconExName'. The 'default' key provides default values for all markers.
+     * @property {Function} [setIconExOptions] - Optional callback function(elem) returning additional IconEx options for a specific data element.
+     *
      * @property {Object} [markerOptions] - Base options for L.Marker. See Leaflet reference.
-     * @property {Function} [setMarkerOptions] - Optional callback function(elem) returning additional Marker options.
-     * 
+     * @property {Function} [setMarkerOptions] - Optional callback function(elem) returning additional Marker options for a specific data element.
+     *
      * @property {boolean} [bindPopup=true] - Whether to automatically bind a popup to the marker.
      * @property {string} [defaultPopupContent=""] - Default HTML string used as popup content.
-     * @property {Function} [getPopupContent] - Optional callback function(marker) returning an HTML string for the popup content.
-     * @property {Function} [fetchPopupContent] - Optional async function(marker) returning a Promise that resolves to the popup content.
-     * 
-     * @property {Function} [onClick] - Click event handler for the marker.
+     * @property {Function} [getPopupContent] - Optional callback function(marker) returning an HTML string for the popup content. The marker instance has an 'elem' property containing the original data element.
+     * @property {Function} [fetchPopupContent] - Optional async function(marker) returning a Promise that resolves to the popup content. The marker instance has an 'elem' property containing the original data element.
+     *
+     * @property {Function} [onClick] - Click event handler for the marker. The event target is the marker instance which has an 'elem' property.
      */
 
     /**
@@ -80,7 +80,7 @@
         /**
          * @constructor
          * @description Initializes the MultiMarkers layer group.
-         * @param {Array<Object>} data - Array of data objects for markers.
+         * @param {Array<Object>} [data] - Array of data objects for markers.
          * @param {MultiMarkersOptions} [options] - Configuration options.
          */
         initialize(data, options) {
@@ -119,6 +119,7 @@
             mkOptions["icon"] = new L.IconEx(icOptions);
 
             const marker = new L.Marker([elem.lat, elem.lng], mkOptions);
+            /** @type {Object} elem - The original data element associated with this marker. */
             marker.elem = elem;
 
             if (this.options.bindPopup && (this.options.defaultPopupContent || this.options.getPopupContent) && !this.options.fetchPopupContent) {
@@ -164,7 +165,7 @@
         /**
          * @private
          * @description Fetches and sets the popup content asynchronously.
-         * @param {L.Marker} marker - The marker.
+         * @param {L.Marker} marker - The marker instance.
          * @param {HTMLElement} div - The div element for the popup content.
          */
         _fetchPopupContentWrapper: function (marker, div) {
@@ -197,7 +198,7 @@
      * @function multiMarkers
      * @memberof L
      * @description Creates a new MultiMarkers layer group.
-     * @param {Array<Object>} data - Array of data objects for markers.
+     * @param {Array<Object>} [data] - Array of data objects for markers.
      * @param {MultiMarkersOptions} [options] - Configuration options.
      * @returns {MultiMarkers} A new MultiMarkers layer group.
      */

@@ -99,16 +99,16 @@ Example data object:
 
 | Option | Type | Default | Description |
 | ---- | ---- | ---- | ---- |
-| iconExFields | String[] | (refer to code) | Fields from data object to be applied to `L.IconEx`. |
-| iconExPredefined | Object | undefined | Predefined `L.IconEx` options indexed by `iconExName`. The `"default"` key represents default values for all markers. |
-| setIconExOptions | Function | undefined | Optional callback function `(elem)` returning additional `L.IconEx` options. |
+| iconExFields | String[] | (refer to code) | List of fields from data objects to be used as `L.IconEx` options. |
+| iconExPredefined | Object | undefined | Predefined `L.IconEx` options indexed by `iconExName`. The `"default"` key provides default values for all markers. |
+| setIconExOptions | Function | undefined | Optional callback function `(elem)` returning additional `L.IconEx` options for a specific data element. |
 | markerOptions | Object | undefined | Base options for `L.Marker`. See [Leaflet reference](https://leafletjs.com/reference.html#marker). |
-| setMarkerOptions | Function | undefined | Optional callback function `(elem)` returning additional `L.Marker` options. |
+| setMarkerOptions | Function | undefined | Optional callback function `(elem)` returning additional `L.Marker` options for a specific data element. |
 | bindPopup | Boolean | true | Whether to automatically bind a popup to the marker. |
 | defaultPopupContent | String | "" | Default HTML string used as popup content. |
-| getPopupContent | Function | undefined | Optional callback function `(marker)` returning an HTML string for the popup content. |
-| fetchPopupContent | Function | undefined | Optional async function `(marker)` returning a `Promise` that resolves to the popup content. |
-| onClick | Function | undefined | Click event handler for the marker. |
+| getPopupContent | Function | undefined | Optional callback function `(marker)` returning an HTML string for the popup content. The marker instance has an `elem` property containing the original data element. |
+| fetchPopupContent | Function | undefined | Optional async function `(marker)` returning a `Promise` that resolves to the popup content. The marker instance has an `elem` property containing the original data element. |
+| onClick | Function | undefined | Click event handler for the marker. The event target is the marker instance which has an `elem` property. |
 
 ## Where
 

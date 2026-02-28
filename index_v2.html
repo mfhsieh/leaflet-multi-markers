@@ -84,7 +84,7 @@
         const papa = Papa.parse("https://mfhsieh.github.io/leaflet-multi-markers/examples/example.csv", {
             download: true, header: true, dynamicTyping: false, skipEmptyLines: true, delimiter: ",",
             complete: (results) => {
-                new L.MultiMarkers(results.data, {
+                new MultiMarkers(results.data, {
                     iconExPredefined: {
                         default: {
                             iconStrokeOpacity: .5,

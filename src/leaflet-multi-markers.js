@@ -1,7 +1,7 @@
 /*
- * Leaflet.MultiMarkers v1.0.1 - 2025-3-23
+ * Leaflet.MultiMarkers v1.0.2 - 2026-02-28
  *
- * Copyright 2024 mfhsieh
+ * Copyright 2026 mfhsieh
  * mfhsieh@gmail.com
  *
  * Licensed under the MIT license.
@@ -31,25 +31,32 @@
     "use strict";
 
     /**
+     * @typedef {Object} MultiMarkersOptions
+     * @description Configuration options for the MultiMarkers plugin.
+     * 
+     * @property {Array<string>} [iconExFields] - Fields from data object to be applied to IconEx.
+     * @property {Object} [iconExPredefined] - Predefined IconEx options indexed by 'iconExName'. The 'default' key represents default values for all markers.
+     * @property {Function} [setIconExOptions] - Optional callback function(elem) returning additional IconEx options.
+     * 
+     * @property {Object} [markerOptions] - Base options for L.Marker. See Leaflet reference.
+     * @property {Function} [setMarkerOptions] - Optional callback function(elem) returning additional Marker options.
+     * 
+     * @property {boolean} [bindPopup=true] - Whether to automatically bind a popup to the marker.
+     * @property {string} [defaultPopupContent=""] - Default HTML string used as popup content.
+     * @property {Function} [getPopupContent] - Optional callback function(marker) returning an HTML string for the popup content.
+     * @property {Function} [fetchPopupContent] - Optional async function(marker) returning a Promise that resolves to the popup content.
+     * 
+     * @property {Function} [onClick] - Click event handler for the marker.
+     */
+
+    /**
      * @class MultiMarkers
      * @extends L.LayerGroup
      * @classdesc A Leaflet layer group that creates multiple markers from an array of data.
-     * @param {Array<Object>} data - Array of data objects for markers.
-     * @param {Object} options - Options for the MultiMarkers layer group.
      */
     const MultiMarkers = L.LayerGroup.extend({
         /**
-         * @property {Object} options - Default options for the MultiMarkers layer group.
-         * @property {Array<string>} options.iconExFields - Array of fields to apply to IconEx options.
-         * @property {Object} options.iconExPredefined - Predefined IconEx options.
-         * @property {Function} options.setIconExOptions - Function to set IconEx options.
-         * @property {Object} options.markerOptions - Marker options.
-         * @property {Function} options.setMarkerOptions - Function to set marker options.
-         * @property {boolean} options.bindPopup - Whether to bind a popup to markers.
-         * @property {string} options.defaultPopupContent - Default popup content.
-         * @property {Function} options.getPopupContent - Function to get popup content.
-         * @property {Function} options.fetchPopupContent - Function to fetch popup content asynchronously.
-         * @property {Function} options.onClick - Click event handler for markers.
+         * @property {MultiMarkersOptions} options - MultiMarkers options.
          */
         options: {
             iconExFields: ["iconScale",
@@ -71,11 +78,10 @@
         },
 
         /**
-         * @function initialize
-         * @memberof MultiMarkers.prototype
+         * @constructor
          * @description Initializes the MultiMarkers layer group.
          * @param {Array<Object>} data - Array of data objects for markers.
-         * @param {Object} options - Options for the MultiMarkers layer group.
+         * @param {MultiMarkersOptions} [options] - Configuration options.
          */
         initialize(data, options) {
             L.Util.setOptions(this, options);
@@ -85,8 +91,6 @@
         },
 
         /**
-         * @function addMarker
-         * @memberof MultiMarkers.prototype
          * @description Adds a marker to the layer group from a data object.
          * @param {Object} elem - Data object for the marker.
          * @returns {L.LayerGroup} The layer group.
@@ -96,12 +100,12 @@
             if (this.options.iconExPredefined) {
                 if ("default" in this.options.iconExPredefined)
                     icOptions = { ...this.options.iconExPredefined["default"] };
-                if (elem.hasOwnProperty("iconExName") && elem.iconExName in this.options.iconExPredefined)
+                if (Object.prototype.hasOwnProperty.call(elem, "iconExName") && elem.iconExName in this.options.iconExPredefined)
                     icOptions = { ...icOptions, ...this.options.iconExPredefined[elem.iconExName] };
             }
 
             icOptions = this.options.iconExFields.reduce((acc, key) => {
-                if (elem.hasOwnProperty(key) && elem[key]) acc[key] = elem[key];
+                if (key in elem && elem[key] !== undefined && elem[key] !== null) acc[key] = elem[key];
                 return acc;
             }, { ...icOptions });
 
@@ -118,8 +122,7 @@
             marker.elem = elem;
 
             if (this.options.bindPopup && (this.options.defaultPopupContent || this.options.getPopupContent) && !this.options.fetchPopupContent) {
-                const id = undefined;
-                const content = this.options.getPopupContent ? this._getPopupContentWrapper(id) : this._defaultPopupContentWrapper(id);
+                const content = this.options.getPopupContent ? this._getPopupContentWrapper()(marker) : this._defaultPopupContentWrapper();
                 marker.bindPopup(content);
             } else if (this.options.bindPopup && this.options.fetchPopupContent) {
                 marker.bindPopup(() => {
@@ -139,8 +142,6 @@
         },
 
         /**
-         * @function _defaultPopupContentWrapper
-         * @memberof MultiMarkers.prototype
          * @private
          * @description Returns the default popup content.
          * @param {string} id - ID for the popup content div.
@@ -151,8 +152,6 @@
         },
 
         /**
-         * @function _getPopupContentWrapper
-         * @memberof MultiMarkers.prototype
          * @private
          * @description Returns the popup content generated by the getPopupContent function.
          * @param {string} id - ID for the popup content div.
@@ -163,8 +162,6 @@
         },
 
         /**
-         * @function _fetchPopupContentWrapper
-         * @memberof MultiMarkers.prototype
          * @private
          * @description Fetches and sets the popup content asynchronously.
          * @param {L.Marker} marker - The marker.
@@ -187,8 +184,6 @@
         },
 
         /**
-         * @function _getRandomDivId
-         * @memberof MultiMarkers.prototype
          * @private
          * @description Generates a random div ID.
          * @returns {string} A random div ID.
@@ -203,7 +198,7 @@
      * @memberof L
      * @description Creates a new MultiMarkers layer group.
      * @param {Array<Object>} data - Array of data objects for markers.
-     * @param {Object} options - Options for the MultiMarkers layer group.
+     * @param {MultiMarkersOptions} [options] - Configuration options.
      * @returns {MultiMarkers} A new MultiMarkers layer group.
      */
     L.multiMarkers = function (data, options) {
